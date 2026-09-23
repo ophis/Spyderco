@@ -45,13 +45,13 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 23 | <a href="images/C81/C81GPRD2.jpg"><img src="images/C81/C81GPRD2.jpg" width="160"></a> | C81GPRD2 | Nov. 2017 | M390 | Red G-10 | 🟦 DLT Trading excl. | 1000-1200 |  |
 | 24 | <a href="images/C81/C81GPDGY2.jpg"><img src="images/C81/C81GPDGY2.jpg" width="160"></a> | C81GPDGY2 | Nov. 2017- | Maxamet | Dark gray G-10 | Regular production |  |  |
 | 25 |  | C81CF52100PS2 | Dec. 2017 | 52100 | Peel Ply CF | 🟦 H.L. Dalis excl. |  |  |
-| 26 |  | C81GPGRBKP2 | Feb. 2018 | Black DLC coated CPM-S30V | Olive drab green G-10 | 🟦 JB Outman excl. |  |  |
+| 26 | <a href="images/C81/C81GPGRBKP2.jpg"><img src="images/C81/C81GPGRBKP2.jpg" width="160"></a> | C81GPGRBKP2 | Feb. 2018 | Black DLC coated CPM-S30V | Olive drab green G-10 | 🟦 JB Outman excl. |  |  |
 | 27 | <a href="images/C81/C81GM4BKP2.jpg"><img src="images/C81/C81GM4BKP2.jpg" width="160"></a> | C81GM4BKP2 | Mar. 27, 2018, 7PM MST | Black DLC coated CPM-M4 | Jade G-10 | 🟦 Blade HQ excl. | Limited (probably 2200-2400) |  |
 | 28 | <a href="images/C81/C81GPCW2.jpg"><img src="images/C81/C81GPCW2.jpg" width="160"></a> | C81GPCW2 | May 2018 | Cru-Wear | Smooth black G-10 | 🟦 KnifeCenter excl. |  |  |
 | 29 |  | C81GPBORE2 | July 2018 | CPM REX 45 | Burnt orange G-10 | 🟥 Sprint Run |  |  |
 | 30 | <a href="images/C81/C81GPTN2.jpg"><img src="images/C81/C81GPTN2.jpg" width="160"></a> | C81GPTN2 | Sept. 25, 2018, 11AM CST | CPM-20CV | Tan G-10 | 🟦 DLT Trading excl. | 900-1000 (1st batch) |  |
 | 31 |  | C81GPDGYS90V2 | Oct. 12, 2018 9AM MDT | CPM-S90V | Gray G-10 | 🟪 Limited | Just over 700 |  |
-| 32 |  | C81GPBNBK2 | Mar. 2019 | Black DLC coated CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
+| 32 | <a href="images/C81/C81GPBNBK2.jpg"><img src="images/C81/C81GPBNBK2.jpg" width="160"></a> | C81GPBNBK2 | Mar. 2019 | Black DLC coated CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
 | 33 | <a href="images/C81/C81GPTNBK2.jpg"><img src="images/C81/C81GPTNBK2.jpg" width="160"></a> | C81GPTNBK2 | May 29, 2019, 11AM CST | Black DLC coated CPM-20CV | Tan G-10 | 🟦 DLT Trading excl. | 800 |  |
 | 34 |  | C81GPBLBK2 | August 2019 | Black DLC coated M390 | Blue G-10 | 🟦 Bento Box Shop excl. |  |  |
 | 35 | <a href="images/C81/C81GPRGR2.jpg"><img src="images/C81/C81GPRGR2.jpg" width="160"></a> | C81GPRGR2 | Oct. 04, 2019 @ 9AM PST | Satin K390 | Ranger Green G-10 | 🟦 Bento Box Shop excl. |  |  |
@@ -62,18 +62,18 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 40 | <a href="images/C81/C81GPRDBK2.png"><img src="images/C81/C81GPRDBK2.png" width="160"></a> | C81GPRDBK2 | April 25, 2020 @ 3PM CST | Black DLC coated CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | 1200 |  |
 | 41 | <a href="images/C81/C81GPW2.webp"><img src="images/C81/C81GPW2.webp" width="160"></a> | C81GPW2 | May 2020 | Satin CPM-S30V | Black G-10 | 🟦 BladeOps excl. |  |  |
 | 42 | <a href="images/C81/C81GPWBK2.webp"><img src="images/C81/C81GPWBK2.webp" width="160"></a> | C81GPWBK2 | June 2020 | Black DLC coated CPM-S30V | Black G-10 | 🟦 BladeOps excl. |  |  |
-| 43 |  | C81CUP2 | June 2020 | Satin CPM REX 45 | Natural Copper | 🟦 Blade HQ excl. |  |  |
+| 43 | <a href="images/C81/C81CUP2.jpg"><img src="images/C81/C81CUP2.jpg" width="160"></a> | C81CUP2 | June 2020 | Satin CPM REX 45 | Natural Copper | 🟦 Blade HQ excl. |  |  |
 | 44 |  | C81GPTBK2 | July 2020 | Black DLC coated CPM-S30V, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
 | 45 | <a href="images/C81/C81GPPRBK2.webp"><img src="images/C81/C81GPPRBK2.webp" width="160"></a> | C81GPPRBK2 | Aug. 2020 | Black DLC Cru-Wear | Purple G-10 | 🟦 DLT Trading excl. |  |  |
 | 46 | <a href="images/C81/C81GPODFDE2.jpg"><img src="images/C81/C81GPODFDE2.jpg" width="160"></a> | C81GPODFDE2 | Aug. 2020 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. |  |  |
 | 47 |  | C81GPT2 | Dec. 2020 | Satin CPM-S30V | Black G-10 | 🟦 Blade HQ excl. |  |  |
 | 48 | <a href="images/C81/C81MPCW2.jpg"><img src="images/C81/C81MPCW2.jpg" width="160"></a> | C81MPCW2 | 2021 | Satin Cru-Wear | Brown canvas Micarta | Regular production |  | C81MCW2 (wiki) |
-| 49 |  | C81GM4PT2 | Jan. 2021 | Satin CPM-M4 | Natural G-10 | 🟦 Blade HQ excl. |  |  |
+| 49 | <a href="images/C81/C81GM4PT2.jpg"><img src="images/C81/C81GM4PT2.jpg" width="160"></a> | C81GM4PT2 | Jan. 2021 | Satin CPM-M4 | Natural G-10 | 🟦 Blade HQ excl. |  |  |
 | 50 |  | C81GM4PTBK2 | Jan. 2021 | Black DLC coated CPM-M4 | Natural G-10 | 🟦 Blade HQ excl. |  |  |
 | 51 |  | C81GWC2 | Feb. 2021 | CPM-S30V | Black G-10 | 🟦 Cutlery Shoppe excl. |  | C81GPWC2 |
 | 52 | <a href="images/C81/C81GPODBK2.jpg"><img src="images/C81/C81GPODBK2.jpg" width="160"></a> | C81GPODBK2 | March 2021 | Black DLC coated CPM-S90V | Olive Drab Green G-10 | 🟦 DLT Trading excl. |  |  |
 | 53 |  | C81GCOFL2 | June 2021 | Laser engraved CPM SPY27 | multi-colored G-10 | 🟥 Sprint Run |  | C81GPCOFL2 |
-| 54 | <a href="images/C81/C81GPNGRBK2.jpg"><img src="images/C81/C81GPNGRBK2.jpg" width="160"></a> | C81GPNGRBK2 | July 2021 | Black DLC coated CPM-20CV | Neon Green G-10 | 🟦 KnifeJoy excl. |  |  |
+| 54 | <a href="images/C81/C81GPNGRBK2.png"><img src="images/C81/C81GPNGRBK2.png" width="160"></a> | C81GPNGRBK2 | July 2021 | Black DLC coated CPM-20CV | Neon Green G-10 | 🟦 KnifeJoy excl. |  |  |
 | 55 |  | C81CFPBLBK2 | August 2021 | Black DLC coated CPM-M4 | Blue Carbon Fiber | 🟦 Smoky Mountain Knife Works excl. |  |  |
 | 56 |  | C81CUPBK2 | August 2021 | Black DLC coated CPM REX 45 | Natural Copper | 🟦 Blade HQ excl. |  |  |
 | 57 | <a href="images/C81/C81GPDGYLMX2.jpg"><img src="images/C81/C81GPDGYLMX2.jpg" width="160"></a> | C81GPDGYLMX2 | September 2021 | Elmax | Dark Gray G-10 | 🟦 BladeOps excl. |  |  |
