@@ -14,25 +14,25 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 4 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2000 | CPM-440V | Black G-10, bug on handle | 🟦 Spyderco Forum 2000 excl. | 500 |  |
 | 5 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2001-2003 | CPM-440V | Black G-10 | Regular production |  |  |
 | 6 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2004- | CPM-S30V | Black G-10 | Regular production |  | C36GPE (spyderco.com) |
-| 7 |  | C36GPS | 2004-2013 | CPM-S30V (CombinationEdge) | Black G-10 | Regular production |  |  |
+| 7 | <a href="images/C36/C36GPS.webp"><img src="images/C36/C36GPS.webp" width="160"></a> | C36GPS | 2004-2013 | CPM-S30V (CombinationEdge) | Black G-10 | Regular production |  |  |
 | 8 | <a href="images/C36/C36GPBK.jpg"><img src="images/C36/C36GPBK.jpg" width="160"></a> | C36GPBK | 2005- | CPM-S30V black coated | Black G-10 | Regular production |  | C36GBK (wiki) |
 | 9 |  | C36CFP | 2005 | CPM-S30V | Black CF | 🟪 Limited | 400 |  |
-| 10 |  | C36GPSBK | 2005-2013 | CPM-S30V black coated (CombinationEdge) | Black G-10 | Regular production |  |  |
-| 11 |  | C36CFBGP | 2006 | BG-42 | Black CF | 🟥 Sprint Run | 1500 |  |
-| 12 |  | C36FGD2P | 2007 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run | ? |  |
+| 10 | <a href="images/C36/C36GPSBK.jpg"><img src="images/C36/C36GPSBK.jpg" width="160"></a> | C36GPSBK | 2005-2013 | CPM-S30V black coated (CombinationEdge) | Black G-10 | Regular production |  |  |
+| 11 | <a href="images/C36/C36CFBGP.jpg"><img src="images/C36/C36CFBGP.jpg" width="160"></a> | C36CFBGP | 2006 | BG-42 | Black CF | 🟥 Sprint Run | 1500 |  |
+| 12 | <a href="images/C36/C36FGD2P.jpg"><img src="images/C36/C36FGD2P.jpg" width="160"></a> | C36FGD2P | 2007 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run | ? |  |
 | 13 |  | C36CF90VP | 2008 | CPM-S90V | Black CF | 🟥 Sprint Run | ca. 1000 |  |
 | 14 | <a href="images/C36/C36GPCMO.jpg"><img src="images/C36/C36GPCMO.jpg" width="160"></a> | C36GPCMO | 2009- | CPM-S30V | Digital Camo G-10 | Regular production |  |  |
 | 15 | <a href="images/C36/C36GPCMOBK.jpg"><img src="images/C36/C36GPCMOBK.jpg" width="160"></a> | C36GPCMOBK | 2009- | CPM-S30V black coated | Digital Camo G-10 | Regular production |  |  |
-| 16 |  | C36GPOR | 2009-2010 | CPM-S30V | Orange G-10 | 🟪 Limited |  |  |
+| 16 | <a href="images/C36/C36GPOR.webp"><img src="images/C36/C36GPOR.webp" width="160"></a> | C36GPOR | 2009-2010 | CPM-S30V | Orange G-10 | 🟪 Limited |  |  |
 | 17 | <a href="images/C36/C36GPLE.jpg"><img src="images/C36/C36GPLE.jpg" width="160"></a> | C36GPLE | Oct. 2009-2012 | CPM-S30V | Black G-10 | 🟪 Limited |  |  |
-| 18 |  | C36TIP | 2010-2017 | CPM-S30V | GAl4V Ti | Regular production |  |  |
-| 19 |  | C36GTIP | 2010 | CPM-M4 | Black G-10/Ti | 🟦 KnifeWorks excl. | 500 |  |
-| 20 |  | C36TIF | 2011-2017 | CPM-S30V | Fluted Ti | 🟪 Limited |  |  |
-| 21 |  | C36GBNXHP | summer 2011 | CTS-XHP | Brown G-10 | 🟥 Sprint Run | 1000 |  |
-| 22 |  | C36CFM390P | 2012 | M390 | Peel Ply Carbon Fiber | 🟦 KnifeWorks excl. | 800 |  |
-| 23 |  | C36GPBL | July 2013 | CPM-S90V | "Smurf" Blue G-10 | 🟦 Bento Box Shop excl. | ? |  |
+| 18 | <a href="images/C36/C36TIP.jpg"><img src="images/C36/C36TIP.jpg" width="160"></a> | C36TIP | 2010-2017 | CPM-S30V | GAl4V Ti | Regular production |  |  |
+| 19 | <a href="images/C36/C36GTIP.jpg"><img src="images/C36/C36GTIP.jpg" width="160"></a> | C36GTIP | 2010 | CPM-M4 | Black G-10/Ti | 🟦 KnifeWorks excl. | 500 |  |
+| 20 | <a href="images/C36/C36TIFP.jpg"><img src="images/C36/C36TIFP.jpg" width="160"></a> | C36TIFP | 2011-2017 | CPM-S30V | Fluted Ti | 🟪 Limited |  | C36TIF (wiki) |
+| 21 | <a href="images/C36/C36GBNXHP.jpg"><img src="images/C36/C36GBNXHP.jpg" width="160"></a> | C36GBNXHP | summer 2011 | CTS-XHP | Brown G-10 | 🟥 Sprint Run | 1000 |  |
+| 22 | <a href="images/C36/C36CFM390P.webp"><img src="images/C36/C36CFM390P.webp" width="160"></a> | C36CFM390P | 2012 | M390 | Peel Ply Carbon Fiber | 🟦 KnifeWorks excl. | 800 |  |
+| 23 | <a href="images/C36/C36GPBL.webp"><img src="images/C36/C36GPBL.webp" width="160"></a> | C36GPBL | July 2013 | CPM-S90V | "Smurf" Blue G-10 | 🟦 Bento Box Shop excl. | ? |  |
 | 24 | <a href="images/C36/C36GPGY.jpg"><img src="images/C36/C36GPGY.jpg" width="160"></a> | C36GPGY | Oct. 2013 | Cru-Wear | Grey G-10 | 🟥 Sprint Run | 1200 |  |
-| 25 |  | C36GGRP | May 2016 | CTS-204P | Dark Green G-10 | 🟦 KnifeWorks excl. | 1200 |  |
+| 25 | <a href="images/C36/C36GGRP.jpg"><img src="images/C36/C36GGRP.jpg" width="160"></a> | C36GGRP | May 2016 | CTS-204P | Dark Green G-10 | 🟦 KnifeWorks excl. | 1200 |  |
 | 26 | <a href="images/C36/C36CFP52100.jpg"><img src="images/C36/C36CFP52100.jpg" width="160"></a> | C36CFP52100 | June 2016 | 52100 | Black CF | 🟥 Sprint Run | 1000 |  |
 | 27 | <a href="images/C36/C36GPDBL.jpg"><img src="images/C36/C36GPDBL.jpg" width="160"></a> | C36GPDBL | Aug. 2016- | CPM-S110V | Dark Blue G-10 | Regular production |  |  |
 | 28 | <a href="images/C36/C36GM4P.jpg"><img src="images/C36/C36GM4P.jpg" width="160"></a> | C36GM4P | Apr. 2017 | Satin CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |

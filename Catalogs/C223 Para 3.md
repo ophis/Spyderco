@@ -33,7 +33,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 23 | <a href="images/C223/C223GPBNBK.jpg"><img src="images/C223/C223GPBNBK.jpg" width="160"></a> | C223GPBNBK | Apr. 2019 | Black DLC coated CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
 | 24 | <a href="images/C223/C223GPRD.webp"><img src="images/C223/C223GPRD.webp" width="160"></a> | C223GPRD | Aug. 2019 | M390 | Red G-10 | 🟪 Exclusive |  |  |
 | 25 | <a href="images/C223/C223GPRGR.jpg"><img src="images/C223/C223GPRGR.jpg" width="160"></a> | C223GPRGR | Nov. 1, 2019 @ 1pm PST | K390 | Ranger Green G-10 | 🟦 Bento Box Shop excl. |  |  |
-| 26 |  | C223GPOROD | Mar. 15, 2020 @ 12pm MDT | Satin CPM REX 45 | Orange and olive drab green G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
+| 26 | <a href="images/C223/C223GPOROD.jpg"><img src="images/C223/C223GPOROD.jpg" width="160"></a> | C223GPOROD | Mar. 15, 2020 @ 12pm MDT | Satin CPM REX 45 | Orange and olive drab green G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
 | 27 | <a href="images/C223/C223GPORBL.jpg"><img src="images/C223/C223GPORBL.jpg" width="160"></a> | C223GPORBL | Mar. 29, 2020 | Satin CPM REX 45 | Orange and blue G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
 | 28 | <a href="images/C223/C223GPGR.jpg"><img src="images/C223/C223GPGR.jpg" width="160"></a> | C223GPGR | Apr. 2020 | CTS-204P | Forest Green G-10 | 🟦 KnifeWorks excl. |  |  |
 | 29 | <a href="images/C223/C223GPFGR.jpg"><img src="images/C223/C223GPFGR.jpg" width="160"></a> | C223GPFGR | Jul. 2020 | CPM S45VN | Forest Green "diamond arc pattern" G-10 | 🟥 Sprint Run |  |  |

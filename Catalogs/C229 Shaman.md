@@ -17,7 +17,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 7 | <a href="images/C229/C229GPRDBK.png"><img src="images/C229/C229GPRDBK.png" width="160"></a> | C229GPRDBK | Sept. 19, 2019 @ 7 PM CST | Black DLC coated CPM-4V | Red, contoured G-10 | 🟦 St. Nick's Knives excl. | ~450 | C229GRDBK (wiki) |
 | 8 | <a href="images/C229/C229MCW.jpg"><img src="images/C229/C229MCW.jpg" width="160"></a> | C229MCW | Oct. 2019 | Cru-Wear | Brown, contoured canvas Micarta | 🟥 Sprint Run | 1200 |  |
 | 9 | <a href="images/C229/C229RWDP.jpg"><img src="images/C229/C229RWDP.jpg" width="160"></a> | C229RWDP | Jan. 2020 | CPM REX 45 | Contoured rosewood Dymondwood | 🟦 KnifeCenter excl. |  |  |
-| 10 |  | C229GPFGBK | Feb. 01, 2020 @ 11 AM EST | DLC Cru-Wear | Forest green, smooth contoured G-10 | 🟦 The Knife Joker excl. | ~435 | C229GFGBK (wiki) |
+| 10 | <a href="images/C229/C229GPFGBK.jpg"><img src="images/C229/C229GPFGBK.jpg" width="160"></a> | C229GPFGBK | Feb. 01, 2020 @ 11 AM EST | DLC Cru-Wear | Forest green, smooth contoured G-10 | 🟦 The Knife Joker excl. | ~435 | C229GFGBK (wiki) |
 | 11 | <a href="images/C229/C229GM4PBK.jpg"><img src="images/C229/C229GM4PBK.jpg" width="160"></a> | C229GM4PBK | Feb. 11, 2020 @ 10 AM MST | Black DLC CPM-M4 | Jade/Natural, contoured G-10 | 🟦 Blade HQ excl. |  |  |
 | 12 | <a href="images/C229/C229GPBORE.jpg"><img src="images/C229/C229GPBORE.jpg" width="160"></a> | C229GPBORE | June 2020 | CPM REX 45 | Burnt-orange contoured G-10 | 🟥 Sprint Run | 1200 |  |
 | 13 | <a href="images/C229/C229BMBNP.jpg"><img src="images/C229/C229BMBNP.jpg" width="160"></a> | C229BMBNP | 2021 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
