@@ -26,7 +26,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 4 | <a href="images/C81/C81GPCMO2.jpg"><img src="images/C81/C81GPCMO2.jpg" width="160"></a> | C81GPCMO2 | 2011- | CPM-S30V | Digital Camo G-10 | Regular production |  | C81GCMO2 (wiki) |
 | 5 | <a href="images/C81/C81GPCMOBK2.jpg"><img src="images/C81/C81GPCMOBK2.jpg" width="160"></a> | C81GPCMOBK2 | 2011- | CPM-S30V black DLC | Digital Camo G-10 | Regular production |  | C81GCMOBK2 (wiki) |
 | 6 | <a href="images/C81/C81GGY20CP2.jpg"><img src="images/C81/C81GGY20CP2.jpg" width="160"></a> | C81GGY20CP2 | 2011 | CTS-20CP | Gray G-10 | 🟥 Sprint Run | ? |  |
-| 7 | <a href="images/C81/C81GBLM3902.webp"><img src="images/C81/C81GBLM3902.webp" width="160"></a> | C81GBLM3902 | Jan. 2012 | M390 | Blue G-10 | 🟦 Bento Box Shop excl. | 800 (1st run) |  |
+| 7 | <a href="images/C81/C81GBLM3902.webp"><img src="images/C81/C81GBLM3902.webp" width="160"></a> <a href="images/C81/C81GBLM3902_2.jpg"><img src="images/C81/C81GBLM3902_2.jpg" width="160"></a> | C81GBLM3902 | Jan. 2012 | M390 | Blue G-10 | 🟦 Bento Box Shop excl. | 800 (1st run) |  |
 | 8 | <a href="images/C81/C81GPBN2.jpg"><img src="images/C81/C81GPBN2.jpg" width="160"></a> | C81GPBN2 | Mar. 2012 | CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
 | 9 |  | C81GPOR2 | 2012 Apr. | CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. | 800 |  |
 | 10 |  | C81GPGR2 | June 2013 | CTS-204P | Dark Green G-10 | 🟦 Blue Ridge Knives excl. | 1200 |  |
