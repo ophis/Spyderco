@@ -2,9 +2,6 @@
 
 Sources: Spydiewiki [C81 Para-Military](https://www.spydiewiki.com/index.php?title=C81_Para-Military) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
-Forum discussions: [Review](http://www.spyderco.com/forums/showthread.php?t=11805) · [Discussion](http://www.spyderco.com/forums/showthread.php?t=35763) · [here](http://www.spyderco.com/forums/showthread.php?t=29722) · [here](http://www.spyderco.com/forums/showthread.php?t=34143) · [this thread on the Spyderco.com forums](https://forum.spyderco.com/viewtopic.php?t=98009)
-
-
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
 
 ## Para-Military (7)

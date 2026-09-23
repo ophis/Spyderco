@@ -2,8 +2,6 @@
 
 Sources: Spydiewiki [C101 Manix](https://www.spydiewiki.com/index.php?title=C101_Manix) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
-Forum discussions: [Mini Manix Review](http://www.spyderco.com/forums/showthread.php?t=19819) · [New model announcement](http://www.spyderco.com/forums/showthread.php?t=39433) · [CTS-B75 sprint replaced with CTS-BD30 steel](http://forum.spyderco.com/viewtopic.php?f=9&t=50218)
-
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
 
 ## Manix 2 (53)

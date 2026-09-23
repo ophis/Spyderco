@@ -2,8 +2,6 @@
 
 Sources: Spydiewiki [C36 Military](https://www.spydiewiki.com/index.php?title=C36_Military) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
-Forum discussions: [thread](http://forum.spyderco.com/viewtopic.php?f=2&t=786) · [thread](http://forum.spyderco.com/viewtopic.php?f=2&t=4623) · [thread](http://forum.spyderco.com/viewtopic.php?f=2&t=1599) · [Notes on GITD in the Spyderco forums by Sal](http://forum.spyderco.com/viewtopic.php?p=491667#p491667) · [thread](http://forum.spyderco.com/viewtopic.php?f=2&t=31618)
-
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
 
 ## Military (34)

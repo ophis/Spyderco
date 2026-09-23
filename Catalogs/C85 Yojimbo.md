@@ -2,8 +2,6 @@
 
 Sources: Spydiewiki [C85 Yojimbo](https://www.spydiewiki.com/index.php?title=C85_Yojimbo) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
-Forum discussions: [Information](http://www.spyderco.com/forums/showthread.php?t=2141) · [Yojimbo Review](http://www.spyderco.com/forums/showthread.php?t=18589) · [Yojimbo... discontinued? Why?](http://www.spyderco.com/forums/showthread.php?t=30013)
-
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
 
 ## Yojimbo (2)
