@@ -4,6 +4,7 @@ Reference lists of every known variant of selected Spyderco folders: regular pro
 
 ## Model lists
 
+<!-- families:start -->
 | Model | File | Variants |
 |---|---|---|
 | C81 Para-Military / ParaMilitary 2 / PM2 Lightweight | [C81 Para-Military](Catalogs/C81%20Para-Military.md) | 106 |
@@ -13,6 +14,7 @@ Reference lists of every known variant of selected Spyderco folders: regular pro
 | C36 Military / Military 2 | [C36 Military](Catalogs/C36%20Military.md) | 53 |
 | C85 Yojimbo / Yojimbo 2 | [C85 Yojimbo](Catalogs/C85%20Yojimbo.md) | 17 |
 | C240 Smock | [C240 Smock](Catalogs/C240%20Smock.md) | 11 |
+<!-- families:end -->
 
 Type column: 🟥 Sprint Run · 🟦 dealer/distributor exclusive · 🟪 other limited/exclusive · no mark = regular production.
 
@@ -29,6 +31,6 @@ Type column: 🟥 Sprint Run · 🟦 dealer/distributor exclusive · 🟪 other 
 
 Model numbers follow spyderco.com or retailer spelling where the wiki differs; the wiki spelling is kept in the Alt SKU column.
 
-Review checklist for new and existing lists: [REVIEW.md](REVIEW.md).
+Review checklist for new and existing lists: [REVIEW.md](REVIEW.md). Building or updating a family: [tools/README.md](tools/README.md); AI agents follow the [spyderco-catalog skill](.claude/skills/spyderco-catalog/SKILL.md).
 
 The annual Spyderco Product Guides (2010–2026) were collected in `Catalogs/` but are not tracked in git because of their size.

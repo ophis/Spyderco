@@ -1,0 +1,97 @@
+The '''C99 Testmodel''' is a fixture page for the update workflow tests.
+
+==Variations==
+
+===Variations of the Testmodel===
+
+{|{{Articletable}}
+{{Tableheading}}'''[[SKU]]'''
+{{Tableheading}}'''[[Handle]]'''
+{{Tableheading}}'''[[Edge|Edge(s)]]'''
+{{Tableheading}}'''[[Steel]]'''
+{{Tableheading}}'''[[From/To]]'''
+{{Tableheading}}'''[[MSRP]]'''
+{{Tableheading}}'''[[Note]]'''
+{{Tableheading}}'''[[Number made]]'''
+|-
+|valign="top" |C99GP
+|valign="top" |Black [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S30V]]
+|valign="top" |2010-
+|valign="top" |$200.00 (2010)
+|valign="top" |
+|valign="top" |Regular production
+|-
+|valign="top" |C99GPBK
+|valign="top" |Black [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC [[CPM-S30V]]
+|valign="top" |2014-2026
+|valign="top" |$220.00 (2014)
+|valign="top" |
+|valign="top" |Regular production
+|-
+|valign="top" |C99GPRD
+|valign="top" |Red [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S45VN]]
+|valign="top" |March 2016
+|valign="top" |
+|valign="top" |Limited run.
+|valign="top" |Limited
+|-
+|valign="top" |C99GPOR (C99GOR)
+|valign="top" |Orange [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-REX45]]
+|valign="top" |June 2018
+|valign="top" |
+|valign="top" |[[Blade HQ]] Dealer Exclusive
+|valign="top" |Limited
+|-
+|valign="top" |C99GPCF
+|valign="top" |[[Carbon fiber]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S90V]]
+|valign="top" |2019
+|valign="top" |
+|valign="top" |Pilot run
+|valign="top" |250
+|-
+|valign="top" |C99GPCF
+|valign="top" |[[Carbon fiber]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S90V]]
+|valign="top" |2019-2021
+|valign="top" |
+|valign="top" |
+|valign="top" |Regular production
+|-
+|valign="top" |C99GPSR
+|valign="top" |Blue [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-SPY27]]
+|valign="top" |Nov. 2020
+|valign="top" |
+|valign="top" |Sprint Run
+|valign="top" |1200
+|-
+|valign="top" |C99GPDUP
+|valign="top" |Black [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S30V]]
+|valign="top" |2021-
+|valign="top" |
+|valign="top" |
+|valign="top" |Regular production
+|-
+|valign="top" |C99PBK
+|valign="top" |Black [[FRN]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S30V]]
+|valign="top" |2012-
+|valign="top" |$120.00 (2012)
+|valign="top" |
+|valign="top" |Regular production
+|}

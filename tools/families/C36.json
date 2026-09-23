@@ -1,0 +1,1508 @@
+{
+ "id": "C36",
+ "file": "C36 Military",
+ "title": "C36 Military — Military & Military 2",
+ "wiki_page": "C36_Military",
+ "readme_label": "C36 Military / Military 2",
+ "trailing_newline": true,
+ "sections": [
+  "Military",
+  "Military 2"
+ ],
+ "section_rules": [
+  {
+   "section": "Military 2",
+   "field": "wiki_table",
+   "regex": "^Variations of the Military 2$"
+  }
+ ],
+ "aliases": {
+  "C36CF90": "C36CF90VP",
+  "C36GPBNXHP": "C36GBNXHP",
+  "C36GPE": "C36G",
+  "C36GPGR": "C36GGRP",
+  "C36GPSE": "C36GPS",
+  "C36TIF": "C36TIFP"
+ },
+ "ignore": [
+  "wiki|C36GMCBK2|2025#2"
+ ],
+ "rows": [
+  {
+   "sku": "C36G",
+   "section": "Military",
+   "released": "1996-1999",
+   "steel": "ATS-34",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36G|1996",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36G",
+    "handle": "Black G-10",
+    "edge": "PE SE",
+    "steel": "ATS-34",
+    "from_to": "1996-1999",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36G",
+    "section": "Military",
+    "released": "1996-1999",
+    "steel": "ATS-34",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GBK",
+   "section": "Military",
+   "released": "1996-1997?",
+   "steel": "ATS-34 black coated",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GBK|1996",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GBK",
+    "handle": "Black G-10",
+    "edge": "PE SE",
+    "steel": "ATS-34 black coated",
+    "from_to": "1996-1997?",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GBK",
+    "section": "Military",
+    "released": "1996-1997?",
+    "steel": "ATS-34 black coated",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36G",
+   "section": "Military",
+   "released": "1996-2001",
+   "steel": "CPM-440V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36G|1996#2",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36G",
+    "handle": "Black G-10",
+    "edge": "PE SE",
+    "steel": "CPM-440V",
+    "from_to": "1996-2001",
+    "note": "1996-2001; \"MILITARY\" & place of production on blade; 1998: many improvements done, incl. a slightly curved, strengthened clip with 3 mounting screws",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36G",
+    "section": "Military",
+    "released": "1996-2001",
+    "steel": "CPM-440V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36G",
+   "section": "Military",
+   "released": "2000",
+   "steel": "CPM-440V",
+   "handle": "Black G-10, bug on handle",
+   "type": "Spyderco Forum 2000 excl.",
+   "qty": "500",
+   "alt": "",
+   "src": "wiki|C36G|2000",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36G (Forum 2000)",
+    "handle": "Black G-10, bug on handle",
+    "edge": "PE",
+    "steel": "CPM-440V",
+    "from_to": "2000",
+    "note": "\"MILITARY\" & \"Spyderco Forum 2000\" on blade and a MOP Bug inlay in the handle. See Forum knives for a complete listing.",
+    "number_made": "500"
+   },
+   "auto": {
+    "sku": "C36G",
+    "section": "Military",
+    "released": "2000",
+    "steel": "CPM-440V",
+    "handle": "Black G-10, bug on handle",
+    "type": "Limited",
+    "qty": "500"
+   }
+  },
+  {
+   "sku": "C36G",
+   "section": "Military",
+   "released": "2001-2003",
+   "steel": "CPM-440V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36G|2001",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36G",
+    "handle": "Black G-10",
+    "edge": "PE PS SE",
+    "steel": "CPM-440V",
+    "from_to": "2001-2003",
+    "note": "\"MILITARY\" on blade, place of production on Ricasso",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36G",
+    "section": "Military",
+    "released": "2001-2003",
+    "steel": "CPM-440V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36G",
+   "section": "Military",
+   "released": "2004-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GPE (spyderco.com)",
+   "src": "wiki|C36G|2004",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36G",
+    "handle": "Black G-10",
+    "edge": "PE PS SE",
+    "steel": "CPM-S30V",
+    "from_to": "2004-",
+    "note": "2004-only: \"MILITARY\" on blade. PS discontinued in 2013.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36G",
+    "section": "Military",
+    "released": "2004-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPS",
+   "section": "Military",
+   "released": "2004-2013",
+   "steel": "CPM-S30V (CombinationEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "manual|C36GPS"
+  },
+  {
+   "sku": "C36GPBK",
+   "section": "Military",
+   "released": "2005-",
+   "steel": "CPM-S30V black coated",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GBK (wiki)",
+   "src": "wiki|C36GBK|2005",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GBK",
+    "handle": "Black G-10",
+    "edge": "PE PS",
+    "steel": "CPM-S30V black coated",
+    "from_to": "2005-",
+    "note": "PS discontinued in 2013.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GBK",
+    "section": "Military",
+    "released": "2005-",
+    "steel": "CPM-S30V black coated",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36CFP",
+   "section": "Military",
+   "released": "2005",
+   "steel": "CPM-S30V",
+   "handle": "Black CF",
+   "type": "Limited",
+   "qty": "400",
+   "alt": "",
+   "src": "wiki|C36CFP|2005",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CFP",
+    "handle": "Black CF",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2005",
+    "note": "Limited",
+    "number_made": "400"
+   },
+   "auto": {
+    "sku": "C36CFP",
+    "section": "Military",
+    "released": "2005",
+    "steel": "CPM-S30V",
+    "handle": "Black CF",
+    "type": "Limited",
+    "qty": "400"
+   }
+  },
+  {
+   "sku": "C36GPSBK",
+   "section": "Military",
+   "released": "2005-2013",
+   "steel": "CPM-S30V black coated (CombinationEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "manual|C36GPSBK"
+  },
+  {
+   "sku": "C36CFBGP",
+   "section": "Military",
+   "released": "2006",
+   "steel": "BG-42",
+   "handle": "Black CF",
+   "type": "Sprint Run",
+   "qty": "1500",
+   "alt": "",
+   "src": "wiki|C36CFBGP|2006",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CFBGP",
+    "handle": "Black CF",
+    "edge": "PE",
+    "steel": "BG-42",
+    "from_to": "2006",
+    "note": "Sprintrun",
+    "number_made": "1500"
+   },
+   "auto": {
+    "sku": "C36CFBGP",
+    "section": "Military",
+    "released": "2006",
+    "steel": "BG-42",
+    "handle": "Black CF",
+    "type": "Sprint Run",
+    "qty": "1500"
+   }
+  },
+  {
+   "sku": "C36FGD2P",
+   "section": "Military",
+   "released": "2007",
+   "steel": "CPM-D2",
+   "handle": "Foliage Green G-10",
+   "type": "Sprint Run",
+   "qty": "?",
+   "alt": "",
+   "src": "wiki|C36FGD2P|2007",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36FGD2P",
+    "handle": "Foliage Green G-10",
+    "edge": "PE",
+    "steel": "CPM-D2",
+    "from_to": "2007",
+    "note": "Sprintrun",
+    "number_made": "?"
+   },
+   "auto": {
+    "sku": "C36FGD2P",
+    "section": "Military",
+    "released": "2007",
+    "steel": "CPM-D2",
+    "handle": "Foliage Green G-10",
+    "type": "Sprint Run",
+    "qty": "?"
+   }
+  },
+  {
+   "sku": "C36CF90VP",
+   "section": "Military",
+   "released": "2008",
+   "steel": "CPM-S90V",
+   "handle": "Black CF",
+   "type": "Sprint Run",
+   "qty": "ca. 1000",
+   "alt": "",
+   "src": "wiki|C36CF90VP|2008",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CF90VP",
+    "handle": "Black CF",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2008",
+    "note": "Sprintrun",
+    "number_made": "ca. 1000"
+   },
+   "auto": {
+    "sku": "C36CF90VP",
+    "section": "Military",
+    "released": "2008",
+    "steel": "CPM-S90V",
+    "handle": "Black CF",
+    "type": "Sprint Run",
+    "qty": "ca. 1000"
+   }
+  },
+  {
+   "sku": "C36GPCMO",
+   "section": "Military",
+   "released": "2009-",
+   "steel": "CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPCMO|2009",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPCMO",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2009-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GPCMO",
+    "section": "Military",
+    "released": "2009-",
+    "steel": "CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPCMOBK",
+   "section": "Military",
+   "released": "2009-",
+   "steel": "CPM-S30V black coated",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPCMOBK|2009",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPCMOBK",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V black coated",
+    "from_to": "2009-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GPCMOBK",
+    "section": "Military",
+    "released": "2009-",
+    "steel": "CPM-S30V black coated",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPOR",
+   "section": "Military",
+   "released": "2009-2010",
+   "steel": "CPM-S30V",
+   "handle": "Orange G-10",
+   "type": "Limited",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPOR|2009",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPOR",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2009-2010",
+    "note": "Limited. Originally slated as a sprintrun, it proved so popular that Spyderco turned it into a production piece, causing some controversy between the collectors who bought the sprint for exclusivity and those that were able to acquire one at reasonable prices due to the expanded quantity produced.",
+    "number_made": ""
+   },
+   "auto": {
+    "sku": "C36GPOR",
+    "section": "Military",
+    "released": "2009-2010",
+    "steel": "CPM-S30V",
+    "handle": "Orange G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPLE",
+   "section": "Military",
+   "released": "Oct. 2009-2012",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Limited",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPLE|2009",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPLE",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Oct. 2009-2012 / Aug. 2017-",
+    "note": "Left handed",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GPLE",
+    "section": "Military",
+    "released": "Oct. 2009-2012",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36TIP",
+   "section": "Military",
+   "released": "2010-2017",
+   "steel": "CPM-S30V",
+   "handle": "GAl4V Ti",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36TIP|2010",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36TIP",
+    "handle": "GAl4V Ti",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2010-2017",
+    "note": "Reeve Integral Lock",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36TIP",
+    "section": "Military",
+    "released": "2010-2017",
+    "steel": "CPM-S30V",
+    "handle": "GAl4V Ti",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GTIP",
+   "section": "Military",
+   "released": "2010",
+   "steel": "CPM-M4",
+   "handle": "Black G-10/Ti",
+   "type": "KnifeWorks excl.",
+   "qty": "500",
+   "alt": "",
+   "src": "wiki|C36GTIP|2010",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GTIP",
+    "handle": "Black G-10/Ti",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "2010",
+    "note": "Reeve Integral Lock, Knifeworks Exclusive",
+    "number_made": "500"
+   },
+   "auto": {
+    "sku": "C36GTIP",
+    "section": "Military",
+    "released": "2010",
+    "steel": "CPM-M4",
+    "handle": "Black G-10/Ti",
+    "type": "KnifeWorks excl.",
+    "qty": "500"
+   }
+  },
+  {
+   "sku": "C36TIFP",
+   "section": "Military",
+   "released": "2011-2017",
+   "steel": "CPM-S30V",
+   "handle": "Fluted Ti",
+   "type": "Limited",
+   "qty": "",
+   "alt": "C36TIF (wiki)",
+   "src": "wiki|C36TIF|2011",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36TIF",
+    "handle": "Fluted Ti",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2011-2017",
+    "note": "Reeve Integral Lock, first run (less than 200) do not have steel lock bar insert. Originally heat-anodized by a torch that produced a multi-colored finish that included blue, purple, bronze and grey variations (often all within the same knife), but was prone to warping scales. Switched to an electrical anodizing sometime in 2012 that produces a consistent, even blue. Around mid-2013, Spyderco announced that due to difficulties in the coloring process, they would be dropping the coloring process altogether and that the knife would now have a natural titanium finish. These first started shipping Oct. 2013.",
+    "number_made": "Limited production"
+   },
+   "auto": {
+    "sku": "C36TIF",
+    "section": "Military",
+    "released": "2011-2017",
+    "steel": "CPM-S30V",
+    "handle": "Fluted Ti",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GBNXHP",
+   "section": "Military",
+   "released": "summer 2011",
+   "steel": "CTS-XHP",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "1000",
+   "alt": "",
+   "src": "wiki|C36GBNXHP|2011",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GBNXHP",
+    "handle": "Brown G-10",
+    "edge": "PE",
+    "steel": "CTS-XHP",
+    "from_to": "summer 2011",
+    "note": "Sprintrun",
+    "number_made": "1000"
+   },
+   "auto": {
+    "sku": "C36GBNXHP",
+    "section": "Military",
+    "released": "summer 2011",
+    "steel": "CTS-XHP",
+    "handle": "Brown G-10",
+    "type": "Sprint Run",
+    "qty": "1000"
+   }
+  },
+  {
+   "sku": "C36CFM390P",
+   "section": "Military",
+   "released": "2012",
+   "steel": "M390",
+   "handle": "Peel Ply Carbon Fiber",
+   "type": "KnifeWorks excl.",
+   "qty": "800",
+   "alt": "",
+   "src": "wiki|C36CFM390P|2012",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CFM390P",
+    "handle": "Peel Ply Carbon Fiber",
+    "edge": "PE",
+    "steel": "M390",
+    "from_to": "2012",
+    "note": "Knifeworks.com Exclusive",
+    "number_made": "800"
+   },
+   "auto": {
+    "sku": "C36CFM390P",
+    "section": "Military",
+    "released": "2012",
+    "steel": "M390",
+    "handle": "Peel Ply Carbon Fiber",
+    "type": "KnifeWorks excl.",
+    "qty": "800"
+   }
+  },
+  {
+   "sku": "C36GPBL",
+   "section": "Military",
+   "released": "July 2013",
+   "steel": "CPM-S90V",
+   "handle": "\"Smurf\" Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "?",
+   "alt": "",
+   "src": "wiki|C36GPBL|2013",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPBL",
+    "handle": "\"Smurf\" Blue G-10",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "July 2013",
+    "note": "Bento Box Shop Exclusive. CQI introduces a stepped pivot on this model with torx head on both sides.Military gets a stepped pivot.[http://www.bladeforums.com/forums/showthread.php/1108330-Stepped-pivot-on-the-Military]",
+    "number_made": "?"
+   },
+   "auto": {
+    "sku": "C36GPBL",
+    "section": "Military",
+    "released": "July 2013",
+    "steel": "CPM-S90V",
+    "handle": "\"Smurf\" Blue G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": "?"
+   }
+  },
+  {
+   "sku": "C36GPGY",
+   "section": "Military",
+   "released": "Oct. 2013",
+   "steel": "Cru-Wear",
+   "handle": "Grey G-10",
+   "type": "Sprint Run",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C36GPGY|2013",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPGY",
+    "handle": "Grey G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "Oct. 2013",
+    "note": "Sprintrun",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C36GPGY",
+    "section": "Military",
+    "released": "Oct. 2013",
+    "steel": "Cru-Wear",
+    "handle": "Grey G-10",
+    "type": "Sprint Run",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C36GGRP",
+   "section": "Military",
+   "released": "May 2016",
+   "steel": "CTS-204P",
+   "handle": "Dark Green G-10",
+   "type": "KnifeWorks excl.",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C36GGRP|2016",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GGRP",
+    "handle": "Dark Green G-10",
+    "edge": "PE",
+    "steel": "CTS-204P",
+    "from_to": "May 2016",
+    "note": "Knifeworks dealer Exclusive. Many CQI inprovements: larger torx head, larger lanyard hole, stepped stop pin (no longer w/ screws), torx on both sides of pivot (as first seen on the BBS \"Smurf\" sprint), updated clip (rounded tip replaces squared off tip), and two standoffs replace the solid backspacer.",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C36GGRP",
+    "section": "Military",
+    "released": "May 2016",
+    "steel": "CTS-204P",
+    "handle": "Dark Green G-10",
+    "type": "KnifeWorks excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C36CFP52100",
+   "section": "Military",
+   "released": "June 2016",
+   "steel": "52100",
+   "handle": "Black CF",
+   "type": "Sprint Run",
+   "qty": "1000",
+   "alt": "",
+   "src": "wiki|C36CFP52100|2016",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CFP52100",
+    "handle": "Black CF",
+    "edge": "PE",
+    "steel": "52100",
+    "from_to": "June 2016",
+    "note": "Sprintrun. Includes all the CQI improvements first seen on the Knifeworks CTS-204P sprint.",
+    "number_made": "1000"
+   },
+   "auto": {
+    "sku": "C36CFP52100",
+    "section": "Military",
+    "released": "June 2016",
+    "steel": "52100",
+    "handle": "Black CF",
+    "type": "Sprint Run",
+    "qty": "1000"
+   }
+  },
+  {
+   "sku": "C36GPDBL",
+   "section": "Military",
+   "released": "Aug. 2016-",
+   "steel": "CPM-S110V",
+   "handle": "Dark Blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPDBL|2016",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPDBL",
+    "handle": "Dark Blue G-10",
+    "edge": "PE",
+    "steel": "CPM-S110V",
+    "from_to": "Aug. 2016-",
+    "note": "Includes all the CQI improvements first seen on the Knifeworks CTS-204P sprint.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GPDBL",
+    "section": "Military",
+    "released": "Aug. 2016-",
+    "steel": "CPM-S110V",
+    "handle": "Dark Blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GM4P",
+   "section": "Military",
+   "released": "Apr. 2017",
+   "steel": "Satin CPM-M4",
+   "handle": "Jade green G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GM4P|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GM4P",
+    "handle": "Jade green G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-M4",
+    "from_to": "Apr. 2017",
+    "note": "BladeHQ dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GM4P",
+    "section": "Military",
+    "released": "Apr. 2017",
+    "steel": "Satin CPM-M4",
+    "handle": "Jade green G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36CFTIP",
+   "section": "Military",
+   "released": "May 2017",
+   "steel": "CPM-S90V",
+   "handle": "Black Peel Ply CF/Ti",
+   "type": "KnifeWorks excl.",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C36CFTIP|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36CFTIP",
+    "handle": "Black Peel Ply CF/Ti",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "May 2017",
+    "note": "Knifeworks dealer Exclusive. Uses Reeve Integral Lock.",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C36CFTIP",
+    "section": "Military",
+    "released": "May 2017",
+    "steel": "CPM-S90V",
+    "handle": "Black Peel Ply CF/Ti",
+    "type": "KnifeWorks excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C36GPBORE",
+   "section": "Military",
+   "released": "Nov. 2018",
+   "steel": "CPM REX 45",
+   "handle": "Burnt orange G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPBORE|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPBORE",
+    "handle": "Burnt orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "Nov. 2018",
+    "note": "Sprintrun",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GPBORE",
+    "section": "Military",
+    "released": "Nov. 2018",
+    "steel": "CPM REX 45",
+    "handle": "Burnt orange G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GM4PBK",
+   "section": "Military",
+   "released": "Feb. 5 2019",
+   "steel": "Black coated CPM-M4",
+   "handle": "Jade green G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GM4PBK|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GM4PBK",
+    "handle": "Jade green G-10",
+    "edge": "PE",
+    "steel": "Black coated CPM-M4",
+    "from_to": "Feb. 5 2019",
+    "note": "BladeHQ dealer Exclusive. Black hardware (screws and lanyard tube), except for the standoffs, which are satin.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GM4PBK",
+    "section": "Military",
+    "released": "Feb. 5 2019",
+    "steel": "Black coated CPM-M4",
+    "handle": "Jade green G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPRD4VBK",
+   "section": "Military",
+   "released": "Mar. 2023",
+   "steel": "Black DLC-coated CPM-4V",
+   "handle": "Red G-10",
+   "type": "St. Nick's Knives excl.",
+   "qty": "ca. 600",
+   "alt": "",
+   "src": "wiki|C36GPRD4VBK|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPRD4VBK",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-4V",
+    "from_to": "Mar. 2023",
+    "note": "St. Nick's dealer exclusive.",
+    "number_made": "ca. 600"
+   },
+   "auto": {
+    "sku": "C36GPRD4VBK",
+    "section": "Military",
+    "released": "Mar. 2023",
+    "steel": "Black DLC-coated CPM-4V",
+    "handle": "Red G-10",
+    "type": "St. Nick's Knives excl.",
+    "qty": "ca. 600"
+   }
+  },
+  {
+   "sku": "C36GPODFDE",
+   "section": "Military",
+   "released": "2026",
+   "steel": "Flat dark earth PVD-coated CTS-204P",
+   "handle": "Olive drab green G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPODFDE|2026",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GPODFDE",
+    "handle": "Olive drab green G-10",
+    "edge": "PE",
+    "steel": "Flat dark earth PVD-coated CTS-204P",
+    "from_to": "2026",
+    "note": "River's Edge Cutlery (REC) dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GPODFDE",
+    "section": "Military",
+    "released": "2026",
+    "steel": "Flat dark earth PVD-coated CTS-204P",
+    "handle": "Olive drab green G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GBK",
+   "section": "Military",
+   "released": "late 90s?",
+   "steel": "CPM-440V black coated",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GBK|?",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C36GBK",
+    "handle": "Black G-10",
+    "edge": "PE? SE?",
+    "steel": "CPM-440V black coated",
+    "from_to": "late 90s?",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GBK",
+    "section": "Military",
+    "released": "late 90s?",
+    "steel": "CPM-440V black coated",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPBK2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Black DLC-coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GBK2 (wiki)",
+   "src": "wiki|C36GBK2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GBK2",
+    "handle": "Black G-10",
+    "edge": "PE, PS, SE",
+    "steel": "Black DLC-coated CPM-S30V",
+    "from_to": "2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GBK2",
+    "section": "Military 2",
+    "released": "2023-",
+    "steel": "Black DLC-coated CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPCMOBK2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Black DLC-coated CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GCMOBK2 (wiki)",
+   "src": "wiki|C36GCMOBK2|2023#2",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GCMOBK2",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-S30V",
+    "from_to": "2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GCMOBK2",
+    "section": "Military 2",
+    "released": "2023-",
+    "steel": "Black DLC-coated CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPDBL2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Black DLC-coated CPM-S110V",
+   "handle": "Dark blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GDBL2 (wiki)",
+   "src": "wiki|C36GDBL2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GDBL2",
+    "handle": "Dark blue G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-S110V",
+    "from_to": "2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GDBL2",
+    "section": "Military 2",
+    "released": "2023-",
+    "steel": "Black DLC-coated CPM-S110V",
+    "handle": "Dark blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36MPCW2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Cru-Wear",
+   "handle": "Brown canvas Micarta",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36MCW2 (wiki)",
+   "src": "wiki|C36MCW2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36MCW2",
+    "handle": "Brown canvas Micarta",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36MCW2",
+    "section": "Military 2",
+    "released": "2023-",
+    "steel": "Cru-Wear",
+    "handle": "Brown canvas Micarta",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36CFP2",
+   "section": "Military 2",
+   "released": "2023",
+   "steel": "CPM-S90V",
+   "handle": "Carbon Fiber",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C36CF2 (wiki)",
+   "src": "wiki|C36CF2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36CF2",
+    "handle": "Carbon Fiber",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2023",
+    "note": "Sprint Run",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36CF2",
+    "section": "Military 2",
+    "released": "2023",
+    "steel": "CPM-S90V",
+    "handle": "Carbon Fiber",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPS2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "CPM-S30V (CombinationEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C36GPS2"
+  },
+  {
+   "sku": "C36GPSBK2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Black DLC-coated CPM-S30V (CombinationEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C36GPSBK2"
+  },
+  {
+   "sku": "C36GS2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "CPM-S30V (SpyderEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C36GS2"
+  },
+  {
+   "sku": "C36GSBK2",
+   "section": "Military 2",
+   "released": "2023-",
+   "steel": "Black DLC-coated CPM-S30V (SpyderEdge)",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C36GSBK2"
+  },
+  {
+   "sku": "C36GP2",
+   "section": "Military 2",
+   "released": "Jul. 2023-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36G2 (wiki)",
+   "src": "wiki|C36G2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36G2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Jul. 2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36G2",
+    "section": "Military 2",
+    "released": "Jul. 2023-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPCMO2",
+   "section": "Military 2",
+   "released": "Oct. 2023-",
+   "steel": "CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GCMO2 (wiki)",
+   "src": "wiki|C36GCMO2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GCMO2",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Oct. 2023-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GCMO2",
+    "section": "Military 2",
+    "released": "Oct. 2023-",
+    "steel": "CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPCMOBK2",
+   "section": "Military 2",
+   "released": "Nov. 17, 2023",
+   "steel": "Black DLC-coated CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Factory Seconds Sale",
+   "qty": "6",
+   "alt": "C36GCMOBK2 (wiki)",
+   "src": "wiki|C36GCMOBK2|2023",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GCMOBK2",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-S30V",
+    "from_to": "Nov. 17, 2023",
+    "note": "For the 2023 Factory Seconds Sale, the first 6 people in line were gifted SFO customized knives with Sal and Eric's signatures hand engraved on the presentation side of the blade, and 2023 Spyderco Factory Seconds Sale engraved on the back side of the blade.",
+    "number_made": "6"
+   },
+   "auto": {
+    "sku": "C36GCMOBK2",
+    "section": "Military 2",
+    "released": "Nov. 17, 2023",
+    "steel": "Black DLC-coated CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Limited",
+    "qty": "6"
+   }
+  },
+  {
+   "sku": "C36GPCBL2",
+   "section": "Military 2",
+   "released": "2024-",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GCBL2 (wiki)",
+   "src": "wiki|C36GCBL2|2024",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GCBL2",
+    "handle": "Cobalt blue G-10",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "2024-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GCBL2",
+    "section": "Military 2",
+    "released": "2024-",
+    "steel": "CPM SPY27",
+    "handle": "Cobalt blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPBN15V2",
+   "section": "Military 2",
+   "released": "Jan. 2025",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C36GBN15V2 (wiki)",
+   "src": "wiki|C36GBN15V2|2025",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GBN15V2",
+    "handle": "Brown G-10",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "Jan. 2025",
+    "note": "Sprint Run",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GBN15V2",
+    "section": "Military 2",
+    "released": "Jan. 2025",
+    "steel": "CPM 15V",
+    "handle": "Brown G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GMCBKP2",
+   "section": "Military 2",
+   "released": "March 2025 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C36GMCBK2 (wiki)",
+   "src": "wiki|C36GMCBK2|2025",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GMCBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "March 2025 -",
+    "note": "Part of Spyderco's Salt series of knives",
+    "number_made": ""
+   },
+   "auto": {
+    "sku": "C36GMCBK2",
+    "section": "Military 2",
+    "released": "March 2025 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPORBK2",
+   "section": "Military 2",
+   "released": "March 2025",
+   "steel": "Black DLC-coated CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPORBK2|2025",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GPORBK2",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CTS-XHP",
+    "from_to": "March 2025",
+    "note": "Cutlery Shoppe Exclusive",
+    "number_made": ""
+   },
+   "auto": {
+    "sku": "C36GPORBK2",
+    "section": "Military 2",
+    "released": "March 2025",
+    "steel": "Black DLC-coated CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPLE2",
+   "section": "Military 2",
+   "released": "2026 -",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPLE2|2026",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GPLE2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2026 -",
+    "note": "A left-handed variation of the Military 2, featuring a left-handed Compression Lock.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GPLE2",
+    "section": "Military 2",
+    "released": "2026 -",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GPFG2",
+   "section": "Military 2",
+   "released": "2026",
+   "steel": "CTS-204P",
+   "handle": "Forest Green G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GPFG2|2026",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GPFG2",
+    "handle": "Forest Green G-10",
+    "edge": "PE",
+    "steel": "CTS-204P",
+    "from_to": "2026",
+    "note": "Blade HQ dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C36GPFG2",
+    "section": "Military 2",
+    "released": "2026",
+    "steel": "CTS-204P",
+    "handle": "Forest Green G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C36GBKYLMCP2",
+   "section": "Military 2",
+   "released": "Feb. 2026 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow and black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C36GBKYLMCP2|2026",
+   "src_raw": {
+    "table": "Variations of the Military 2",
+    "sku": "C36GBKYLMCP2",
+    "handle": "Yellow and black G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "Feb. 2026 -",
+    "note": "Part of Spyderco's Salt series of knives",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C36GBKYLMCP2",
+    "section": "Military 2",
+    "released": "Feb. 2026 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Yellow and black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  }
+ ]
+}

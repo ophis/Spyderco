@@ -1,0 +1,14 @@
+{
+ "id": "ZTEST",
+ "file": "ZTEST Widget",
+ "title": "ZTEST Widget — Widget & Widget Lightweight",
+ "wiki_page": "ZTEST_Widget",
+ "readme_label": "ZTEST Widget",
+ "sections": ["Widget", "Widget Lightweight"],
+ "trailing_newline": true,
+ "rows": [
+  {"sku": "ZTESTGP", "section": "Widget", "released": "2020-", "steel": "CPM-S30V", "handle": "Black G-10", "type": "Regular production", "qty": "", "alt": "", "src": "manual|ZTESTGP"},
+  {"sku": "ZTESTGPLW", "section": "Widget Lightweight", "released": "2021", "steel": "CPM-20CV", "handle": "Blue FRN", "type": "Sprint Run", "qty": "500", "alt": "ZTLW (wiki)", "src": "manual|ZTESTGPLW"},
+  {"sku": "ZTESTGP2", "section": "Widget", "released": "Mar. 2022", "steel": "M390", "handle": "Red G-10", "type": "Blade HQ excl.", "qty": "", "alt": "", "src": "manual|ZTESTGP2"}
+ ]
+}

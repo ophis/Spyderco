@@ -1,0 +1,536 @@
+{
+ "id": "C85",
+ "file": "C85 Yojimbo",
+ "title": "C85 Yojimbo — Yojimbo & Yojimbo 2",
+ "wiki_page": "C85_Yojimbo",
+ "readme_label": "C85 Yojimbo / Yojimbo 2",
+ "trailing_newline": true,
+ "sections": [
+  "Yojimbo",
+  "Yojimbo 2"
+ ],
+ "section_rules": [
+  {
+   "section": "Yojimbo 2",
+   "field": "sku",
+   "regex": "2$"
+  }
+ ],
+ "aliases": {
+  "C85GPBK": "C85GBK",
+  "C85GPBL": "C85GBL"
+ },
+ "ignore": [],
+ "rows": [
+  {
+   "sku": "C85GBK",
+   "section": "Yojimbo",
+   "released": "2004-2006",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GBK|2004",
+   "src_raw": {
+    "table": "Yojimbo",
+    "sku": "C85GBK",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2004-2006",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C85GBK",
+    "section": "Yojimbo",
+    "released": "2004-2006",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GBL",
+   "section": "Yojimbo",
+   "released": "2004-2006",
+   "steel": "CPM-S30V",
+   "handle": "Blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GBL|2004",
+   "src_raw": {
+    "table": "Yojimbo",
+    "sku": "C85GBL",
+    "handle": "Blue G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2004-2006",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C85GBL",
+    "section": "Yojimbo",
+    "released": "2004-2006",
+    "steel": "CPM-S30V",
+    "handle": "Blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GP2",
+   "section": "Yojimbo 2",
+   "released": "late 2011-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GP2|2011",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GP2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "late 2011-",
+    "note": "Yojimbo 2",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C85GP2",
+    "section": "Yojimbo 2",
+    "released": "late 2011-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85CFP2",
+   "section": "Yojimbo 2",
+   "released": "July 2014",
+   "steel": "CPM-S90V",
+   "handle": "Black peel ply CF",
+   "type": "KnifeWorks excl.",
+   "qty": "800 (with option for additional 400)",
+   "alt": "",
+   "src": "wiki|C85CFP2|2014",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85CFP2",
+    "handle": "Black peel ply CF",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "July 2014",
+    "note": "KnifeWorks Exclusive Yojimbo 2",
+    "number_made": "800 (with option for additional 400)"
+   },
+   "auto": {
+    "sku": "C85CFP2",
+    "section": "Yojimbo 2",
+    "released": "July 2014",
+    "steel": "CPM-S90V",
+    "handle": "Black peel ply CF",
+    "type": "KnifeWorks excl.",
+    "qty": "800 (with option for additional 400)"
+   }
+  },
+  {
+   "sku": "C85GPBNBK2",
+   "section": "Yojimbo 2",
+   "released": "Aug. 2017",
+   "steel": "Black DLC coated CPM-S90V",
+   "handle": "Coyote brown G-10",
+   "type": "JB Outman excl.",
+   "qty": "1200?",
+   "alt": "",
+   "src": "wiki|C85GPBNBK2|2017",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPBNBK2",
+    "handle": "Coyote brown G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S90V",
+    "from_to": "Aug. 2017",
+    "note": "JB Outman distributor Exclusive, Black DLC coated pivot, screws, and clip. Non coated liners and standoffs.",
+    "number_made": "1200?"
+   },
+   "auto": {
+    "sku": "C85GPBNBK2",
+    "section": "Yojimbo 2",
+    "released": "Aug. 2017",
+    "steel": "Black DLC coated CPM-S90V",
+    "handle": "Coyote brown G-10",
+    "type": "JB Outman excl.",
+    "qty": "1200?"
+   }
+  },
+  {
+   "sku": "C85TR2",
+   "section": "Yojimbo 2",
+   "released": "Sept. 2017-",
+   "steel": "CTS-BD1",
+   "handle": "Red G-10 (trainer)",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85TR2|2017",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85TR2",
+    "handle": "Red G-10",
+    "edge": "Unsharpened PE",
+    "steel": "CTS-BD1",
+    "from_to": "Sept. 2017-",
+    "note": "Skeletonized trainer blade for similar weight distribution as a live blade, has rounded tip.",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C85TR2",
+    "section": "Yojimbo 2",
+    "released": "Sept. 2017-",
+    "steel": "CTS-BD1",
+    "handle": "Red G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85CF20CVP2",
+   "section": "Yojimbo 2",
+   "released": "Apr. 2018",
+   "steel": "CPM-20CV",
+   "handle": "Smooth matte black CF",
+   "type": "JB Outman excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85CF20CVP2|2018",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85CF20CVP2",
+    "handle": "Smooth matte black CF",
+    "edge": "PE",
+    "steel": "CPM-20CV",
+    "from_to": "Apr. 2018",
+    "note": "JB Outman distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85CF20CVP2",
+    "section": "Yojimbo 2",
+    "released": "Apr. 2018",
+    "steel": "CPM-20CV",
+    "handle": "Smooth matte black CF",
+    "type": "JB Outman excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GM4P2",
+   "section": "Yojimbo 2",
+   "released": "Oct. 02-Oct. 04, 2018",
+   "steel": "CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GM4P2|2018",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GM4P2",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "Oct. 02-Oct. 04, 2018",
+    "note": "Blade HQ dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GM4P2",
+    "section": "Yojimbo 2",
+    "released": "Oct. 02-Oct. 04, 2018",
+    "steel": "CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GM4PBK2",
+   "section": "Yojimbo 2",
+   "released": "Apr. 12, 2019 @ 10AM MST",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GM4PBK2|2019",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GM4PBK2",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "Apr. 12, 2019 @ 10AM MST",
+    "note": "Blade HQ dealer Exclusive. Black screws, satin liners. Sold out in approximately 40 minutes.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GM4PBK2",
+    "section": "Yojimbo 2",
+    "released": "Apr. 12, 2019 @ 10AM MST",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPBBK2",
+   "section": "Yojimbo 2",
+   "released": "Feb. 2020-",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GPBBK2|2020",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPBBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V",
+    "from_to": "Feb. 2020-",
+    "note": "All black hardware: screws, standoffs, and liners.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C85GPBBK2",
+    "section": "Yojimbo 2",
+    "released": "Feb. 2020-",
+    "steel": "Black DLC coated CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPTN2",
+   "section": "Yojimbo 2",
+   "released": "March 2021",
+   "steel": "CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GPTN2|2021",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPTN2",
+    "handle": "Tan G-10",
+    "edge": "PE",
+    "steel": "CPM-20CV",
+    "from_to": "March 2021",
+    "note": "DLT Trading dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GPTN2",
+    "section": "Yojimbo 2",
+    "released": "March 2021",
+    "steel": "CPM-20CV",
+    "handle": "Tan G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPTNBK2",
+   "section": "Yojimbo 2",
+   "released": "October 2021",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "C85GPTNBLK2 (wiki)",
+   "src": "wiki|C85GPTNBLK2|2021",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPTNBLK2",
+    "handle": "Tan G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-20CV",
+    "from_to": "October 2021",
+    "note": "DLT Trading dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GPTNBLK2",
+    "section": "Yojimbo 2",
+    "released": "October 2021",
+    "steel": "Black DLC coated CPM-20CV",
+    "handle": "Tan G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPCW2",
+   "section": "Yojimbo 2",
+   "released": "August 2022",
+   "steel": "Cru-Wear",
+   "handle": "Smooth Black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GPCW2|2022",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPCW2",
+    "handle": "Smooth Black G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "August 2022",
+    "note": "Knifecenter Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GPCW2",
+    "section": "Yojimbo 2",
+    "released": "August 2022",
+    "steel": "Cru-Wear",
+    "handle": "Smooth Black G-10",
+    "type": "KnifeCenter excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPPRBK2",
+   "section": "Yojimbo 2",
+   "released": "Jan 2023",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C85GPPRBK2|2023",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPPRBK2",
+    "handle": "Purple G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated Cru-Wear",
+    "from_to": "Jan 2023",
+    "note": "DLT Trading dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C85GPPRBK2",
+    "section": "Yojimbo 2",
+    "released": "Jan 2023",
+    "steel": "Black DLC coated Cru-Wear",
+    "handle": "Purple G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPBN15V2",
+   "section": "Yojimbo 2",
+   "released": "2024 -",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C85GBN15V2 (wiki)",
+   "src": "wiki|C85GBN15V2|2024",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GBN15V2",
+    "handle": "Brown G-10",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "2024 -",
+    "note": "",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C85GBN15V2",
+    "section": "Yojimbo 2",
+    "released": "2024 -",
+    "steel": "CPM 15V",
+    "handle": "Brown G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPCBL2",
+   "section": "Yojimbo 2",
+   "released": "2025 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C85GPCBL (wiki)",
+   "src": "wiki|C85GPCBL|2025",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPCBL",
+    "handle": "Cobalt blue G-10",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "2025 -",
+    "note": "CPM SPY27 is a proprietary US-made steel that is exclusive to Spyderco",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C85GPCBL",
+    "section": "Yojimbo",
+    "released": "2025 -",
+    "steel": "CPM SPY27",
+    "handle": "Cobalt blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C85GPNBKP2",
+   "section": "Yojimbo 2",
+   "released": "Nov. 2025 -",
+   "steel": "Black DLC-coated CPM-S30V",
+   "handle": "Pink G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C85GPNBK2 (wiki)",
+   "src": "wiki|C85GPNBK2|2025",
+   "src_raw": {
+    "table": "Yojimbo 2",
+    "sku": "C85GPNBK2",
+    "handle": "Pink G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-S30V",
+    "from_to": "Nov. 2025 -",
+    "note": "",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C85GPNBK2",
+    "section": "Yojimbo 2",
+    "released": "Nov. 2025 -",
+    "steel": "Black DLC-coated CPM-S30V",
+    "handle": "Pink G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  }
+ ]
+}

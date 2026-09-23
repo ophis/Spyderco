@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8235648221228,
+  "title": "MANIX® 2 FOREST GREEN G-10 CPM® CRU-WEAR® EXCLUSIVE",
+  "handle": "manix®-2-forest-green-g-10-cpm®-cru-wear®-exclusive",
+  "published_at": "2026-04-02T15:30:53-06:00",
+  "variants": [
+   {
+    "id": 45428064780332,
+    "title": "Default Title",
+    "sku": "C101GPFGBK2"
+   }
+  ],
+  "images": [
+   {
+    "src": "https://cdn.shopify.com/s/files/1/0562/7189/6620/files/C101GPFGBK2Both.png?v=1775153716"
+   }
+  ]
+ },
+ {
+  "id": 8221871865900,
+  "title": "Sage™ 5 Titanium M390 Exclusive",
+  "handle": "sage™-5-titanium-m390-exclusive",
+  "published_at": "2026-03-19T13:29:01-06:00",
+  "variants": [
+   {
+    "id": 45395445252140,
+    "title": "Default Title",
+    "sku": "C123TIPM390"
+   }
+  ],
+  "images": [
+   {
+    "src": "https://cdn.shopify.com/s/files/1/0562/7189/6620/files/C123TIPM390web_e0a8b8d2-7e5d-448b-93c0-24878faed3dc.jpg?v=1773930236"
+   },
+   {
+    "src": "https://cdn.shopify.com/s/files/1/0562/7189/6620/files/C123TIPM390Open.jpg?v=1773940443"
+   },
+   {
+    "src": "https://cdn.shopify.com/s/files/1/0562/7189/6620/files/C123TIPM390Closed.jpg?v=1773940450"
+   }
+  ]
+ }
+]

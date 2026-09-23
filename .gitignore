@@ -1,4 +1,8 @@
 .DS_Store
 Catalogs/*.pdf
-tools/
+__pycache__/
+tools/cache/
+tools/.profiles/
+tools/.venv/
+tools/node_modules/
 .claude/worktrees/

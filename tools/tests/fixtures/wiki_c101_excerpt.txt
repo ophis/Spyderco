@@ -1,0 +1,167 @@
+===Variations of the Manix 2===
+
+{|{{Articletable}}
+{{Tableheading}}'''[[SKU]]'''
+{{Tableheading}}'''[[Handle]]'''
+{{Tableheading}}'''[[Edge]]'''
+{{Tableheading}}'''[[Steel]]'''
+{{Tableheading}}'''[[From/To]]'''
+{{Tableheading}}'''[[MSRP]]'''
+{{Tableheading}}'''[[Note]]'''
+{{Tableheading}}'''[[Locks]]'''
+{{Tableheading}}'''[[Number made]]'''
+{{Tableheading}}'''[[Grind]]'''
+{{Tableheading}}'''[[Clip]]'''
+{{Tableheading}}'''[[Clip positions]]'''
+{{Tableheading}}'''[[Collectors club]]'''
+
+|-
+|C101GP2
+|Black [[G-10]]
+|[[PE]]
+|[[154CM]]
+|2009
+|129.95$ (2009)
+|Pilot run, ~20-25 were FFG, as they were produced before the decision was made to go hollow for the production runs
+|Clear polymer cage [[Ball Bearing Lock]]
+|50
+|[[Full Flat]] [[Hollow]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|Pilot
+
+|-
+|C101GP2
+|Black [[G-10]]
+|[[PE]]
+|[[154CM]]
+|2009-2012
+|129.95$ (2009)
+|replaced by S30V version
+|Polymer cage [[Ball Bearing Lock]]
+|Regular production
+|[[Hollow]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|?
+
+|-
+|C101GP2
+|Black [[G-10]]
+|[[PE]]
+|[[CPM-S30V]]
+|2012-2026
+|$150.95 (2014)
+|replaced by MagnaMax version
+|Polymer cage [[Ball Bearing Lock]]
+|Regular production
+|[[Hollow]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|?
+
+|-
+|C101GPS2
+|Black [[G-10]]
+|[[PS]]
+|[[154CM]]
+|2009-2012
+|129.95$ (2009)
+|replaced by S30V version
+|Polymer cage [[Ball Bearing Lock]]
+|Regular production
+|[[Hollow]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|?
+
+|-
+|C101GS2
+|Black [[G-10]]
+|[[SE]]
+|[[154CM]]
+|2009-2012
+|129.95$ (2009)
+|
+|Polymer cage [[Ball Bearing Lock]]
+|Regular production
+|[[Hollow]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|?
+
+|-
+|C101CF90VP2
+|Black [[CF]]
+|[[PE]]
+|[[CPM-S90V]]
+|2009
+|269.95$ (2009)
+|[[Sprintrun]]
+|Clear polymer cage [[Ball Bearing Lock]]
+|400
+|[[Full Flat]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|[[Variant]]
+
+|-
+|C101GPBL2
+|Blue [[G-10]]
+|[[PE]]
+|[[CPM-S30V]]
+|early 2010
+|199.95$ (2010)
+|[[Sprintrun]]
+|Clear polymer cage [[Ball Bearing Lock]]
+|500
+|[[Full Flat]]
+|Chrome Metal [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|[[Variant]]
+
+|-
+|C101GBN15V2
+|Brown [[G-10]]
+|[[PE]]
+||[[CPM 15V]]
+|Dec. 2022
+|$225.00 (MSRP)
+|
+|Black polymer cage [[Ball Bearing Lock]]
+|[[Sprint Run]]
+|[[Full Flat]]
+|Silver [[Hourglass]]
+|[[LH/RH]], [[TU]]
+|[[Variant]]
+|}
+
+==Variations==
+
+{|{{Articletable}}
+{{Tableheading}}'''[[SKU]]'''
+{{Tableheading}}'''[[Handle]]'''
+{{Tableheading}}'''[[Edge|Edge(s)]]'''
+{{Tableheading}}'''[[Steel]]'''
+{{Tableheading}}'''[[From/To]]'''
+{{Tableheading}}'''[[MSRP]]'''
+{{Tableheading}}'''[[Note]]'''
+{{Tableheading}}'''[[Number made]]'''
+{{Tableheading}}'''[[Grind]]'''
+{{Tableheading}}'''[[Clip]]'''
+{{Tableheading}}'''[[Clip positions]]'''
+{{Tableheading}}'''[[Collectors club]]'''
+|-
+|valign="top" |C36G (Forum 2000)
+|valign="top" |Black [[G-10]], bug on handle
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-440V]]
+|valign="top" |2000
+|valign="top" |?
+|valign="top" |"MILITARY" & "Spyderco Forum 2000" on blade and a [[MOP]] [[Bug]] inlay in the handle. See [[Forum knives]] for a complete listing.
+|valign="top" |500
+|valign="top" |[[Full Flat]]
+|valign="top" |[[Triangle military clip]]
+|valign="top" |[[RH]], [[TD]]
+|valign="top" |
+|}

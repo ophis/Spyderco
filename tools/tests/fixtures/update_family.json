@@ -1,0 +1,248 @@
+{
+ "id": "C99",
+ "file": "C99 Testmodel",
+ "title": "C99 Testmodel — Testmodel & Testmodel Lightweight",
+ "wiki_page": "C99_Testmodel",
+ "readme_label": "C99 Testmodel",
+ "trailing_newline": true,
+ "sections": [
+  "Testmodel",
+  "Testmodel Lightweight"
+ ],
+ "section_rules": [
+  {
+   "section": "Testmodel Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  }
+ ],
+ "aliases": {
+  "C99GPORE": "C99GPOR"
+ },
+ "ignore": [
+  "wiki|C99GPDUP|2021"
+ ],
+ "rows": [
+  {
+   "sku": "C99GP",
+   "section": "Testmodel",
+   "released": "2010-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99GP|2010",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GP",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2010-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C99GP",
+    "section": "Testmodel",
+    "released": "2010-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C99GPXX",
+   "section": "Testmodel",
+   "released": "2011-2013",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99GPXX|2011",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GPXX",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2011-2013",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C99GPXX",
+    "section": "Testmodel",
+    "released": "2011-2013",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C99GPBK",
+   "section": "Testmodel",
+   "released": "2014-",
+   "steel": "Black DLC CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99GPBK|2014",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GPBK",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC CPM-S30V",
+    "from_to": "2014-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C99GPBK",
+    "section": "Testmodel",
+    "released": "2014-",
+    "steel": "Black DLC CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C99GPRD",
+   "section": "Testmodel",
+   "released": "March 2016",
+   "steel": "CPM-S30V",
+   "handle": "Red G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99GPRD|2016",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GPRD",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "March 2016",
+    "note": "Limited run.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C99GPRD",
+    "section": "Testmodel",
+    "released": "March 2016",
+    "steel": "CPM-S30V",
+    "handle": "Red G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C99GPCF",
+   "section": "Testmodel",
+   "released": "2019",
+   "steel": "CPM-S90V",
+   "handle": "Carbon fiber",
+   "type": "Limited",
+   "qty": "250",
+   "alt": "",
+   "src": "wiki|C99GPCF|2019",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GPCF",
+    "handle": "Carbon fiber",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2019",
+    "note": "Pilot run",
+    "number_made": "250"
+   },
+   "auto": {
+    "sku": "C99GPCF",
+    "section": "Testmodel",
+    "released": "2019",
+    "steel": "CPM-S90V",
+    "handle": "Carbon fiber",
+    "type": "Limited",
+    "qty": "250"
+   }
+  },
+  {
+   "sku": "C99GPCF",
+   "section": "Testmodel",
+   "released": "2019-2021",
+   "steel": "CPM-S90V",
+   "handle": "Carbon fiber",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99GPCF|2019#2",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99GPCF",
+    "handle": "Carbon fiber",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2019-2021",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C99GPCF",
+    "section": "Testmodel",
+    "released": "2019-2021",
+    "steel": "CPM-S90V",
+    "handle": "Carbon fiber",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C99GPZZ",
+   "section": "Testmodel",
+   "released": "2023-",
+   "steel": "CPM-S30V",
+   "handle": "Gray G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C99GPZZ"
+  },
+  {
+   "sku": "C99PBK",
+   "section": "Testmodel Lightweight",
+   "released": "2012-",
+   "steel": "CPM-S30V",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C99PBK|2012",
+   "src_raw": {
+    "table": "Variations of the Testmodel",
+    "sku": "C99PBK",
+    "handle": "Black FRN",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2012-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C99PBK",
+    "section": "Testmodel Lightweight",
+    "released": "2012-",
+    "steel": "CPM-S30V",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  }
+ ]
+}

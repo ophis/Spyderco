@@ -1,0 +1,3212 @@
+{
+ "id": "C81",
+ "file": "C81 Para-Military",
+ "title": "C81 Para-Military — Para-Military, ParaMilitary 2 & ParaMilitary 2 Lightweight",
+ "wiki_page": "C81_Para-Military",
+ "readme_label": "C81 Para-Military / ParaMilitary 2 / PM2 Lightweight",
+ "trailing_newline": true,
+ "sections": [
+  "Para-Military",
+  "ParaMilitary 2",
+  "ParaMilitary 2 Lightweight"
+ ],
+ "section_rules": [
+  {
+   "section": "ParaMilitary 2 Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  },
+  {
+   "section": "Para-Military",
+   "field": "wiki_table",
+   "regex": "^Variations of the Paramilitary$"
+  },
+  {
+   "section": "ParaMilitary 2",
+   "field": "wiki_table",
+   "regex": "^Variations of the Paramilitary 2$"
+  }
+ ],
+ "aliases": {
+  "C81CFP52100": "C81CF52100P2",
+  "C81CFPRDOR": "C81CFPRDORBK2",
+  "C81CFPRDOR2": "C81CFRDOR2",
+  "C81FCGR2": "C81CFGR2",
+  "C81FGD2P": "C81GPFG",
+  "C81GBK2": "C81GPBK2",
+  "C81GCBL2": "C81GPCBL2",
+  "C81GCMO2": "C81GPCMO2",
+  "C81GCMOBK2": "C81GPCMOBK2",
+  "C81GDGYS90V2": "C81GPDGYS90V2",
+  "C81GPBL2": "C81GBLM3902",
+  "C81GPBN15V2": "C81GBN15V2",
+  "C81GPCOFL2": "C81GCOFL2",
+  "C81GPR2": "C81GPPR2",
+  "C81GPWC2": "C81GWC2",
+  "C81MCW2": "C81MPCW2"
+ },
+ "ignore": [],
+ "rows": [
+  {
+   "sku": "C81GP",
+   "section": "Para-Military",
+   "released": "2004-2010",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GP|2004",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GP",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2004-2010",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GP",
+    "section": "Para-Military",
+    "released": "2004-2010",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GS",
+   "section": "Para-Military",
+   "released": "2004-2009",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GS|2004",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GS",
+    "handle": "Black G-10",
+    "edge": "SE",
+    "steel": "CPM-S30V",
+    "from_to": "2004-2009",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GS",
+    "section": "Para-Military",
+    "released": "2004-2009",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPBK",
+   "section": "Para-Military",
+   "released": "2005-2010",
+   "steel": "CPM-S30V black",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBK|2005",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GPBK",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V black",
+    "from_to": "2005-2010",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GPBK",
+    "section": "Para-Military",
+    "released": "2005-2010",
+    "steel": "CPM-S30V black",
+    "handle": "Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GSBK",
+   "section": "Para-Military",
+   "released": "2005-2009",
+   "steel": "CPM-S30V black",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GSBK|2005",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GSBK",
+    "handle": "Black G-10",
+    "edge": "SE",
+    "steel": "CPM-S30V black",
+    "from_to": "2005-2009",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GSBK",
+    "section": "Para-Military",
+    "released": "2005-2009",
+    "steel": "CPM-S30V black",
+    "handle": "Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPFG",
+   "section": "Para-Military",
+   "released": "2008",
+   "steel": "CPM-D2",
+   "handle": "Foliage Green G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPFG|2008",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GPFG",
+    "handle": "Foliage Green G-10",
+    "edge": "PE",
+    "steel": "CPM-D2",
+    "from_to": "2008",
+    "note": "Sprintrun",
+    "number_made": "?"
+   },
+   "auto": {
+    "sku": "C81GPFG",
+    "section": "Para-Military",
+    "released": "2008",
+    "steel": "CPM-D2",
+    "handle": "Foliage Green G-10",
+    "type": "Sprint Run",
+    "qty": "?"
+   }
+  },
+  {
+   "sku": "C81GPCMO",
+   "section": "Para-Military",
+   "released": "2009-2010",
+   "steel": "CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPCMO|2009",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GPCMO",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2009-2010",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GPCMO",
+    "section": "Para-Military",
+    "released": "2009-2010",
+    "steel": "CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPCMOBK",
+   "section": "Para-Military",
+   "released": "2009-2010",
+   "steel": "CPM-S30V black",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPCMOBK|2009",
+   "src_raw": {
+    "table": "Variations of the Paramilitary",
+    "sku": "C81GPCMOBK",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V black",
+    "from_to": "2009-2010",
+    "note": "",
+    "number_made": "N/A"
+   },
+   "auto": {
+    "sku": "C81GPCMOBK",
+    "section": "Para-Military",
+    "released": "2009-2010",
+    "steel": "CPM-S30V black",
+    "handle": "Digital Camo G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GP2",
+   "section": "ParaMilitary 2",
+   "released": "2010-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GP2|2010",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GP2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2010-",
+    "note": "2nd generation",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GP2",
+    "section": "ParaMilitary 2",
+    "released": "2010-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFP2",
+   "section": "ParaMilitary 2",
+   "released": "2010",
+   "steel": "CPM-S90V",
+   "handle": "Black Peel Ply CF",
+   "type": "Sprint Run",
+   "qty": "600",
+   "alt": "",
+   "src": "wiki|C81CFP2|2010",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFP2",
+    "handle": "Black Peel Ply CF",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2010",
+    "note": "Sprint Run",
+    "number_made": "600"
+   },
+   "auto": {
+    "sku": "C81CFP2",
+    "section": "ParaMilitary 2",
+    "released": "2010",
+    "steel": "CPM-S90V",
+    "handle": "Black Peel Ply CF",
+    "type": "Sprint Run",
+    "qty": "600"
+   }
+  },
+  {
+   "sku": "C81GPBK2",
+   "section": "ParaMilitary 2",
+   "released": "2011-",
+   "steel": "CPM-S30V black DLC",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GBK2 (wiki)",
+   "src": "wiki|C81GBK2|2011",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V black DLC",
+    "from_to": "2011-",
+    "note": "Black hardware",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GBK2",
+    "section": "ParaMilitary 2",
+    "released": "2011-",
+    "steel": "CPM-S30V black DLC",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPCMO2",
+   "section": "ParaMilitary 2",
+   "released": "2011-",
+   "steel": "CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GCMO2 (wiki)",
+   "src": "wiki|C81GCMO2|2011",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GCMO2",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "2011-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GCMO2",
+    "section": "ParaMilitary 2",
+    "released": "2011-",
+    "steel": "CPM-S30V",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPCMOBK2",
+   "section": "ParaMilitary 2",
+   "released": "2011-",
+   "steel": "CPM-S30V black DLC",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GCMOBK2 (wiki)",
+   "src": "wiki|C81GCMOBK2|2011",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GCMOBK2",
+    "handle": "Digital Camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V black DLC",
+    "from_to": "2011-",
+    "note": "Black hardware",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GCMOBK2",
+    "section": "ParaMilitary 2",
+    "released": "2011-",
+    "steel": "CPM-S30V black DLC",
+    "handle": "Digital Camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GGY20CP2",
+   "section": "ParaMilitary 2",
+   "released": "2011",
+   "steel": "CTS-20CP",
+   "handle": "Gray G-10",
+   "type": "Sprint Run",
+   "qty": "?",
+   "alt": "",
+   "src": "wiki|C81GGY20CP2|2011",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GGY20CP2",
+    "handle": "Gray G-10",
+    "edge": "PE",
+    "steel": "CTS-20CP",
+    "from_to": "2011",
+    "note": "Sprint Run",
+    "number_made": "?"
+   },
+   "auto": {
+    "sku": "C81GGY20CP2",
+    "section": "ParaMilitary 2",
+    "released": "2011",
+    "steel": "CTS-20CP",
+    "handle": "Gray G-10",
+    "type": "Sprint Run",
+    "qty": "?"
+   }
+  },
+  {
+   "sku": "C81GBLM3902",
+   "section": "ParaMilitary 2",
+   "released": "Jan. 2012",
+   "steel": "M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "800 (1st run)",
+   "alt": "",
+   "src": "wiki|C81GBLM3902|2012",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBLM3902",
+    "handle": "Blue G-10",
+    "edge": "PE",
+    "steel": "M390",
+    "from_to": "Jan. 2012 / Dec. 2012 / Nov. 2016 / July 2019",
+    "note": "Bento Box Shop dealer Exclusive. 2nd run released Dec. 2012. A 3rd run came out in 2016. While BBS didn't comment on the production size of the second or third run, it was likely 800 for the second run and another 800-1200 for the third run. A fourth run came out July 19, 2019.",
+    "number_made": "800 (1st run)"
+   },
+   "auto": {
+    "sku": "C81GBLM3902",
+    "section": "ParaMilitary 2",
+    "released": "Jan. 2012",
+    "steel": "M390",
+    "handle": "Blue G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": "800 (1st run)"
+   }
+  },
+  {
+   "sku": "C81GPBN2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 2012",
+   "steel": "CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBN2|2012",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPBN2",
+    "handle": "Earth Brown G-10",
+    "edge": "PE",
+    "steel": "CPM-S35VN",
+    "from_to": "Mar. 2012, Nov. 2015, June 2017",
+    "note": "Moteng distributor Exclusive. First batch released in March 2012. A second run was produced and released in November 2015. A third run was released in June 2017.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPBN2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 2012",
+    "steel": "CPM-S35VN",
+    "handle": "Earth Brown G-10",
+    "type": "Moteng excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPOR2",
+   "section": "ParaMilitary 2",
+   "released": "2012 Apr.",
+   "steel": "CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "800",
+   "alt": "",
+   "src": "wiki|C81GPOR2|2012",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPOR2",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "CTS-XHP",
+    "from_to": "2012 Apr.",
+    "note": "Cutlery Shoppe dealer Exclusive",
+    "number_made": "800 link to this knife at Cutlery shoppe."
+   },
+   "auto": {
+    "sku": "C81GPOR2",
+    "section": "ParaMilitary 2",
+    "released": "2012 Apr.",
+    "steel": "CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "800 link to this knife at Cutlery shoppe."
+   }
+  },
+  {
+   "sku": "C81GPGR2",
+   "section": "ParaMilitary 2",
+   "released": "June 2013",
+   "steel": "CTS-204P",
+   "handle": "Dark Green G-10",
+   "type": "Blue Ridge Knives excl.",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C81GPGR2|2013",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPGR2",
+    "handle": "Dark Green G-10",
+    "edge": "PE",
+    "steel": "CTS-204P",
+    "from_to": "June 2013, March 2014, Dec. 2018",
+    "note": "Blue Ridge Knives distributor Exclusive, it appears that Knife Works acquired the whole run, as no other dealers carried the knife. Originally slated for delivery around June 2012, it was delayed by a year. The initial run was for 800 knives. An additional 400 were produced and released in March 2014. A third run of 628 were produced and released in December 2018.",
+    "number_made": "1200 link to this knife at knifeworks + 628."
+   },
+   "auto": {
+    "sku": "C81GPGR2",
+    "section": "ParaMilitary 2",
+    "released": "June 2013",
+    "steel": "CTS-204P",
+    "handle": "Dark Green G-10",
+    "type": "Blue Ridge Knives excl.",
+    "qty": "1200 link to this knife at knifeworks + 628."
+   }
+  },
+  {
+   "sku": "C81CFPE2",
+   "section": "ParaMilitary 2",
+   "released": "Feb. 2014",
+   "steel": "CPM-154/S90V",
+   "handle": "Peel Ply CF",
+   "type": "Sprint Run",
+   "qty": "300",
+   "alt": "",
+   "src": "wiki|C81CFPE2|2014",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFPE2",
+    "handle": "Peel Ply CF",
+    "edge": "PE",
+    "steel": "CPM-154/S90V",
+    "from_to": "Feb. 2014",
+    "note": "Sprint Run. First Spyderco to offer the CPM-154/S90V composite. The core is CPM-S90V sandwiched between CPM-154CM. There are plans to offer additional models using the same blade composite.",
+    "number_made": "300"
+   },
+   "auto": {
+    "sku": "C81CFPE2",
+    "section": "ParaMilitary 2",
+    "released": "Feb. 2014",
+    "steel": "CPM-154/S90V",
+    "handle": "Peel Ply CF",
+    "type": "Sprint Run",
+    "qty": "300"
+   }
+  },
+  {
+   "sku": "C81GFGP2",
+   "section": "ParaMilitary 2",
+   "released": "June 2014",
+   "steel": "Elmax",
+   "handle": "Foliage Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "800-1200",
+   "alt": "",
+   "src": "wiki|C81GFGP2|2014",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GFGP2",
+    "handle": "Foliage Green G-10",
+    "edge": "PE",
+    "steel": "Elmax",
+    "from_to": "June 2014",
+    "note": "Bento Box Shop dealer Exclusive.",
+    "number_made": "800-1200"
+   },
+   "auto": {
+    "sku": "C81GFGP2",
+    "section": "ParaMilitary 2",
+    "released": "June 2014",
+    "steel": "Elmax",
+    "handle": "Foliage Green G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": "800-1200"
+   }
+  },
+  {
+   "sku": "C81GPDBL2",
+   "section": "ParaMilitary 2",
+   "released": "Sept. 2015-",
+   "steel": "CPM-S110V",
+   "handle": "Dark blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPDBL2|2015",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPDBL2",
+    "handle": "Dark blue G-10",
+    "edge": "PE",
+    "steel": "CPM-S110V",
+    "from_to": "Sept. 2015-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GPDBL2",
+    "section": "ParaMilitary 2",
+    "released": "Sept. 2015-",
+    "steel": "CPM-S110V",
+    "handle": "Dark blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPORBK2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 2015-Feb. 2016",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Exclusive",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C81GPORBK2|2015",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPORBK2",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CTS-XHP",
+    "from_to": "Oct. 2015-Feb. 2016",
+    "note": "Cutlery Shoppe Exclusive, black hardware. Sold out as of Feb. 2016.",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C81GPORBK2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 2015-Feb. 2016",
+    "steel": "Black DLC coated CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C81GM4P2",
+   "section": "ParaMilitary 2",
+   "released": "July 2016",
+   "steel": "CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "2300 (2200 + 100 CC)",
+   "alt": "",
+   "src": "wiki|C81GM4P2|2016",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GM4P2",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "July 2016",
+    "note": "BladeHQ dealer Exclusive, uses natural \"Jade\" G-10, which is a translucent green color. Initially sold out within hours, but popped in and out of stock for short times during the next day.",
+    "number_made": "2300 (2200 + 100 CC)"
+   },
+   "auto": {
+    "sku": "C81GM4P2",
+    "section": "ParaMilitary 2",
+    "released": "July 2016",
+    "steel": "CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": "2300 (2200 + 100 CC)"
+   }
+  },
+  {
+   "sku": "C81CFM4P2",
+   "section": "ParaMilitary 2",
+   "released": "Aug. 2016/Mar. 2018",
+   "steel": "CPM-M4",
+   "handle": "Peel Ply CF",
+   "type": "KnifeWorks excl.",
+   "qty": "1200 + 800",
+   "alt": "",
+   "src": "wiki|C81CFM4P2|2016",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFM4P2",
+    "handle": "Peel Ply CF",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "Aug. 2016/Mar. 2018",
+    "note": "Knifeworks dealer Exclusive. Second run of 800 knives released March 2018.",
+    "number_made": "1200 + 800"
+   },
+   "auto": {
+    "sku": "C81CFM4P2",
+    "section": "ParaMilitary 2",
+    "released": "Aug. 2016/Mar. 2018",
+    "steel": "CPM-M4",
+    "handle": "Peel Ply CF",
+    "type": "KnifeWorks excl.",
+    "qty": "1200 + 800"
+   }
+  },
+  {
+   "sku": "C81GPGY2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 2016",
+   "steel": "Cru-Wear",
+   "handle": "Dark grey G-10",
+   "type": "Sprint Run",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C81GPGY2|2016",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPGY2",
+    "handle": "Dark grey G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "Oct. 2016",
+    "note": "Sprint Run",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C81GPGY2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 2016",
+    "steel": "Cru-Wear",
+    "handle": "Dark grey G-10",
+    "type": "Sprint Run",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C81GPNP2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 2016",
+   "steel": "CPM-S30V",
+   "handle": "Light pink G-10",
+   "type": "Exclusive",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C81GPNP2|2016",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPNP2",
+    "handle": "Light pink G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Dec. 2016",
+    "note": "JP Outman Distributing Exclusive. As with all Spyderco's pink knives, a portion of all sales are donated to Guardians of the Ribbon/Pink Heals Tour (www.pinkfiretrucks.org).",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C81GPNP2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 2016",
+    "steel": "CPM-S30V",
+    "handle": "Light pink G-10",
+    "type": "JP Outman Distributing excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C81GS2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GS2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GS2",
+    "handle": "Black G-10",
+    "edge": "SE",
+    "steel": "CPM-S30V",
+    "from_to": "Mar. 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GS2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 2017-",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPLE2",
+   "section": "ParaMilitary 2",
+   "released": "Apr. 2017 -",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPLE2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPLE2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Apr. 2017 -",
+    "note": "Left hand version",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GPLE2",
+    "section": "ParaMilitary 2",
+    "released": "Apr. 2017 -",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPBKBS2",
+   "section": "ParaMilitary 2",
+   "released": "June. 2017",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBKBS2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPBKBS2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V",
+    "from_to": "June. 2017",
+    "note": "BayouShooter.com exclusive, with their logo laser engraved on the blade",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPBKBS2",
+    "section": "ParaMilitary 2",
+    "released": "June. 2017",
+    "steel": "Black DLC coated CPM-S30V",
+    "handle": "Black G-10",
+    "type": "BayouShooter.com excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CF52100P2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 2017",
+   "steel": "52100",
+   "handle": "Peel Ply CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CF52100P2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CF52100P2",
+    "handle": "Peel Ply CF",
+    "edge": "PE",
+    "steel": "52100",
+    "from_to": "Oct. 2017",
+    "note": "H.L. Dalis distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CF52100P2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 2017",
+    "steel": "52100",
+    "handle": "Peel Ply CF",
+    "type": "H.L. Dalis excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPRD2",
+   "section": "ParaMilitary 2",
+   "released": "Nov. 2017",
+   "steel": "M390",
+   "handle": "Red G-10",
+   "type": "DLT Trading excl.",
+   "qty": "1000-1200",
+   "alt": "",
+   "src": "wiki|C81GPRD2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPRD2",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "M390",
+    "from_to": "Nov. 2017 / July 2019",
+    "note": "DLT Trading dealer Exclusive, sold out within a week of being announced. A second run came out July 17, 2019.",
+    "number_made": "1000-1200"
+   },
+   "auto": {
+    "sku": "C81GPRD2",
+    "section": "ParaMilitary 2",
+    "released": "Nov. 2017",
+    "steel": "M390",
+    "handle": "Red G-10",
+    "type": "DLT Trading excl.",
+    "qty": "1000-1200"
+   }
+  },
+  {
+   "sku": "C81GPDGY2",
+   "section": "ParaMilitary 2",
+   "released": "Nov. 2017-",
+   "steel": "Maxamet",
+   "handle": "Dark gray G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPDGY2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPDGY2",
+    "handle": "Dark gray G-10",
+    "edge": "PE",
+    "steel": "Maxamet",
+    "from_to": "Nov. 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GPDGY2",
+    "section": "ParaMilitary 2",
+    "released": "Nov. 2017-",
+    "steel": "Maxamet",
+    "handle": "Dark gray G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CF52100PS2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 2017",
+   "steel": "52100",
+   "handle": "Peel Ply CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CF52100PS2|2017",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CF52100PS2",
+    "handle": "Peel Ply CF",
+    "edge": "PS",
+    "steel": "52100",
+    "from_to": "Dec. 2017",
+    "note": "H.L. Dalis distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CF52100PS2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 2017",
+    "steel": "52100",
+    "handle": "Peel Ply CF",
+    "type": "H.L. Dalis excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPGRBKP2",
+   "section": "ParaMilitary 2",
+   "released": "Feb. 2018",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Olive drab green G-10",
+   "type": "JB Outman excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPGRBKP2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPGRBKP2",
+    "handle": "Olive drab green G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V",
+    "from_to": "Feb. 2018, Sept. 2018",
+    "note": "JB Outman distributor Exclusive (possibly available only through DLT Trading). Black hardware (liners are not coated).",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPGRBKP2",
+    "section": "ParaMilitary 2",
+    "released": "Feb. 2018",
+    "steel": "Black DLC coated CPM-S30V",
+    "handle": "Olive drab green G-10",
+    "type": "JB Outman excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GM4BKP2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 27, 2018, 7PM MST",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "Limited (probably 2200-2400)",
+   "alt": "",
+   "src": "wiki|C81GM4BKP2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GM4BKP2",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "Mar. 27, 2018, 7PM MST",
+    "note": "BladeHQ dealer Exclusive, uses natural \"Jade\" G-10, which is a translucent green color. Black hardware (liners are not coated). Sold out in about 2.5 hours.",
+    "number_made": "Limited (probably 2200-2400)"
+   },
+   "auto": {
+    "sku": "C81GM4BKP2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 27, 2018, 7PM MST",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": "Limited (probably 2200-2400)"
+   }
+  },
+  {
+   "sku": "C81GPCW2",
+   "section": "ParaMilitary 2",
+   "released": "May 2018",
+   "steel": "Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPCW2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPCW2",
+    "handle": "Smooth black G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "May 2018",
+    "note": "KnifeCenter dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPCW2",
+    "section": "ParaMilitary 2",
+    "released": "May 2018",
+    "steel": "Cru-Wear",
+    "handle": "Smooth black G-10",
+    "type": "KnifeCenter excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPBORE2",
+   "section": "ParaMilitary 2",
+   "released": "July 2018",
+   "steel": "CPM REX 45",
+   "handle": "Burnt orange G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBORE2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPBORE2",
+    "handle": "Burnt orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "July 2018",
+    "note": "",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C81GPBORE2",
+    "section": "ParaMilitary 2",
+    "released": "July 2018",
+    "steel": "CPM REX 45",
+    "handle": "Burnt orange G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPTN2",
+   "section": "ParaMilitary 2",
+   "released": "Sept. 25, 2018, 11AM CST",
+   "steel": "CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "900-1000 (1st batch)",
+   "alt": "",
+   "src": "wiki|C81GPTN2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPTN2",
+    "handle": "Tan G-10",
+    "edge": "PE",
+    "steel": "CPM-20CV",
+    "from_to": "Sept. 25, 2018, 11AM CST / Mar. 19, 2019, 11AM CST",
+    "note": "DLT Trading dealer Exclusive. First release sold out in 23 minutes.",
+    "number_made": "900-1000 (1st batch)"
+   },
+   "auto": {
+    "sku": "C81GPTN2",
+    "section": "ParaMilitary 2",
+    "released": "Sept. 25, 2018, 11AM CST",
+    "steel": "CPM-20CV",
+    "handle": "Tan G-10",
+    "type": "DLT Trading excl.",
+    "qty": "900-1000 (1st batch)"
+   }
+  },
+  {
+   "sku": "C81GPDGYS90V2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 12, 2018 9AM MDT",
+   "steel": "CPM-S90V",
+   "handle": "Gray G-10",
+   "type": "Limited",
+   "qty": "Just over 700",
+   "alt": "",
+   "src": "wiki|C81GPDGYS90V2|2018",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPDGYS90V2",
+    "handle": "Gray G-10",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "Oct. 12, 2018 9AM MDT",
+    "note": "2018 Spyderco Forum Knife. Handle features a polished silver web insert encircling a bright red Spyderco bug logo (both sides), and Forum Knife 2018 on the blade. Limit of 2 per person (limit lifted Oct. 31). See Forum knives for a complete listing.",
+    "number_made": "Just over 700"
+   },
+   "auto": {
+    "sku": "C81GPDGYS90V2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 12, 2018 9AM MDT",
+    "steel": "CPM-S90V",
+    "handle": "Gray G-10",
+    "type": "Limited",
+    "qty": "Just over 700"
+   }
+  },
+  {
+   "sku": "C81GPBNBK2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 2019",
+   "steel": "Black DLC coated CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBNBK2|2019",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPBNBK2",
+    "handle": "Earth Brown G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S35VN",
+    "from_to": "Mar. 2019",
+    "note": "Moteng distributor Exclusive. Black hardware (pivot, screws, lanyard tube), satin liners.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPBNBK2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 2019",
+    "steel": "Black DLC coated CPM-S35VN",
+    "handle": "Earth Brown G-10",
+    "type": "Moteng excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPTNBK2",
+   "section": "ParaMilitary 2",
+   "released": "May 29, 2019, 11AM CST",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "800",
+   "alt": "",
+   "src": "wiki|C81GPTNBK2|2019",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPTNBK2",
+    "handle": "Tan G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-20CV",
+    "from_to": "May 29, 2019, 11AM CST",
+    "note": "DLT Trading dealer Exclusive. Black hardware (uncoated liners). Limit of 2 per household. Sold out in about 4 minutes (with some cancellations popping into stock a little later, with a limit of 1). A second run was released in Oct. 2024.",
+    "number_made": "800"
+   },
+   "auto": {
+    "sku": "C81GPTNBK2",
+    "section": "ParaMilitary 2",
+    "released": "May 29, 2019, 11AM CST",
+    "steel": "Black DLC coated CPM-20CV",
+    "handle": "Tan G-10",
+    "type": "DLT Trading excl.",
+    "qty": "800"
+   }
+  },
+  {
+   "sku": "C81GPBLBK2",
+   "section": "ParaMilitary 2",
+   "released": "August 2019",
+   "steel": "Black DLC coated M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPBLBK2|2019",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPBLBK2",
+    "handle": "Blue G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated M390",
+    "from_to": "August 2019",
+    "note": "Bento Box Shop dealer Exclusive. Black screws and hardware.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPBLBK2",
+    "section": "ParaMilitary 2",
+    "released": "August 2019",
+    "steel": "Black DLC coated M390",
+    "handle": "Blue G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPRGR2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 04, 2019 @ 9AM PST",
+   "steel": "Satin K390",
+   "handle": "Ranger Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPRGR2|2019",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPRGR2",
+    "handle": "Ranger Green G-10",
+    "edge": "PE",
+    "steel": "Satin K390",
+    "from_to": "Oct. 04, 2019 @ 9AM PST",
+    "note": "Bento Box Shop dealer Exclusive. \"Ranger Green\" handles appear to be exactly the same color as Spyderco's \"Foliage Green\" used on various knives.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPRGR2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 04, 2019 @ 9AM PST",
+    "steel": "Satin K390",
+    "handle": "Ranger Green G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPNGR2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 12, 2019 @ 11AM CST",
+   "steel": "Satin CPM-20CV",
+   "handle": "Neon Green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "502",
+   "alt": "",
+   "src": "wiki|C81GPNGR2|2019",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPNGR2",
+    "handle": "Neon Green G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-20CV",
+    "from_to": "Dec. 12, 2019 @ 11AM CST",
+    "note": "KnifeJoy dealer Exclusive. Web issues caused the sale to start about 18 minutes late. Sold out in minutes.",
+    "number_made": "502"
+   },
+   "auto": {
+    "sku": "C81GPNGR2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 12, 2019 @ 11AM CST",
+    "steel": "Satin CPM-20CV",
+    "handle": "Neon Green G-10",
+    "type": "KnifeJoy excl.",
+    "qty": "502"
+   }
+  },
+  {
+   "sku": "C81GPCB2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+   "steel": "Satin CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "~700",
+   "alt": "",
+   "src": "wiki|C81GPCB2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPCB2",
+    "handle": "Coyote Brown G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-10V",
+    "from_to": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+    "note": "River's Edge Cutlery dealer Exclusive. Limit 1 per household. Sold out in about 10 hours.",
+    "number_made": "~700"
+   },
+   "auto": {
+    "sku": "C81GPCB2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+    "steel": "Satin CPM-10V",
+    "handle": "Coyote Brown G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": "~700"
+   }
+  },
+  {
+   "sku": "C81GPCBBK2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+   "steel": "Black DLC coated CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "~700",
+   "alt": "",
+   "src": "wiki|C81GPCBBK2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPCBBK2",
+    "handle": "Coyote Brown G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-10V",
+    "from_to": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+    "note": "River's Edge Cutlery dealer Exclusive. Black hardware (uncoated liners). Limit 1 per household. Sold out in 12-13 hours.",
+    "number_made": "~700"
+   },
+   "auto": {
+    "sku": "C81GPCBBK2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+    "steel": "Black DLC coated CPM-10V",
+    "handle": "Coyote Brown G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": "~700"
+   }
+  },
+  {
+   "sku": "C81GPFGR2",
+   "section": "ParaMilitary 2",
+   "released": "April 2020",
+   "steel": "Satin CPM S45VN",
+   "handle": "Forest Green \"diamond arc pattern\" G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPFGR2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPFGR2",
+    "handle": "Forest Green \"diamond arc pattern\" G-10",
+    "edge": "PE",
+    "steel": "Satin CPM S45VN",
+    "from_to": "April 2020",
+    "note": "Sprint Run",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPFGR2",
+    "section": "ParaMilitary 2",
+    "released": "April 2020",
+    "steel": "Satin CPM S45VN",
+    "handle": "Forest Green \"diamond arc pattern\" G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPRDBK2",
+   "section": "ParaMilitary 2",
+   "released": "April 25, 2020 @ 3PM CST",
+   "steel": "Black DLC coated CPM-4V",
+   "handle": "Red G-10",
+   "type": "St. Nick's Knives excl.",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C81GPRDBK2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPRDBK2",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-4V",
+    "from_to": "April 25, 2020 @ 3PM CST",
+    "note": "St. Nick's Knives dealer Exclusive, black hardware, with silver, uncoated liners. Sold out in 1-2 minutes.",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C81GPRDBK2",
+    "section": "ParaMilitary 2",
+    "released": "April 25, 2020 @ 3PM CST",
+    "steel": "Black DLC coated CPM-4V",
+    "handle": "Red G-10",
+    "type": "St. Nick's Knives excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C81GPW2",
+   "section": "ParaMilitary 2",
+   "released": "May 2020",
+   "steel": "Satin CPM-S30V",
+   "handle": "Black G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPW2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPW2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-S30V",
+    "from_to": "May 2020",
+    "note": "Blade Ops dealer Exclusive, Emerson wave.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPW2",
+    "section": "ParaMilitary 2",
+    "released": "May 2020",
+    "steel": "Satin CPM-S30V",
+    "handle": "Black G-10",
+    "type": "BladeOps excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWBK2",
+   "section": "ParaMilitary 2",
+   "released": "June 2020",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWBK2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V",
+    "from_to": "June 2020",
+    "note": "Blade Ops dealer Exclusive, Emerson wave.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWBK2",
+    "section": "ParaMilitary 2",
+    "released": "June 2020",
+    "steel": "Black DLC coated CPM-S30V",
+    "handle": "Black G-10",
+    "type": "BladeOps excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CUP2",
+   "section": "ParaMilitary 2",
+   "released": "June 2020",
+   "steel": "Satin CPM REX 45",
+   "handle": "Natural Copper",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CUP2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CUP2",
+    "handle": "Natural Copper",
+    "edge": "PE",
+    "steel": "Satin CPM REX 45",
+    "from_to": "June 2020",
+    "note": "BladeHQ dealer Exclusive. No liners.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CUP2",
+    "section": "ParaMilitary 2",
+    "released": "June 2020",
+    "steel": "Satin CPM REX 45",
+    "handle": "Natural Copper",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPTBK2",
+   "section": "ParaMilitary 2",
+   "released": "July 2020",
+   "steel": "Black DLC coated CPM-S30V, Tanto",
+   "handle": "Black G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPTBK2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPTBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V, Tanto",
+    "from_to": "July 2020",
+    "note": "BladeHQ dealer Exclusive. Tanto blade. First batch sold quickly, so a second batch was ordered.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPTBK2",
+    "section": "ParaMilitary 2",
+    "released": "July 2020",
+    "steel": "Black DLC coated CPM-S30V, Tanto",
+    "handle": "Black G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPPRBK2",
+   "section": "ParaMilitary 2",
+   "released": "Aug. 2020",
+   "steel": "Black DLC Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPPRBK2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPPRBK2",
+    "handle": "Purple G-10",
+    "edge": "PE",
+    "steel": "Black DLC Cru-Wear",
+    "from_to": "Aug. 2020",
+    "note": "DLT Trading dealer Exclusive. Black hardware.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPPRBK2",
+    "section": "ParaMilitary 2",
+    "released": "Aug. 2020",
+    "steel": "Black DLC Cru-Wear",
+    "handle": "Purple G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPODFDE2",
+   "section": "ParaMilitary 2",
+   "released": "Aug. 2020",
+   "steel": "Flat dark earth PVD coated CTS-204P",
+   "handle": "Olive drab G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPODFDE2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPODFDE2",
+    "handle": "Olive drab G-10",
+    "edge": "PE",
+    "steel": "Flat dark earth PVD coated CTS-204P",
+    "from_to": "Aug. 2020",
+    "note": "River's Edge Cutlery dealer Exclusive. Black hardware.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPODFDE2",
+    "section": "ParaMilitary 2",
+    "released": "Aug. 2020",
+    "steel": "Flat dark earth PVD coated CTS-204P",
+    "handle": "Olive drab G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPT2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 2020",
+   "steel": "Satin CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPT2|2020",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPT2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-S30V",
+    "from_to": "Dec. 2020",
+    "note": "Blade HQ Dealer Exclusive. Features a Tanto Blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPT2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 2020",
+    "steel": "Satin CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81MPCW2",
+   "section": "ParaMilitary 2",
+   "released": "2021",
+   "steel": "Satin Cru-Wear",
+   "handle": "Brown canvas Micarta",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81MCW2 (wiki)",
+   "src": "wiki|C81MCW2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81MCW2",
+    "handle": "Brown canvas Micarta",
+    "edge": "PE",
+    "steel": "Satin Cru-Wear",
+    "from_to": "2021",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81MCW2",
+    "section": "ParaMilitary 2",
+    "released": "2021",
+    "steel": "Satin Cru-Wear",
+    "handle": "Brown canvas Micarta",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GM4PT2",
+   "section": "ParaMilitary 2",
+   "released": "Jan. 2021",
+   "steel": "Satin CPM-M4",
+   "handle": "Natural G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GM4PT2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GM4PT2",
+    "handle": "Natural G-10",
+    "edge": "PE",
+    "steel": "Satin CPM-M4",
+    "from_to": "Jan. 2021",
+    "note": "Blade HQ Dealer Exclusive. Features a Tanto Blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GM4PT2",
+    "section": "ParaMilitary 2",
+    "released": "Jan. 2021",
+    "steel": "Satin CPM-M4",
+    "handle": "Natural G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GM4PTBK2",
+   "section": "ParaMilitary 2",
+   "released": "Jan. 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Natural G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GM4PTBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GM4PTBK2",
+    "handle": "Natural G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "Jan. 2021",
+    "note": "Blade HQ Dealer Exclusive. Features a Tanto Blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GM4PTBK2",
+    "section": "ParaMilitary 2",
+    "released": "Jan. 2021",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Natural G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GWC2",
+   "section": "ParaMilitary 2",
+   "released": "Feb. 2021",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "C81GPWC2",
+   "src": "wiki|C81GWC2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GWC2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Feb. 2021",
+    "note": "Cutlery Shoppe dealer exclusive. Features a Wharncliffe blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GWC2",
+    "section": "ParaMilitary 2",
+    "released": "Feb. 2021",
+    "steel": "CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPODBK2",
+   "section": "ParaMilitary 2",
+   "released": "March 2021",
+   "steel": "Black DLC coated CPM-S90V",
+   "handle": "Olive Drab Green G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPODBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPODBK2",
+    "handle": "Olive Drab Green G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S90V",
+    "from_to": "March 2021",
+    "note": "DLT Trading Dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPODBK2",
+    "section": "ParaMilitary 2",
+    "released": "March 2021",
+    "steel": "Black DLC coated CPM-S90V",
+    "handle": "Olive Drab Green G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GCOFL2",
+   "section": "ParaMilitary 2",
+   "released": "June 2021",
+   "steel": "Laser engraved CPM SPY27",
+   "handle": "multi-colored G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C81GPCOFL2",
+   "src": "wiki|C81GCOFL2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GCOFL2",
+    "handle": "multi-colored G-10",
+    "edge": "PE",
+    "steel": "Laser engraved CPM SPY27",
+    "from_to": "June 2021",
+    "note": "Both sides of the blade are laser engraved with American flag images, and the G-10 scales printed with the Colorado state flag logo.",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C81GCOFL2",
+    "section": "ParaMilitary 2",
+    "released": "June 2021",
+    "steel": "Laser engraved CPM SPY27",
+    "handle": "multi-colored G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPNGRBK2",
+   "section": "ParaMilitary 2",
+   "released": "July 2021",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Neon Green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPNGRBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPNGRBK2",
+    "handle": "Neon Green G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "July 2021",
+    "note": "Knife Joy Dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPNGRBK2",
+    "section": "ParaMilitary 2",
+    "released": "July 2021",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Neon Green G-10",
+    "type": "KnifeJoy excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFPBLBK2",
+   "section": "ParaMilitary 2",
+   "released": "August 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Blue Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CFPBLBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFPBLBK2",
+    "handle": "Blue Carbon Fiber",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "August 2021",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive, Sold out in 9 minutes. The handle material is also known as Fat Carbon Arctic Storm.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFPBLBK2",
+    "section": "ParaMilitary 2",
+    "released": "August 2021",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Blue Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CUPBK2",
+   "section": "ParaMilitary 2",
+   "released": "August 2021",
+   "steel": "Black DLC coated CPM REX 45",
+   "handle": "Natural Copper",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CUPBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CUPBK2",
+    "handle": "Natural Copper",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM REX 45",
+    "from_to": "August 2021",
+    "note": "Blade HQ Dealer Exclusive. No liners.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CUPBK2",
+    "section": "ParaMilitary 2",
+    "released": "August 2021",
+    "steel": "Black DLC coated CPM REX 45",
+    "handle": "Natural Copper",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPDGYLMX2",
+   "section": "ParaMilitary 2",
+   "released": "September 2021",
+   "steel": "Elmax",
+   "handle": "Dark Gray G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPDGYLMX2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPDGYLMX2",
+    "handle": "Dark Gray G-10",
+    "edge": "PE",
+    "steel": "Elmax",
+    "from_to": "September 2021",
+    "note": "BladeOps Dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPDGYLMX2",
+    "section": "ParaMilitary 2",
+    "released": "September 2021",
+    "steel": "Elmax",
+    "handle": "Dark Gray G-10",
+    "type": "BladeOps excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFPBL2",
+   "section": "ParaMilitary 2",
+   "released": "October 2021",
+   "steel": "CPM-M4",
+   "handle": "Blue Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CFPBL2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFPBL2",
+    "handle": "Blue Carbon Fiber",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "October 2021",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive. The handle material is also known as Fat Carbon Arctic Storm.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFPBL2",
+    "section": "ParaMilitary 2",
+    "released": "October 2021",
+    "steel": "CPM-M4",
+    "handle": "Blue Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFPGRBK2",
+   "section": "ParaMilitary 2",
+   "released": "November 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Green Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "C81CFPGR2",
+   "src": "wiki|C81CFPGRBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFPGRBK2",
+    "handle": "Green Carbon Fiber",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "November 2021",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive. The handle material is also known as Jungle Wear Fat Carbon.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFPGRBK2",
+    "section": "ParaMilitary 2",
+    "released": "November 2021",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Green Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFPRDORBK2",
+   "section": "ParaMilitary 2",
+   "released": "December 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Red Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "C81CFPRDOR",
+   "src": "wiki|C81CFPRDORBK2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFPRDORBK2",
+    "handle": "Red Carbon Fiber",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4",
+    "from_to": "December 2021",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive. The handle material is also known as Lave Flow Fat Carbon.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFPRDORBK2",
+    "section": "ParaMilitary 2",
+    "released": "December 2021",
+    "steel": "Black DLC coated CPM-M4",
+    "handle": "Red Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81ALPPR2",
+   "section": "ParaMilitary 2",
+   "released": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Purple anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPPR2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPPR2",
+    "handle": "Purple anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "21 December 2021",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPPR2",
+    "section": "ParaMilitary 2",
+    "released": "21 December 2021",
+    "steel": "CTS-BD1N",
+    "handle": "Purple anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81ALPBL2",
+   "section": "ParaMilitary 2",
+   "released": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Blue anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPBL2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPBL2",
+    "handle": "Blue anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "21 December 2021",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPBL2",
+    "section": "ParaMilitary 2",
+    "released": "21 December 2021",
+    "steel": "CTS-BD1N",
+    "handle": "Blue anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81ALPGR2",
+   "section": "ParaMilitary 2",
+   "released": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Green anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPGR2|2021",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPGR2",
+    "handle": "Green anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "21 December 2021",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPGR2",
+    "section": "ParaMilitary 2",
+    "released": "21 December 2021",
+    "steel": "CTS-BD1N",
+    "handle": "Green anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPORBL2",
+   "section": "ParaMilitary 2",
+   "released": "January 2022",
+   "steel": "CPM REX 45",
+   "handle": "Orange & Blue G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~700",
+   "alt": "",
+   "src": "wiki|C81GPORBL2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPORBL2",
+    "handle": "Orange & Blue G-10",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "January 2022",
+    "note": "Cutlery Shoppe Dealer Exclusive. The handle features two different colored scales, one in orange and the other in blue.",
+    "number_made": "~700"
+   },
+   "auto": {
+    "sku": "C81GPORBL2",
+    "section": "ParaMilitary 2",
+    "released": "January 2022",
+    "steel": "CPM REX 45",
+    "handle": "Orange & Blue G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "~700"
+   }
+  },
+  {
+   "sku": "C81MCFLMXP2",
+   "section": "ParaMilitary 2",
+   "released": "January 2022",
+   "steel": "Elmax",
+   "handle": "Marbled Carbon fiber",
+   "type": "Fradon Lock excl.",
+   "qty": "~800",
+   "alt": "",
+   "src": "wiki|C81MCFLMXP2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81MCFLMXP2",
+    "handle": "Marbled Carbon fiber",
+    "edge": "PE",
+    "steel": "Elmax",
+    "from_to": "January 2022",
+    "note": "Fradon Lock Dealer Exclusive.",
+    "number_made": "~800"
+   },
+   "auto": {
+    "sku": "C81MCFLMXP2",
+    "section": "ParaMilitary 2",
+    "released": "January 2022",
+    "steel": "Elmax",
+    "handle": "Marbled Carbon fiber",
+    "type": "Fradon Lock excl.",
+    "qty": "~800"
+   }
+  },
+  {
+   "sku": "C81GPOROD2",
+   "section": "ParaMilitary 2",
+   "released": "January 2022",
+   "steel": "CPM REX 45",
+   "handle": "Green & Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~700",
+   "alt": "",
+   "src": "wiki|C81GPOROD2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPOROD2",
+    "handle": "Green & Orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "January 2022",
+    "note": "Cutlery Shoppe Dealer Exclusive. The handle features two different colored scales, one in green and the other in orange.",
+    "number_made": "~700"
+   },
+   "auto": {
+    "sku": "C81GPOROD2",
+    "section": "ParaMilitary 2",
+    "released": "January 2022",
+    "steel": "CPM REX 45",
+    "handle": "Green & Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "~700"
+   }
+  },
+  {
+   "sku": "C81ALPBK2",
+   "section": "ParaMilitary 2",
+   "released": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Black anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPBK2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPBK2",
+    "handle": "Black anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "16 March 2022",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPBK2",
+    "section": "ParaMilitary 2",
+    "released": "16 March 2022",
+    "steel": "CTS-BD1N",
+    "handle": "Black anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81ALPOR2",
+   "section": "ParaMilitary 2",
+   "released": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Orange anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPOR2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPOR2",
+    "handle": "Orange anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "16 March 2022",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPOR2",
+    "section": "ParaMilitary 2",
+    "released": "16 March 2022",
+    "steel": "CTS-BD1N",
+    "handle": "Orange anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81ALPRD2",
+   "section": "ParaMilitary 2",
+   "released": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Red anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81ALPRD2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81ALPRD2",
+    "handle": "Red anodized Aluminum",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "16 March 2022",
+    "note": "Blade HQ Dealer Exclusive. No liners. Handle features a \"Cosmic Arc\" textured pattern.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81ALPRD2",
+    "section": "ParaMilitary 2",
+    "released": "16 March 2022",
+    "steel": "CTS-BD1N",
+    "handle": "Red anodized Aluminum",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWCBK2",
+   "section": "ParaMilitary 2",
+   "released": "1 April 2022",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWCBK2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWCBK2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S30V",
+    "from_to": "1 April 2022",
+    "note": "Cutlery Shoppe Dealer Exclusive. Features a Wharncliffe blade and black liners and hardware.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWCBK2",
+    "section": "ParaMilitary 2",
+    "released": "1 April 2022",
+    "steel": "Black DLC coated CPM-S30V",
+    "handle": "Black G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPPR2",
+   "section": "ParaMilitary 2",
+   "released": "April 2022",
+   "steel": "Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "C81GPR2",
+   "src": "wiki|C81GPPR2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPPR2",
+    "handle": "Purple G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "April 2022",
+    "note": "DLT Trading Dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPPR2",
+    "section": "ParaMilitary 2",
+    "released": "April 2022",
+    "steel": "Cru-Wear",
+    "handle": "Purple G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWCOR2",
+   "section": "ParaMilitary 2",
+   "released": "August 2022",
+   "steel": "CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWCOR2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWCOR2",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "CTS-XHP",
+    "from_to": "August 2022",
+    "note": "Cutlery Shoppe Dealer Exclusive. Features a Wharncliffe blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWCOR2",
+    "section": "ParaMilitary 2",
+    "released": "August 2022",
+    "steel": "CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPTLBK2",
+   "section": "ParaMilitary 2",
+   "released": "August 2022",
+   "steel": "Black DLC coated CPM-S90V",
+   "handle": "Teal G-10",
+   "type": "MGE Wholesale excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPTLBK2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPTLBK2",
+    "handle": "Teal G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S90V",
+    "from_to": "August 2022",
+    "note": "MGE Wholesale distributor Exclusive. Features all-black hardware (liners, screws etc.)",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPTLBK2",
+    "section": "ParaMilitary 2",
+    "released": "August 2022",
+    "steel": "Black DLC coated CPM-S90V",
+    "handle": "Teal G-10",
+    "type": "MGE Wholesale excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWCORBK2",
+   "section": "ParaMilitary 2",
+   "released": "September 2022",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWCORBK2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWCORBK2",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CTS-XHP",
+    "from_to": "September 2022",
+    "note": "Cutlery Shoppe Dealer Exclusive. Features a Wharncliffe blade and black 'hardware' (screws, liner, clip).",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWCORBK2",
+    "section": "ParaMilitary 2",
+    "released": "September 2022",
+    "steel": "Black DLC coated CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFGR2",
+   "section": "ParaMilitary 2",
+   "released": "October 2022",
+   "steel": "CPM-M4",
+   "handle": "Green Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "C81FCGR2 (wiki)",
+   "src": "wiki|C81FCGR2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81FCGR2",
+    "handle": "Green Carbon Fiber",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "October 2022",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive. The handle material is also known as Jungle Wear Fat Carbon.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81FCGR2",
+    "section": "ParaMilitary 2",
+    "released": "October 2022",
+    "steel": "CPM-M4",
+    "handle": "Green Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPCWBK2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 2022",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Smooth Black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPCWBK2|2022",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPCWBK2",
+    "handle": "Smooth Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated Cru-Wear",
+    "from_to": "Dec. 2022",
+    "note": "Knifecenter Dealer Exclusive. The G-10 handle features a smooth finish.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPCWBK2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 2022",
+    "steel": "Black DLC coated Cru-Wear",
+    "handle": "Smooth Black G-10",
+    "type": "KnifeCenter excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPCBL2",
+   "section": "ParaMilitary 2",
+   "released": "2023 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GCBL2 (wiki)",
+   "src": "wiki|C81GCBL2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GCBL2",
+    "handle": "Cobalt blue G-10",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "2023 -",
+    "note": "CPM SPY27 is developed by Spyderco and Crucible Industries, and is exclusive to Spyderco.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GCBL2",
+    "section": "ParaMilitary 2",
+    "released": "2023 -",
+    "steel": "CPM SPY27",
+    "handle": "Cobalt blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GMCBKP2",
+   "section": "ParaMilitary 2",
+   "released": "2023 -",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GBKYLMC2 (wiki)",
+   "src": "wiki|C81GBKYLMC2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBKYLMC2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "from_to": "2023 -",
+    "note": "The C81GBKYLMC2 is part of Spyderco Salt series of knives.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GBKYLMC2",
+    "section": "ParaMilitary 2",
+    "released": "2023 -",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GBN15V2",
+   "section": "ParaMilitary 2",
+   "released": "Feb. 2023",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C81GPBN15V2",
+   "src": "wiki|C81GBN15V2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBN15V2",
+    "handle": "Brown G-10",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "Feb. 2023",
+    "note": "The blade was made using a specialized heat-treating protocol, developed by custom knifemaker Shawn Houston.",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C81GBN15V2",
+    "section": "ParaMilitary 2",
+    "released": "Feb. 2023",
+    "steel": "CPM 15V",
+    "handle": "Brown G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFRDOR2",
+   "section": "ParaMilitary 2",
+   "released": "Mar. 2023",
+   "steel": "CPM-M4",
+   "handle": "Red Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CFRDOR2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFRDOR2",
+    "handle": "Red Carbon Fiber",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "Mar. 2023",
+    "note": "Smokey Mountain Knifeworks Dealer Exclusive. The handle material is also known as Lava Flow Fat Carbon.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFRDOR2",
+    "section": "ParaMilitary 2",
+    "released": "Mar. 2023",
+    "steel": "CPM-M4",
+    "handle": "Red Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPTL2",
+   "section": "ParaMilitary 2",
+   "released": "June 2023",
+   "steel": "CPM-S90V",
+   "handle": "Teal G-10",
+   "type": "MGE Wholesale excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPTL2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPTL2",
+    "handle": "Teal G-10",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "June 2023",
+    "note": "MGE Wholesale distributor Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPTL2",
+    "section": "ParaMilitary 2",
+    "released": "June 2023",
+    "steel": "CPM-S90V",
+    "handle": "Teal G-10",
+    "type": "MGE Wholesale excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPGYW2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 2023",
+   "steel": "Elmax",
+   "handle": "Dark Gray G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPGYW2|2023",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPGYW2",
+    "handle": "Dark Gray G-10",
+    "edge": "PE",
+    "steel": "Elmax",
+    "from_to": "Oct. 2023",
+    "note": "BladeOps Dealer Exclusive. Emerson Wave.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPGYW2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 2023",
+    "steel": "Elmax",
+    "handle": "Dark Gray G-10",
+    "type": "BladeOps excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GDGYRX76BKP2",
+   "section": "ParaMilitary 2",
+   "released": "Nov. 2024",
+   "steel": "Black DLC-coated CPM REX 76",
+   "handle": "Brick dark grey G-10",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GDGYRX76BKP2|2024",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GDGYRX76BKP2",
+    "handle": "Brick dark grey G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM REX 76",
+    "from_to": "Nov. 2024",
+    "note": "GP Knives dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GDGYRX76BKP2",
+    "section": "ParaMilitary 2",
+    "released": "Nov. 2024",
+    "steel": "Black DLC-coated CPM REX 76",
+    "handle": "Brick dark grey G-10",
+    "type": "GP Knives excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GBKYLMCP2",
+   "section": "ParaMilitary 2",
+   "released": "Dec. 2024 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow and black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81GBKYLMC2 (wiki)",
+   "src": "wiki|C81GBKYLMC2|2024",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBKYLMC2",
+    "handle": "Yellow and black G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "Dec. 2024 -",
+    "note": "The C81GBKYLMC2 is part of Spyderco Salt series of knives.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81GBKYLMC2",
+    "section": "ParaMilitary 2",
+    "released": "Dec. 2024 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Yellow and black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GDGYRX76P2",
+   "section": "ParaMilitary 2",
+   "released": "Feb. 2025",
+   "steel": "Satin CPM REX 76",
+   "handle": "Brick dark grey G-10",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GDGYRX76BKP2|2025",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GDGYRX76BKP2",
+    "handle": "Brick dark grey G-10",
+    "edge": "PE",
+    "steel": "CPM REX 76",
+    "from_to": "Feb. 2025",
+    "note": "GP Knives dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GDGYRX76BKP2",
+    "section": "ParaMilitary 2",
+    "released": "Feb. 2025",
+    "steel": "CPM REX 76",
+    "handle": "Brick dark grey G-10",
+    "type": "GP Knives excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GBKRDMCBKP2",
+   "section": "ParaMilitary 2",
+   "released": "Apr. 2025",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Red and Black G-10",
+   "type": "Limited",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GBKRDMCBKP2|2025",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBKRDMCBKP2",
+    "handle": "Red and Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "from_to": "Apr. 2025",
+    "note": "This special edition was offered only to employees of Crucible Industries and members of Spyderco collector's club. The blade also features the Crucible Industries logo. See this thread on the Spyderco.com forums for more information.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GBKRDMCBKP2",
+    "section": "ParaMilitary 2",
+    "released": "Apr. 2025",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "handle": "Red and Black G-10",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81CFSPY27P2",
+   "section": "ParaMilitary 2",
+   "released": "Oct. 2025",
+   "steel": "CPM SPY27",
+   "handle": "Black Dunes pattern Fatcarbon Carbon Fiber",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81CFSPY27P2|2025",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81CFSPY27P2",
+    "handle": "Black Dunes pattern Fatcarbon Carbon Fiber",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "Oct. 2025",
+    "note": "H.L. Dalis Inc. distributor exclusive, to commemorate their 100th anniversary. Spyderco's design team will sign one box for every 50 units, and H.L. Dalis will include one signed boxed unit at standard volume cost with every 51 units—50 plus one signed boxed unit—ordered by its dealers.Iconic Spyderco Design Appears On New H.L. Dalis Exclusive , accessed 29 October 2025. The blade is cutout with the profile of the statue of Liberty, enhanced with laser engraving of the statue.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81CFSPY27P2",
+    "section": "ParaMilitary 2",
+    "released": "Oct. 2025",
+    "steel": "CPM SPY27",
+    "handle": "Black Dunes pattern Fatcarbon Carbon Fiber",
+    "type": "H.L. Dalis excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPORRX1212",
+   "section": "ParaMilitary 2",
+   "released": "Jan. 5 2026",
+   "steel": "CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPORRX1212|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPORRX1212",
+    "handle": "HEX Pattern Orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 121",
+    "from_to": "Jan. 5 2026",
+    "note": "Cutlery Shoppe exclusive, in collaboration with the Spyderco Millie Club as an exclusive club knife with option 'tiger logo' engraving.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPORRX1212",
+    "section": "ParaMilitary 2",
+    "released": "Jan. 5 2026",
+    "steel": "CPM REX 121",
+    "handle": "HEX Pattern Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWCORRX1212",
+   "section": "ParaMilitary 2",
+   "released": "Jan. 5 2026",
+   "steel": "CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWCORRX1212|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWCORRX1212",
+    "handle": "HEX Pattern Orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 121",
+    "from_to": "Jan. 5 2026",
+    "note": "Cutlery Shoppe exclusive, features a Wharncliffe Blade, in collaboration with the Spyderco Millie Club as an exclusive club knife with option 'tiger logo' engraving.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWCORRX1212",
+    "section": "ParaMilitary 2",
+    "released": "Jan. 5 2026",
+    "steel": "CPM REX 121",
+    "handle": "HEX Pattern Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GNDMCP2",
+   "section": "ParaMilitary 2",
+   "released": "March 2026",
+   "steel": "CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GNDMCP2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GNDMCP2",
+    "handle": "Natural diamond mesh G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "March 2026",
+    "note": "Blade HQ dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GNDMCP2",
+    "section": "ParaMilitary 2",
+    "released": "March 2026",
+    "steel": "CPM MagnaCut",
+    "handle": "Natural diamond mesh G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GNDMCPBK2",
+   "section": "ParaMilitary 2",
+   "released": "March 2026",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GNDMCPBK2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GNDMCPBK2",
+    "handle": "Natural diamond mesh G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "from_to": "March 2026",
+    "note": "Blade HQ dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GNDMCPBK2",
+    "section": "ParaMilitary 2",
+    "released": "March 2026",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "handle": "Natural diamond mesh G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPWCORRX121BK2",
+   "section": "ParaMilitary 2",
+   "released": "April 2026",
+   "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPWCORRX121BK2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPWCORRX121BK2",
+    "handle": "HEX Pattern Orange G-10",
+    "edge": "PE",
+    "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+    "from_to": "April 2026",
+    "note": "Cutlery Shoppe dealer exclusive, features a Wharncliffe Blade, in collaboration with the Spyderco Millie Club as an exclusive club knife with option 'tiger logo' engraving. The C81GPWCORRX121BK2 is also the first offering from Spyderco with their new VaporTech ZrOC (zirconium oxycarbide) blade finish.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPWCORRX121BK2",
+    "section": "ParaMilitary 2",
+    "released": "April 2026",
+    "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+    "handle": "HEX Pattern Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GPORRX121BK2",
+   "section": "ParaMilitary 2",
+   "released": "May 2026",
+   "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GPORRX121BK2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GPORRX121BK2",
+    "handle": "HEX Pattern Orange G-10",
+    "edge": "PE",
+    "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+    "from_to": "May 2026",
+    "note": "Cutlery Shoppe exclusive, in collaboration with the Spyderco Millie Club as an exclusive club knife with option 'tiger logo' engraving.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GPORRX121BK2",
+    "section": "ParaMilitary 2",
+    "released": "May 2026",
+    "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+    "handle": "HEX Pattern Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GBKM4TP2",
+   "section": "ParaMilitary 2",
+   "released": "July 2026",
+   "steel": "CPM-M4, Tanto",
+   "handle": "Black G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GBKM4TP2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBKM4TP2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM-M4, Tanto",
+    "from_to": "July 2026",
+    "note": "BladeHQ dealer Exclusive. Tanto blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GBKM4TP2",
+    "section": "ParaMilitary 2",
+    "released": "July 2026",
+    "steel": "CPM-M4, Tanto",
+    "handle": "Black G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81GBKBKM4TP2",
+   "section": "ParaMilitary 2",
+   "released": "July 2026",
+   "steel": "Black DLC coated CPM-M4, Tanto",
+   "handle": "Black G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81GBKBKM4TP2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81GBKBKM4TP2",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-M4, Tanto",
+    "from_to": "July 2026",
+    "note": "BladeHQ dealer Exclusive. Tanto blade.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81GBKBKM4TP2",
+    "section": "ParaMilitary 2",
+    "released": "July 2026",
+    "steel": "Black DLC coated CPM-M4, Tanto",
+    "handle": "Black G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81PBK2",
+   "section": "ParaMilitary 2 Lightweight",
+   "released": "Jan. 2026 -",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81BK2 (wiki)",
+   "src": "wiki|C81BK2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81BK2",
+    "handle": "Black FRN",
+    "edge": "PE, SE",
+    "steel": "CTS-BD1N",
+    "from_to": "Jan. 2026 -",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81BK2",
+    "section": "ParaMilitary 2 Lightweight",
+    "released": "Jan. 2026 -",
+    "steel": "CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81SBK2",
+   "section": "ParaMilitary 2 Lightweight",
+   "released": "Jan. 2026 -",
+   "steel": "CTS-BD1N (SpyderEdge)",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "official|C81SBK2"
+  },
+  {
+   "sku": "C81PBBK2",
+   "section": "ParaMilitary 2 Lightweight",
+   "released": "March 2026 -",
+   "steel": "Black DLC-coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C81BK2 (wiki)",
+   "src": "wiki|C81BK2|2026#2",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81BK2",
+    "handle": "Black FRN",
+    "edge": "PE",
+    "steel": "Black DLC-coated CTS-BD1N",
+    "from_to": "March 2026 -",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C81BK2",
+    "section": "ParaMilitary 2 Lightweight",
+    "released": "March 2026 -",
+    "steel": "Black DLC-coated CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C81PBN15V2",
+   "section": "ParaMilitary 2 Lightweight",
+   "released": "April 2026",
+   "steel": "CPM 15V",
+   "handle": "Brown FRN",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C81PBN15V2|2026",
+   "src_raw": {
+    "table": "Variations of the Paramilitary 2",
+    "sku": "C81PBN15V2",
+    "handle": "Brown FRN",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "April 2026",
+    "note": "Sprint Run",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C81PBN15V2",
+    "section": "ParaMilitary 2 Lightweight",
+    "released": "April 2026",
+    "steel": "CPM 15V",
+    "handle": "Brown FRN",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  }
+ ]
+}

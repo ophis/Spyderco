@@ -1,0 +1,287 @@
+The '''C240 Smock''' is one of Spyderco's collaborations and part of their [[Flippers]] series.
+
+==Appearance in catalogs==
+
+The C240 Smock appeared in the following catalogs:
+
+* [https://drive.google.com/file/d/1i6evNozQJwa9m8cIWcKSR_EtCc212mGq/view?usp=drive_link 2018 Spyderco Product Guide - Mid-Year Product Guide]
+* [https://drive.google.com/file/d/115juA2uhTsAjWBU9ZiW_p0fb6rMbVR_f/view?usp=drive_link 2019 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1TJDH1p9npPypJPKg1d0s_wn-OZuumgBW/view?usp=drive_link 2020 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1zzsE1TZ-EV2vJ4t1NZQq-bOG_xygzoCh/view?usp=drive_link 2021 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1VJIc1YrrgVarC4l4IH8V-7bb5cDmMvk8/view?usp=drive_link 2022 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1_LENrXLm_BkB28TkKDNxIwPzRMqOuaOf/view?usp=drive_link 2023 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1_GFtY-vUerke9RCetsz594-Jfjs6E_vH/view?usp=drive_link 2024 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1Zv8yeya5diDEJxD1rlZKW4POswQ4EPIU/view?usp=drive_link 2025 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1oYl1bRUQ-5WU4UnB5jL18pj9m5GjT-gN/view?usp=drive_link 2026 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1Vn8rsx3sX3OFcKww6NlD5wa4SruFHZTt/view?usp=drive_link 2026 Spyderco Reveal Volume 21]
+
+==Designer==
+
+Kevin Smock
+
+==History, mentionings from the forums etc.==
+
+[https://forum.spyderco.com/viewtopic.php?f=2&t=81898 Anticipation thread] has a bunch of user reviews.
+
+
+==Information from the Spyderco catalog on the web==
+
+'''C240 Smock'''
+
+"''Kevin Smock is an award-winning industrial designer who is turning heads with his visionary handcrafted custom knives. Based on his SK23 custom folder, the Spyderco Smock translates his innovative style into a premium-quality production folder.''
+
+
+''The hollow-ground blade of this knife is precision machined from CPM® S30V® stainless steel and includes both a Trademark Round Hole™ and an elegantly understated flipper opener. The flipper action is supported by a pair of special ball-bearing pivot washers and a dedicated secondary detent mechanism separate from the knife's lock. It is paired with a skeletonized handle featuring full stainless steel liners, textured carbon fiber/G-10 laminate scales, lightweight, open-backed construction, and a reversible, tip-up pocket clip for ambidextrous carry.''
+
+
+''The Smock’s most unique feature, however, is the button release on its high-strength Compression Lock mechanism, which allows the knife to be safely and easily closed without placing your fingers near the blade’s edge. Slim, innovative and distinctly different, the Smock truly reflects Kevin Smock's unique approach to knifemaking.''" 
+
+
+The C240 Smock in [https://www.spyderco.com/catalog/details/C240CFP/1205 Spyderco's online catalog].
+
+Also in Spyderco's online catalog:
+*[https://www.spyderco.com/catalog/details/C240G/2180 KnifeJoy exclusive]
+*[https://www.spyderco.com/catalog/details/C240GRD/2159 DLT Trading exclusive]
+*[https://www.spyderco.com/catalog/details/C240GM4/2129 BladeHQ exclusive (satin)]
+*[https://www.spyderco.com/catalog/details/C240GM4BK/2128 BladeHQ exclusive (TiCN)]
+
+==Variations==
+
+The C240 Smock is made in Taichung, Taiwan and has
+* Button release [[Compression Lock]]
+* Skeletonized stainless steel liners
+* Ball-bearing pivot washers
+* Lanyard hole
+* Front flipper tab
+
+{|{{Articletable}}
+{{Tableheading}}'''[[SKU]]'''
+{{Tableheading}}'''[[Handle]]'''
+{{Tableheading}}'''[[Edge|Edge(s)]]'''
+{{Tableheading}}'''[[Steel]]'''
+{{Tableheading}}'''[[From/To]]'''
+{{Tableheading}}'''[[MSRP]]'''
+{{Tableheading}}'''[[Note]]'''
+{{Tableheading}}'''[[Number made]]'''
+{{Tableheading}}'''[[Grind]]'''
+{{Tableheading}}'''[[Clip]]'''
+{{Tableheading}}'''[[Clip positions]]'''
+{{Tableheading}}'''[[Collectors club]]'''
+|-
+|valign="top" |C240CFP
+|valign="top" |Textured black [[CF]]/[[G-10]] laminate
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-S30V]]
+|valign="top" |Feb. 2019-
+|valign="top" |$250.00 (2019)
+|valign="top" |
+|valign="top" |Regular production
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Main]]
+
+|-
+|valign="top" |C240GP
+|valign="top" |Smooth black [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-20CV]]
+|valign="top" |Mar. 27, 2020
+|valign="top" |$175.00 (street), $250.00 (MSRP)
+|valign="top" |KnifeJoy dealer [[Exclusive]]
+|valign="top" |~1000
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GRD
+|valign="top" |Red [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[M390]]
+|valign="top" |Oct. 2020
+|valign="top" |$290.00 (MSRP)
+|valign="top" |DLT Trading dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GM4P
+|valign="top" |Jade (natural) [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-M4]]
+|valign="top" |Jul. 2021
+|valign="top" |$182.00 (street), $260.00 (MSRP)
+|valign="top" |BladeHQ dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GM4PBK
+|valign="top" |Jade (natural) [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[TiCN]] coated [[CPM-M4]]
+|valign="top" |Aug. 2021
+|valign="top" |$217.00 (street), $310.00 (MSRP)
+|valign="top" |BladeHQ dealer [[Exclusive]]. All black hardware.
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Black [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GWPBK
+|valign="top" |White polished/smooth [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[TiCN]] coated [[CPM REX 45]]
+|valign="top" |Dec. 2024
+|valign="top" |$385.00 (MSRP, 2024), $335.00 (street, 2024)
+|valign="top" |GP Knives [[Exclusive]]. All black hardware.
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Black [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240BKALBKCWP
+|valign="top" |Black [[Aluminum]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[TiCN]] coated [[Cru-Wear]]
+|valign="top" |March 2025
+|valign="top" |$370.00 (2025, MSRP), $277.50 (2025, Street)
+|valign="top" |The Knife Distribor [[Exclusive]]. All black hardware.
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Black [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240ALCWP
+|valign="top" |Gray [[Aluminum]]
+|valign="top" |[[PE]]
+|valign="top" |[[Cru-Wear]]
+|valign="top" |May 2025
+|valign="top" |$290.00 (2025, MSRP), $217.50 (2025, Street)
+|valign="top" |The Knife Distributor [[Exclusive]]. 
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Black [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240MGRP
+|valign="top" |Green canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-20CV]]
+|valign="top" |Sep. 2025
+|valign="top" |$310.00 (2025, MSRP), $232.50 (2025, Street)
+|valign="top" |DLT Trading dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GPRDBK
+|valign="top" |Red [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[TiCN]]-coated [[CPM-4V]]
+|valign="top" |May 2026
+|valign="top" |$310.00 (2025, MSRP), $232.50 (2025, Street)
+|valign="top" |St. Nick's dealer [[Exclusive]]
+|valign="top" |Limited, ~850<ref name="number available">[https://www.stnicksknives.com/products/snk-exclusive-black-ticn-4v-blade-red-g10-scales?srsltid=AfmBOoqE36Z3P0z6Nusu5RdGyGFf8Os9p81j9f9dCdeJOCgRMT53jf2v]Number of knives available according to St Nick's Knives</ref>
+|valign="top" |[[Hollow]]
+|valign="top" |Black [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C240GPBOR
+|valign="top" |Burnt orange [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM REX 121]]
+|valign="top" |2026
+|valign="top" |$570.00 (2026)
+|valign="top" |[[Sprint Run]]
+|valign="top" |Limited
+|valign="top" |[[Hollow]]
+|valign="top" |Chrome silver [[hourglass]]
+|valign="top" |[[LH/RH]], [[TU]]
+|valign="top" |[[Variant]]
+|}
+
+==Most collectible variation==
+
+===Questions regarding collecting the C240===
+
+Some interesting questions we are looking for an answer to:
+
+Questions with an answer: '''Q:''' I see pictures of the Smock with a J-style clip and for right hand only carry. Did this ever make it to production? '''A:''' No. The clip was changed to the typical hourglass design and moved to accommodate both right and left hand carry before it went into production.
+
+==Technical information==
+
+Measurements (mm and grams) of the C240 Smock:
+{|{{Articletable}}
+{{Tableheading}}'''Variation'''
+{{Tableheading}}'''Length overall'''
+{{Tableheading}}'''Length closed'''
+{{Tableheading}}'''Length blade'''
+{{Tableheading}}'''Length edge'''
+{{Tableheading}}'''Hole Ø'''
+{{Tableheading}}'''Blade thickness'''
+{{Tableheading}}'''Weight'''
+|-
+|align="right"|C240CF
+|align="right"|202mm
+|align="right"|114mm
+|align="right"|88mm
+|align="right"|74mm
+|align="right"|9.0mm
+|align="right"|3.0mm
+|align="right"|105g
+|}
+
+Measurements (inches and ounces) of the C240 Smock:
+{|{{Articletable}}
+{{Tableheading}}'''Variation'''
+{{Tableheading}}'''Length overall'''
+{{Tableheading}}'''Length closed'''
+{{Tableheading}}'''Length blade'''
+{{Tableheading}}'''Length edge'''
+{{Tableheading}}'''Hole Ø'''
+{{Tableheading}}'''Blade thickness'''
+{{Tableheading}}'''Weight'''
+|-
+|align="right"|C240CF
+|align="right"|7.95"
+|align="right"|4.50"
+|align="right"|3.45"
+|align="right"|2.93"
+|align="right"|0.35"
+|align="right"|0.118"
+|align="right"|3.7oz
+|}
+
+==References==
+
+<references/>
+
+== Pictures ==
+
+==Categories==
+
+[[Category:Knives]]
+[[Category:Folding knives]]
+[[Category:ClipIts]]

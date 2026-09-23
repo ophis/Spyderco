@@ -2,6 +2,8 @@
 
 Checklist for every model list in `Catalogs/`, and for every new model line fetched.
 
+Run `python3 tools/spy.py verify` before committing catalog changes.
+
 ## 1. Model data
 
 - [ ] Every variant from the Spydiewiki variation table is present; original generation included (e.g. C81 Para-Military, C85 Yojimbo), not only the current one.

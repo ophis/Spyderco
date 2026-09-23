@@ -1,0 +1,634 @@
+The '''C229 Shaman''' is part of Spyderco's ''USA-Made'' lineup.
+
+==Appearance in catalogs==
+
+The C229 Shaman appeared in the following catalogs:
+
+* [https://drive.google.com/file/d/1x6b7ZfOqbP9M4Qm3SmXdZpxnuRT3OKfT/view?usp=drive_link 2017 Spyderco Product Guide - Mid-Year Product Guide]
+* [https://drive.google.com/file/d/19gCSAt2R0DoGNsqpr2sv73sW4qdJBi9N/view?usp=drive_link 2018 Spyderco Product Guide]
+* [https://drive.google.com/file/d/115juA2uhTsAjWBU9ZiW_p0fb6rMbVR_f/view?usp=drive_link 2019 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1HeWy8fcwSowLzxRhIN-bwNRk1hBLZk9J/view?usp=drive_link 2019 Spyderco Reveal Volume 2]
+* [https://drive.google.com/file/d/1wlZO4Npf1KLIvmIllhBznIwgJzhMOClD/view?usp=drive_link 2019 Spyderco Reveal Volume 3]
+* [https://drive.google.com/file/d/1TJDH1p9npPypJPKg1d0s_wn-OZuumgBW/view?usp=drive_link 2020 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1sFFu678M5FrBNHJlMX4Ukp7rSwqsPDAD/view?usp=drive_link 2020 Spyderco Reveal Volume 4]
+* [https://drive.google.com/file/d/1oPDJOrzARkrhJf9opcSEzE0AAR4zeUBv/view?usp=drive_link 2020 Spyderco Reveal Volume 5]
+* [https://drive.google.com/file/d/1zzsE1TZ-EV2vJ4t1NZQq-bOG_xygzoCh/view?usp=drive_link 2021 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1VJIc1YrrgVarC4l4IH8V-7bb5cDmMvk8/view?usp=drive_link 2022 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1_LENrXLm_BkB28TkKDNxIwPzRMqOuaOf/view?usp=drive_link 2023 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1S--crhgBI6EUjdi2doKFfmw5bUKKtxSj/view?usp=drive_link 2023 Spyderco Reveal Volume 12]
+* [https://drive.google.com/file/d/1_GFtY-vUerke9RCetsz594-Jfjs6E_vH/view?usp=drive_link 2024 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1Xc9WL_yZFjiM2FpEuac4E66xtiMfgZIj/view?usp=drive_link 2024 Spyderco Reveal Volume 16]
+* [https://drive.google.com/file/d/1Zv8yeya5diDEJxD1rlZKW4POswQ4EPIU/view?usp=drive_link 2025 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1IKisBZNVl1sbNoFjyJtj5X5AvJPo59-0/view?usp=drive_link 2025 Spyderco Reveal Volume 18]
+* [https://drive.google.com/file/d/1tnN80oi7pfYmoB9iJZX9wl0Q0Rv2h1d7/view?usp=drive_link 2025 Spyderco Reveal Volume 19]
+* [https://drive.google.com/file/d/1oYl1bRUQ-5WU4UnB5jL18pj9m5GjT-gN/view?usp=drive_link 2026 Spyderco Product Guide]
+* [https://drive.google.com/file/d/1Vn8rsx3sX3OFcKww6NlD5wa4SruFHZTt/view?usp=drive_link 2026 Spyderco Reveal Volume 21]
+
+==Designer==
+
+
+
+==History, mentionings from the forums etc.==
+
+
+==Information from the Spyderco catalog on the web==
+
+'''C229 Shaman'''
+
+"''Drawing inspiration from our iconic Native® folding knife, the Shaman offers the same advanced ergonomics and proven design dynamics in a larger, even more capable format. The soul of this impressive design is its CPM® S30V® stainless steel blade, which features a full-flat grind for outstanding edge geometry and an acute, utilitarian point. A fully accessible Trademark Round Hole™ proudly announces its Spyderco lineage and ensures swift, reliable, one-handed opening with either hand.''
+
+
+''The stonewash-finished blade is housed in an exceptionally refined, ergonomic handle built with nested skeletonized stainless steel liners and contoured matte-finished G-10 scales. This robust construction forms the foundation of the knife’s high-strength Compression Lock™ mechanism, which locks the blade securely open and allows safe, easy one-handed closing.''
+
+
+''To ensure convenient carry and immediate access, a stonewashed four-position pocket clip offers left or right-side, tip-up or tip-down carry. Available with either a PlainEdge™ or fully serrated SpyderEdge™ blade, the Shaman offers powerful cutting magic in a stylish, user-friendly format.''" 
+
+
+The C229 Shaman in [https://www.spyderco.com/catalog/details/C229G/1080 Spyderco's online catalog].
+
+==Variations==
+
+The C229 Shaman is made in Golden, CO and has
+* [[Compression Lock]]
+* Nested, skeltonized [[Stainless Steel]] liners
+* Lanyard hole
+* Subtle spine swedge
+
+{|{{Articletable}}
+{{Tableheading}}'''[[SKU]]'''
+{{Tableheading}}'''[[Handle]]'''
+{{Tableheading}}'''[[Edge|Edge(s)]]'''
+{{Tableheading}}'''[[Steel]]'''
+{{Tableheading}}'''[[From/To]]'''
+{{Tableheading}}'''[[MSRP]]'''
+{{Tableheading}}'''[[Note]]'''
+{{Tableheading}}'''[[Number made]]'''
+{{Tableheading}}'''[[Grind]]'''
+{{Tableheading}}'''[[Clip]]'''
+{{Tableheading}}'''[[Clip positions]]'''
+{{Tableheading}}'''[[Collectors club]]'''
+|-
+|valign="top" |C229GP
+|valign="top" |Black, matte finish, contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-S30V]]
+|valign="top" |Oct. 2017-
+|valign="top" |$289.00 (2019)
+|valign="top" |
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Main]]
+
+|-
+|valign="top" |C229GS
+|valign="top" |Black, matte finish, contoured [[G-10]]
+|valign="top" |[[SE]]
+|valign="top" |Satin [[CPM-S30V]]
+|valign="top" |Oct. 2017-
+|valign="top" |$289.00 (2019)
+|valign="top" |
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GPBK
+|valign="top" |Black, matte finish, contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC coated [[CPM-S30V]]
+|valign="top" |Feb. 2018-
+|valign="top" |$309.00 (2019)
+|valign="top" |Black hardware, satin liners
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Matte black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GSBK
+|valign="top" |Black, matte finish, contoured [[G-10]]
+|valign="top" |[[SE]]
+|valign="top" |Black DLC coated [[CPM-S30V]]
+|valign="top" |Mar. 2018-
+|valign="top" |$309.00 (2019)
+|valign="top" |Black hardware, satin liners
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Matte black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GM4P
+|valign="top" |Jade/Natural, contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-M4]]
+|valign="top" |Mar. 19, 2019 @ 10 AM MST
+|valign="top" |$199.00 (street), $300.00 (MSRP)
+|valign="top" |Blade HQ dealer [[Exclusive]]. Sold out in about 5 minutes.
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229CFP
+|valign="top" |Black, contoured [[CF]]
+|valign="top" |[[PE]]
+|valign="top" |Satin [[CPM-S90V]]
+|valign="top" |May 2019
+|valign="top" |$429.90 (2019)
+|valign="top" |[[Sprintrun]]
+|valign="top" |600-1200?
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GRDBK
+|valign="top" |Red, contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC coated [[CPM-4V]]
+|valign="top" |Sept. 19, 2019 @ 7 PM CST
+|valign="top" |$210.00 (street)
+|valign="top" |St. Nick's dealer [[Exclusive]]. Sold out in just over a minute. A second run was offered in 2020.
+|valign="top" |~450
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229MCW
+|valign="top" |Brown, contoured canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[Cru-Wear]]
+|valign="top" |Oct. 2019
+|valign="top" |$320.00 (2019)
+|valign="top" |[[Sprintrun]]
+|valign="top" |1200
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229RWDP
+|valign="top" |Contoured rosewood [[Dymondwood]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM REX 45]]
+|valign="top" |Jan. 2020
+|valign="top" |$210.00 (street), $300.00 (MSRP)
+|valign="top" |KnifeCenter dealer [[Exclusive]]. Sold out in a couple days.
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GFGBK
+|valign="top" |Forest green, smooth contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |DLC [[Cru-Wear]]
+|valign="top" |Feb. 01, 2020 @ 11 AM EST
+|valign="top" |$234.50 (street), $335.00 (MSRP)
+|valign="top" |The Knife Joker dealer [[Exclusive]]. Black hardware, but non-coated lock liner. Pre-orders opened briefly on Jan. 15 and again on Jan. 19. The actual on-sale date repeatedly crashed his webstore, resulting in the sale time being pushed back each time. They finally went up at around 2:30PM EST and sold out in well under a minute (I've seen mention from 5-20 seconds).
+|valign="top" |~435
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GM4PBK
+|valign="top" |Jade/Natural, contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC [[CPM-M4]]
+|valign="top" |Feb. 11, 2020 @ 10 AM MST
+|valign="top" |$224.95 (street), $320.00 (MSRP)
+|valign="top" |Blade HQ dealer [[Exclusive]]. Black hardware (uncoated liners, though). BHQ said they ordered a much larger run than usual, due to fast sell outs of past exclusives. This one sold out in approximately 5.5 hours.
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GPBORE
+|valign="top" |Burnt-orange contoured [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM REX 45]]
+|valign="top" |June 2020
+|valign="top" |$295.00 (2020)
+|valign="top" |[[Sprintrun]]
+|valign="top" |1200
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229MPZW
+|valign="top" |Brown, contoured canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[Z-WEAR PM]]
+|valign="top" |Feb. 2021
+|valign="top" |$320.00 (2020)
+|valign="top" |[[Sprintrun]]. Spyderco's first knife in [[Z-WEAR PM]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Chrome silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229BMBNP
+|valign="top" |Burlap [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S90V]]
+|valign="top" |2021
+|valign="top" |$340.00 (MSRP), $238.00 (Street)
+|valign="top" |Knifecenter dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GORBK 
+|valign="top" |Orange [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC coated [[CTS-XHP]]
+|valign="top" |March 2021
+|valign="top" |$320.00 (MSRP), $224.00 (Street)
+|valign="top" |Cutlery Shoppe dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GOR 
+|valign="top" |Orange [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CTS-XHP]]
+|valign="top" |May 2021
+|valign="top" |$289.00(MSRP) 
+|valign="top" |Cutlery Shoppe dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GODFDE 
+|valign="top" |Olive drab [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Flat dark earth PVD coated [[CTS-204P]]
+|valign="top" |June 2021
+|valign="top" |$320.00 (MSRP) 
+|valign="top" |River's Edge Cutlery dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229MM4 
+|valign="top" |Green canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-M4]]
+|valign="top" |May 2022 
+|valign="top" |$320.00 (MSRP), $245.00(Street)
+|valign="top" |Blade HQ dealer [[Exclusive]].
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+
+|valign="top" |C229BMBN 
+|valign="top" |Brown burlap [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S90V]]
+|valign="top" |June 2022 
+|valign="top" |$340.00 (2022)
+|valign="top" |Knifecenter dealer [[exclusive]].
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+
+|valign="top" |C229MPM4BK
+|valign="top" |Green canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |Black DLC [[CPM-M4]]
+|valign="top" |July 2022 
+|valign="top" |$340.00 (MSRP), $259.00 (Street)
+|valign="top" |Blade HQ dealer [[Exclusive]].
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GPDGR
+|valign="top" |Forest Green [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CTS-204P]]
+|valign="top" |August 2022 
+|valign="top" |$300.00 (MSRP), $229.95 (Street)
+|valign="top" |Knifeworks dealer [[Exclusive]].
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GGY
+|valign="top" |Gray [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[Elmax]]
+|valign="top" |August 2022 
+|valign="top" |$310.00 (MSRP), $235.00 (Street)
+|valign="top" |BladeOps dealer [[Exclusive]].
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229GBN15V
+|valign="top" |Brown [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM 15V]]
+|valign="top" |2023 
+|valign="top" |$387 (MSRP 2023) 
+|valign="top" |The blade was made using a specialized heat-treating protocol, developed by custom knifemaker Shawn Houston.
+|valign="top" |[[Sprint Run]]
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|-
+|valign="top" |C229MXHPP
+|valign="top" |Black [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CTS-XHP]]
+|valign="top" |March 2024 
+|valign="top" |$265.00 (2024, Street) 
+|valign="top" |Blade HQ dealer [[Exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GCBL 
+|valign="top" |Cobalt blue [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM SPY27]]
+|valign="top" |2024 - 
+|valign="top" |$360.00 (2024) 
+|valign="top" |[[CPM SPY27]] is a proprietary US-made steel that is exclusive to Spyderco
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229BMBNP
+|valign="top" |Burlap [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-S90V]]
+|valign="top" |Nov. 2024 
+|valign="top" |$400.00 (2024, MSRP), $299.95 (2024, Street) 
+|valign="top" |Knifecenter dealer [[exclusive]]
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229BK
+|valign="top" |Black [[FRN]]
+|valign="top" |[[PE]], [[SE]]
+|valign="top" |[[CTS-BD1N]]
+|valign="top" |Oct. 2025 - 
+|valign="top" |$230.00 (2026)
+|valign="top" |Lightweight version, the [[SE]] variation started shipping in Jan. 2025
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229MPY10VP
+|valign="top" |Python Canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |[[CPM-10V]]
+|valign="top" |12 June 2025
+|valign="top" |$279.95 (2025, Street) 
+|valign="top" |River's Edge Cutlery dealer [[exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Silver stonewashed [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229MGYS45BKP
+|valign="top" |Gray [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[DLC]]-coated [[CPM S45VN]]
+|valign="top" |2025
+|valign="top" |$279.95 (2025, Street) 
+|valign="top" |Smokey Mountain Knifeworks dealer [[exclusive]], also known as 'Smoky Gray Shaman'.
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+
+|-
+|valign="top" |C229MORM390BKP
+|valign="top" |Orange [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[DLC]]-coated [[M390]]
+|valign="top" |Sep. 2025
+|valign="top" |$395.00 (2025, MSRP), $296.25 (2025, Street) 
+|valign="top" |JB Outman distributor [[exclusive]]
+|valign="top" |Limited
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229GMCBKP
+|valign="top" |Black [[G-10]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[DLC]]-coated [[CPM MagnaCut]]
+|valign="top" |Nov. 2025 - 
+|valign="top" |$385.00 (2025) 
+|valign="top" |Part of Spyderco's [[Salt]] series of knives
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229MBLRX76BKP
+|valign="top" |Blue jean canvas [[Micarta]]
+|valign="top" |[[PE]]
+|valign="top" |Black [[DLC]]-coated [[CPM REX 76]]
+|valign="top" |Dec. 2025 - 
+|valign="top" |$ 229.99 (Street, 2025) 
+|valign="top" |St. Nick's Knives dealer [[exclusive]]
+|valign="top" |~600 
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+
+|-
+|valign="top" |C229BBK
+|valign="top" |Black [[FRN]]
+|valign="top" |[[PE]], [[SE]]
+|valign="top" |Black [[DLC]]-coated [[CTS-BD1N]]
+|valign="top" |Jun. 2026 - 
+|valign="top" |$262.00 (2026)
+|valign="top" |Lightweight version
+|valign="top" |Regular production
+|valign="top" |[[Full Flat]]
+|valign="top" |Black [[Hourglass]]
+|valign="top" |[[LH/RH]], [[TD/TU]]
+|valign="top" |[[Variant]]
+|}
+
+==Most collectible variation==
+
+===Questions regarding collecting the C229===
+
+Some interesting questions we are looking for an answer to:
+
+Questions with an answer:
+
+==Technical information==
+
+Measurements (mm and grams) of the C229 Shaman:
+{|{{Articletable}}
+{{Tableheading}}'''Variation'''
+{{Tableheading}}'''Length overall'''
+{{Tableheading}}'''Length closed'''
+{{Tableheading}}'''Length blade'''
+{{Tableheading}}'''Length edge'''
+{{Tableheading}}'''Hole Ø'''
+{{Tableheading}}'''Blade thickness'''
+{{Tableheading}}'''Weight'''
+|-
+|align="right"|C229G
+|align="right"|210mm
+|align="right"|119mm
+|align="right"|91mm
+|align="right"|79mm
+|align="right"|14.2mm
+|align="right"|3.7mm
+|align="right"|147g
+
+|-
+|align="right"|C229CFP
+|align="right"|210mm
+|align="right"|119mm
+|align="right"|91mm
+|align="right"|79mm
+|align="right"|14.2mm
+|align="right"|3.7mm
+|align="right"|142g
+
+|-
+|align="right"|C229MPCW
+|align="right"|211mm
+|align="right"|119mm
+|align="right"|92mm
+|align="right"|80mm
+|align="right"|14.2mm
+|align="right"|3.7mm
+|align="right"|139g
+|}
+
+Measurements (inches and ounces) of the C229 Shaman:
+{|{{Articletable}}
+{{Tableheading}}'''Variation'''
+{{Tableheading}}'''Length overall'''
+{{Tableheading}}'''Length closed'''
+{{Tableheading}}'''Length blade'''
+{{Tableheading}}'''Length edge'''
+{{Tableheading}}'''Hole Ø'''
+{{Tableheading}}'''Blade thickness'''
+{{Tableheading}}'''Weight'''
+|-
+|align="right"|C229G
+|align="right"|8.25"
+|align="right"|4.67"
+|align="right"|3.58"
+|align="right"|3.12"
+|align="right"|0.56"
+|align="right"|0.145"
+|align="right"|5.2oz
+
+|-
+|align="right"|C229CFP
+|align="right"|8.25"
+|align="right"|4.67"
+|align="right"|3.58"
+|align="right"|3.12"
+|align="right"|0.56"
+|align="right"|0.145"
+|align="right"|5.0oz
+
+|-
+|align="right"|C229MPCW
+|align="right"|8.29"
+|align="right"|4.67"
+|align="right"|3.62"
+|align="right"|3.14"
+|align="right"|0.56"
+|align="right"|0.145"
+|align="right"|4.9oz
+|}
+
+==References==
+
+<references/>
+
+==Pictures==
+
+
+==Related==
+*[[C41 Native]]
+*[[C78 Native III]]
+*[[C230 Lil' Native]]
+*[[C244 Native Chief]]
+
+==Categories==
+
+[[Category:Knives]]
+[[Category:Folding knives]]
+[[Category:ClipIts]]

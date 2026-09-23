@@ -1,0 +1,2180 @@
+{
+ "id": "C223",
+ "file": "C223 Para 3",
+ "title": "C223 Para 3 — Para 3 & Para 3 Lightweight",
+ "wiki_page": "C223_Para_3",
+ "readme_label": "C223 Para 3 / Para 3 Lightweight",
+ "trailing_newline": true,
+ "sections": [
+  "Para 3",
+  "Para 3 Lightweight"
+ ],
+ "section_rules": [
+  {
+   "section": "Para 3 Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  }
+ ],
+ "aliases": {
+  "C223BN15V": "C223PBN15V",
+  "C223GBKYLMC": "C223GBKYLMCP",
+  "C223GBN15V": "C223GPBN15V",
+  "C223GCBL": "C223GPCBL",
+  "C223GMCBK": "C223GMCBKP",
+  "C223GNDMCPBK": "C223GNDMCBKP",
+  "C223GNGR": "C223GPNGR",
+  "C223GNGRBK": "C223GPNGRBK",
+  "C223GODFDE": "C223GPODFDE",
+  "C223GOROD": "C223GPOROD",
+  "C223GPGRM4": "C223GRM4",
+  "C223GPRBK": "C223GPPRBK",
+  "C223MCW": "C223MPCW",
+  "C223PFGRCWBKCRF": "C223PFGRCWBK",
+  "C223YL": "C223PYL"
+ },
+ "ignore": [],
+ "rows": [
+  {
+   "sku": "C223GP",
+   "section": "Para 3",
+   "released": "Dec. 2016-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GP|2016",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GP",
+    "handle": "Black textured G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "Dec. 2016-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GP",
+    "section": "Para 3",
+    "released": "Dec. 2016-",
+    "steel": "CPM-S30V",
+    "handle": "Black textured G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPS",
+   "section": "Para 3",
+   "released": "Mar. 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPS|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPS",
+    "handle": "Black textured G-10",
+    "edge": "PS",
+    "steel": "CPM-S30V",
+    "from_to": "Mar. 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPS",
+    "section": "Para 3",
+    "released": "Mar. 2017-",
+    "steel": "CPM-S30V",
+    "handle": "Black textured G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCMO",
+   "section": "Para 3",
+   "released": "May 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Digi camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPCMO|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCMO",
+    "handle": "Digi camo G-10",
+    "edge": "PE",
+    "steel": "CPM-S30V",
+    "from_to": "May 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPCMO",
+    "section": "Para 3",
+    "released": "May 2017-",
+    "steel": "CPM-S30V",
+    "handle": "Digi camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GS",
+   "section": "Para 3",
+   "released": "June 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GS|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GS",
+    "handle": "Black textured G-10",
+    "edge": "SE",
+    "steel": "CPM-S30V",
+    "from_to": "June 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GS",
+    "section": "Para 3",
+    "released": "June 2017-",
+    "steel": "CPM-S30V",
+    "handle": "Black textured G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBK",
+   "section": "Para 3",
+   "released": "June 2017-",
+   "steel": "Black CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPBK|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPBK",
+    "handle": "Black textured G-10",
+    "edge": "PE",
+    "steel": "Black CPM-S30V",
+    "from_to": "June 2017-",
+    "note": "Black hardware",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPBK",
+    "section": "Para 3",
+    "released": "June 2017-",
+    "steel": "Black CPM-S30V",
+    "handle": "Black textured G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPDBL",
+   "section": "Para 3",
+   "released": "Aug. 2017-",
+   "steel": "CPM-S110V",
+   "handle": "Dark blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPDBL|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPDBL",
+    "handle": "Dark blue G-10",
+    "edge": "PE",
+    "steel": "CPM-S110V",
+    "from_to": "Aug. 2017-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPDBL",
+    "section": "Para 3",
+    "released": "Aug. 2017-",
+    "steel": "CPM-S110V",
+    "handle": "Dark blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCMOBK",
+   "section": "Para 3",
+   "released": "Aug. 2017-",
+   "steel": "Black CPM-S30V",
+   "handle": "Digi camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPCMOBK|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCMOBK",
+    "handle": "Digi camo G-10",
+    "edge": "PE",
+    "steel": "Black CPM-S30V",
+    "from_to": "Aug. 2017-",
+    "note": "Black hardware",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPCMOBK",
+    "section": "Para 3",
+    "released": "Aug. 2017-",
+    "steel": "Black CPM-S30V",
+    "handle": "Digi camo G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPGYCW",
+   "section": "Para 3",
+   "released": "Aug. 2017",
+   "steel": "Cru-Wear",
+   "handle": "Gray G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPGYCW|2017",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPGYCW",
+    "handle": "Gray G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "Aug. 2017",
+    "note": "",
+    "number_made": "Sprintrun"
+   },
+   "auto": {
+    "sku": "C223GPGYCW",
+    "section": "Para 3",
+    "released": "Aug. 2017",
+    "steel": "Cru-Wear",
+    "handle": "Gray G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223CF90VP",
+   "section": "Para 3",
+   "released": "Feb. 2018",
+   "steel": "CPM-S90V",
+   "handle": "Black peel ply CF",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223CF90VP|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223CF90VP",
+    "handle": "Black peel ply CF",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "Feb. 2018",
+    "note": "",
+    "number_made": "Sprintrun"
+   },
+   "auto": {
+    "sku": "C223CF90VP",
+    "section": "Para 3",
+    "released": "Feb. 2018",
+    "steel": "CPM-S90V",
+    "handle": "Black peel ply CF",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBL",
+   "section": "Para 3",
+   "released": "Feb. 2018",
+   "steel": "M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "Limited (2 batches)",
+   "alt": "",
+   "src": "wiki|C223GPBL|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPBL",
+    "handle": "Blue G-10",
+    "edge": "PE",
+    "steel": "M390",
+    "from_to": "Feb. 2018 / Nov. 29, 2019 @ 9am PST",
+    "note": "Bento Box Shop dealer exclusive. Second batch released Nov. 2019.",
+    "number_made": "Limited (2 batches)"
+   },
+   "auto": {
+    "sku": "C223GPBL",
+    "section": "Para 3",
+    "released": "Feb. 2018",
+    "steel": "M390",
+    "handle": "Blue G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPDGY",
+   "section": "Para 3",
+   "released": "Mar. 2018-",
+   "steel": "Maxamet",
+   "handle": "Dark gray G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPDGY|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPDGY",
+    "handle": "Dark gray G-10",
+    "edge": "PE",
+    "steel": "Maxamet",
+    "from_to": "Mar. 2018-",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GPDGY",
+    "section": "Para 3",
+    "released": "Mar. 2018-",
+    "steel": "Maxamet",
+    "handle": "Dark gray G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GM4P",
+   "section": "Para 3",
+   "released": "June 26, 2018",
+   "steel": "CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GM4P|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GM4P",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "June 26, 2018",
+    "note": "Blade HQ dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GM4P",
+    "section": "Para 3",
+    "released": "June 26, 2018",
+    "steel": "CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPODFDE",
+   "section": "Para 3",
+   "released": "July 2018",
+   "steel": "Flat dark earth PVD coated CTS-204P",
+   "handle": "Olive drab G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "600",
+   "alt": "",
+   "src": "wiki|C223GPODFDE|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPODFDE",
+    "handle": "Olive drab G-10",
+    "edge": "PE",
+    "steel": "Flat dark earth PVD coated CTS-204P",
+    "from_to": "July 2018",
+    "note": "River's Edge Cutlery dealer Exclusive. Black hardware. First half of the run went on sale July 6 and sold out the same day.",
+    "number_made": "600"
+   },
+   "auto": {
+    "sku": "C223GPODFDE",
+    "section": "Para 3",
+    "released": "July 2018",
+    "steel": "Flat dark earth PVD coated CTS-204P",
+    "handle": "Olive drab G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": "600"
+   }
+  },
+  {
+   "sku": "C223GM4PBK",
+   "section": "Para 3",
+   "released": "July 2018",
+   "steel": "Black DLC CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GM4PBK|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GM4PBK",
+    "handle": "Jade G-10",
+    "edge": "PE",
+    "steel": "Black DLC CPM-M4",
+    "from_to": "July 2018",
+    "note": "Blade HQ dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GM4PBK",
+    "section": "Para 3",
+    "released": "July 2018",
+    "steel": "Black DLC CPM-M4",
+    "handle": "Jade G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBORE",
+   "section": "Para 3",
+   "released": "Aug. 2018",
+   "steel": "CPM REX 45",
+   "handle": "Burnt orange G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPBORE|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPBORE",
+    "handle": "Burnt orange G-10",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "Aug. 2018",
+    "note": "Sprintrun",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPBORE",
+    "section": "Para 3",
+    "released": "Aug. 2018",
+    "steel": "CPM REX 45",
+    "handle": "Burnt orange G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223CF52100P",
+   "section": "Para 3",
+   "released": "Aug. 2018",
+   "steel": "52100",
+   "handle": "Black CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223CF52100P|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223CF52100P",
+    "handle": "Black CF",
+    "edge": "PE",
+    "steel": "52100",
+    "from_to": "Aug. 2018",
+    "note": "H.L. Dalis distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223CF52100P",
+    "section": "Para 3",
+    "released": "Aug. 2018",
+    "steel": "52100",
+    "handle": "Black CF",
+    "type": "H.L. Dalis excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBN",
+   "section": "Para 3",
+   "released": "Sept. 2018",
+   "steel": "CPM-S35VN",
+   "handle": "Earth brown G-10",
+   "type": "Moteng excl.",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C223GPBN|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPBN",
+    "handle": "Earth brown G-10",
+    "edge": "PE",
+    "steel": "CPM-S35VN",
+    "from_to": "Sept. 2018",
+    "note": "Moteng distributor exclusive",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C223GPBN",
+    "section": "Para 3",
+    "released": "Sept. 2018",
+    "steel": "CPM-S35VN",
+    "handle": "Earth brown G-10",
+    "type": "Moteng excl.",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C223GPRDBK",
+   "section": "Para 3",
+   "released": "Sept. 20, 2018",
+   "steel": "Black DLC CPM-4V",
+   "handle": "Red G-10",
+   "type": "St. Nick's Knives excl.",
+   "qty": "~700",
+   "alt": "",
+   "src": "wiki|C223GPRDBK|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPRDBK",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "Black DLC CPM-4V",
+    "from_to": "Sept. 20, 2018",
+    "note": "St. Nick's Knives dealer Exclusive. Black hardware. Sold out in 42 minutes.",
+    "number_made": "~700"
+   },
+   "auto": {
+    "sku": "C223GPRDBK",
+    "section": "Para 3",
+    "released": "Sept. 20, 2018",
+    "steel": "Black DLC CPM-4V",
+    "handle": "Red G-10",
+    "type": "St. Nick's Knives excl.",
+    "qty": "~700"
+   }
+  },
+  {
+   "sku": "C223CF52100PS",
+   "section": "Para 3",
+   "released": "Oct. 2018",
+   "steel": "52100",
+   "handle": "Black CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223CF52100PS|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223CF52100PS",
+    "handle": "Black CF",
+    "edge": "PS",
+    "steel": "52100",
+    "from_to": "Oct. 2018",
+    "note": "H.L. Dalis distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223CF52100PS",
+    "section": "Para 3",
+    "released": "Oct. 2018",
+    "steel": "52100",
+    "handle": "Black CF",
+    "type": "H.L. Dalis excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCW",
+   "section": "Para 3",
+   "released": "Oct. 2018",
+   "steel": "Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "600",
+   "alt": "",
+   "src": "wiki|C223GPCW|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCW",
+    "handle": "Smooth black G-10",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "Oct. 2018",
+    "note": "Knife Center dealer Exclusive",
+    "number_made": "600"
+   },
+   "auto": {
+    "sku": "C223GPCW",
+    "section": "Para 3",
+    "released": "Oct. 2018",
+    "steel": "Cru-Wear",
+    "handle": "Smooth black G-10",
+    "type": "KnifeCenter excl.",
+    "qty": "600"
+   }
+  },
+  {
+   "sku": "C223GPOR",
+   "section": "Para 3",
+   "released": "Nov. 16, 2018 @ 10AM MST",
+   "steel": "Satin CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPOR|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPOR",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "Satin CTS-XHP",
+    "from_to": "Nov. 16, 2018 @ 10AM MST",
+    "note": "Cutlery Shoppe dealer Exclusive. Limit of two per customer (two satin, two DLC, or one of each). They had originally planned for a stonewashed finish on the blade, but ended up with satin. Sold out in about day and a half.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPOR",
+    "section": "Para 3",
+    "released": "Nov. 16, 2018 @ 10AM MST",
+    "steel": "Satin CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPORBK",
+   "section": "Para 3",
+   "released": "Nov. 16, 2018 @ 10AM MST",
+   "steel": "Black DLC CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPORBK|2018",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPORBK",
+    "handle": "Orange G-10",
+    "edge": "PE",
+    "steel": "Black DLC CTS-XHP",
+    "from_to": "Nov. 16, 2018 @ 10AM MST",
+    "note": "Cutlery Shoppe dealer Exclusive. Limit of two per customer (two satin, two DLC, or one of each). Sold out in about a day.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPORBK",
+    "section": "Para 3",
+    "released": "Nov. 16, 2018 @ 10AM MST",
+    "steel": "Black DLC CTS-XHP",
+    "handle": "Orange G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBNBK",
+   "section": "Para 3",
+   "released": "Apr. 2019",
+   "steel": "Black DLC coated CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPBNBK|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPBNBK",
+    "handle": "Earth Brown G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-S35VN",
+    "from_to": "Apr. 2019",
+    "note": "Moteng distributor Exclusive. Black hardware (pivot, screws, lanyard tube), satin liners.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPBNBK",
+    "section": "Para 3",
+    "released": "Apr. 2019",
+    "steel": "Black DLC coated CPM-S35VN",
+    "handle": "Earth Brown G-10",
+    "type": "Moteng excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPRD",
+   "section": "Para 3",
+   "released": "Aug. 2019",
+   "steel": "M390",
+   "handle": "Red G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPRD|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPRD",
+    "handle": "Red G-10",
+    "edge": "PE",
+    "steel": "M390",
+    "from_to": "Aug. 2019",
+    "note": "DLT Trading Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPRD",
+    "section": "Para 3",
+    "released": "Aug. 2019",
+    "steel": "M390",
+    "handle": "Red G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPRGR",
+   "section": "Para 3",
+   "released": "Nov. 1, 2019 @ 1pm PST",
+   "steel": "K390",
+   "handle": "Ranger Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPRGR|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPRGR",
+    "handle": "Ranger Green G-10",
+    "edge": "PE",
+    "steel": "K390",
+    "from_to": "Nov. 1, 2019 @ 1pm PST",
+    "note": "Bento Box Shop dealer Exclusive. \"Ranger Green\" seems to be the same color as the classic \"Foliage Green\" used on previous Spyderco models.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPRGR",
+    "section": "Para 3",
+    "released": "Nov. 1, 2019 @ 1pm PST",
+    "steel": "K390",
+    "handle": "Ranger Green G-10",
+    "type": "Bento Box Shop excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPOROD",
+   "section": "Para 3",
+   "released": "Mar. 15, 2020 @ 12pm MDT",
+   "steel": "Satin CPM REX 45",
+   "handle": "Orange and olive drab green G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "600",
+   "alt": "",
+   "src": "wiki|C223GPOROD|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPOROD",
+    "handle": "Orange and olive drab green G-10",
+    "edge": "PE",
+    "steel": "Satin CPM REX 45",
+    "from_to": "Mar. 15, 2020 @ 12pm MDT",
+    "note": "Cutlery Shoppe dealer Exclusive. Limited to 2 per household. Orange scale front side, olive drab green back side scale. The first of Cutlery Shoppe's \"dual color\" exclusive variants. Sold out in a few hours.",
+    "number_made": "600"
+   },
+   "auto": {
+    "sku": "C223GPOROD",
+    "section": "Para 3",
+    "released": "Mar. 15, 2020 @ 12pm MDT",
+    "steel": "Satin CPM REX 45",
+    "handle": "Orange and olive drab green G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "600"
+   }
+  },
+  {
+   "sku": "C223GPORBL",
+   "section": "Para 3",
+   "released": "Mar. 29, 2020",
+   "steel": "Satin CPM REX 45",
+   "handle": "Orange and blue G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "600",
+   "alt": "",
+   "src": "wiki|C223GPORBL|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPORBL",
+    "handle": "Orange and blue G-10",
+    "edge": "PE",
+    "steel": "Satin CPM REX 45",
+    "from_to": "Mar. 29, 2020",
+    "note": "Cutlery Shoppe dealer Exclusive. Limited to 2 per household. Orange scale front side, blue back side scale. The second of Cutlery Shoppe's \"dual color\" exclusive variants.",
+    "number_made": "600"
+   },
+   "auto": {
+    "sku": "C223GPORBL",
+    "section": "Para 3",
+    "released": "Mar. 29, 2020",
+    "steel": "Satin CPM REX 45",
+    "handle": "Orange and blue G-10",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "600"
+   }
+  },
+  {
+   "sku": "C223GPGR",
+   "section": "Para 3",
+   "released": "Apr. 2020",
+   "steel": "CTS-204P",
+   "handle": "Forest Green G-10",
+   "type": "KnifeWorks excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPGR|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPGR",
+    "handle": "Forest Green G-10",
+    "edge": "PE",
+    "steel": "CTS-204P",
+    "from_to": "Apr. 2020",
+    "note": "KnifeWorks dealer Exclusive. 150 were made available for preorder 4/1, but sold out in under 4 hours. The remainder went on sale 4/21 @ 8am CST and sold out in 4 minutes. Limit 5. A second run was offered in March 2022.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPGR",
+    "section": "Para 3",
+    "released": "Apr. 2020",
+    "steel": "CTS-204P",
+    "handle": "Forest Green G-10",
+    "type": "KnifeWorks excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPFGR",
+   "section": "Para 3",
+   "released": "Jul. 2020",
+   "steel": "CPM S45VN",
+   "handle": "Forest Green \"diamond arc pattern\" G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPFGR|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPFGR",
+    "handle": "Forest Green \"diamond arc pattern\" G-10",
+    "edge": "PE",
+    "steel": "CPM S45VN",
+    "from_to": "Jul. 2020",
+    "note": "Sprintrun",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPFGR",
+    "section": "Para 3",
+    "released": "Jul. 2020",
+    "steel": "CPM S45VN",
+    "handle": "Forest Green \"diamond arc pattern\" G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPPRBK",
+   "section": "Para 3",
+   "released": "Nov. 2020",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "C223GPRBK (wiki)",
+   "src": "wiki|C223GPRBK|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPRBK",
+    "handle": "Purple G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated Cru-Wear",
+    "from_to": "Nov. 2020",
+    "note": "DLT Trading dealer Exclusive. The C223GPRBK also features all-black hardware (liners, screws etc.), except for the lock bar. A second run became available in March 2023.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPRBK",
+    "section": "Para 3",
+    "released": "Nov. 2020",
+    "steel": "Black DLC coated Cru-Wear",
+    "handle": "Purple G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPPN",
+   "section": "Para 3",
+   "released": "2021",
+   "steel": "CPM S45VN",
+   "handle": "Pink G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPPN|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPPN",
+    "handle": "Pink G-10",
+    "edge": "PE",
+    "steel": "CPM S45VN",
+    "from_to": "2021",
+    "note": "KnifeJoy dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPPN",
+    "section": "Para 3",
+    "released": "2021",
+    "steel": "CPM S45VN",
+    "handle": "Pink G-10",
+    "type": "KnifeJoy excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPNGRBK",
+   "section": "Para 3",
+   "released": "April 2021",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Neon green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "alt": "C223GNGRBK (wiki)",
+   "src": "wiki|C223GNGRBK|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GNGRBK",
+    "handle": "Neon green G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-20CV",
+    "from_to": "April 2021",
+    "note": "KnifeJoy dealer Exclusive. The C223GNGRBK also features all-black hardware (liners, screws etc.), except for the lock bar.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GNGRBK",
+    "section": "Para 3",
+    "released": "April 2021",
+    "steel": "Black DLC coated CPM-20CV",
+    "handle": "Neon green G-10",
+    "type": "KnifeJoy excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCWBK",
+   "section": "Para 3",
+   "released": "Aug. 2021",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPCWBK|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCWBK",
+    "handle": "Smooth black G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated Cru-Wear",
+    "from_to": "Aug. 2021",
+    "note": "Knifecenter dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPCWBK",
+    "section": "Para 3",
+    "released": "Aug. 2021",
+    "steel": "Black DLC coated Cru-Wear",
+    "handle": "Smooth black G-10",
+    "type": "KnifeCenter excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223MCFLMXP",
+   "section": "Para 3",
+   "released": "August 2022",
+   "steel": "Elmax",
+   "handle": "Marbled Carbon fiber",
+   "type": "Fradon Lock excl.",
+   "qty": "~600",
+   "alt": "",
+   "src": "wiki|C223MCFLMXP|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223MCFLMXP",
+    "handle": "Marbled Carbon fiber",
+    "edge": "PE",
+    "steel": "Elmax",
+    "from_to": "August 2022",
+    "note": "Fradon Lock Company dealer Exclusive",
+    "number_made": "~600"
+   },
+   "auto": {
+    "sku": "C223MCFLMXP",
+    "section": "Para 3",
+    "released": "August 2022",
+    "steel": "Elmax",
+    "handle": "Marbled Carbon fiber",
+    "type": "Fradon Lock excl.",
+    "qty": "~600"
+   }
+  },
+  {
+   "sku": "C223GPNGR",
+   "section": "Para 3",
+   "released": "Oct. 2022",
+   "steel": "CPM-20CV",
+   "handle": "Neon green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "alt": "C223GNGR",
+   "src": "wiki|C223GPNGR|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPNGR",
+    "handle": "Neon green G-10",
+    "edge": "PE",
+    "steel": "CPM-20CV",
+    "from_to": "Oct. 2022",
+    "note": "KnifeJoy dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPNGR",
+    "section": "Para 3",
+    "released": "Oct. 2022",
+    "steel": "CPM-20CV",
+    "handle": "Neon green G-10",
+    "type": "KnifeJoy excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPTNBK",
+   "section": "Para 3",
+   "released": "November 1, 2022 @ 9AM PST",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPTNBK|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPTNBK",
+    "handle": "Tan G-10",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-20CV",
+    "from_to": "November 1, 2022 @ 9AM PST",
+    "note": "DLT Trading dealer Exclusive. All black hardware (screws, pivot, liner).",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPTNBK",
+    "section": "Para 3",
+    "released": "November 1, 2022 @ 9AM PST",
+    "steel": "Black DLC coated CPM-20CV",
+    "handle": "Tan G-10",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCBL",
+   "section": "Para 3",
+   "released": "2023 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223GCBL (wiki)",
+   "src": "wiki|C223GCBL|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GCBL",
+    "handle": "Cobalt blue G-10",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "2023 -",
+    "note": "CPM SPY27 is developed by Spyderco and Crucible Industries, and is exclusive to Spyderco. The C223GCBL was announced in 2023 and delivery started in 2024.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GCBL",
+    "section": "Para 3",
+    "released": "2023 -",
+    "steel": "CPM SPY27",
+    "handle": "Cobalt blue G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223MPCW",
+   "section": "Para 3",
+   "released": "2023 -",
+   "steel": "Cru-Wear",
+   "handle": "Brown canvas Micarta",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223MCW (wiki)",
+   "src": "wiki|C223MCW|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223MCW",
+    "handle": "Brown canvas Micarta",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "2023 -",
+    "note": "",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223MCW",
+    "section": "Para 3",
+    "released": "2023 -",
+    "steel": "Cru-Wear",
+    "handle": "Brown canvas Micarta",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCBBK",
+   "section": "Para 3",
+   "released": "June 2023",
+   "steel": "Black DLC-coated CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPCBBK|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCBBK",
+    "handle": "Coyote Brown G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-10V",
+    "from_to": "June 2023",
+    "note": "River's Edge Cutlery dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPCBBK",
+    "section": "Para 3",
+    "released": "June 2023",
+    "steel": "Black DLC-coated CPM-10V",
+    "handle": "Coyote Brown G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPCB",
+   "section": "Para 3",
+   "released": "July 2023",
+   "steel": "CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GPCB|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GPCB",
+    "handle": "Coyote Brown G-10",
+    "edge": "PE",
+    "steel": "CPM-10V",
+    "from_to": "July 2023",
+    "note": "River's Edge Cutlery dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GPCB",
+    "section": "Para 3",
+    "released": "July 2023",
+    "steel": "CPM-10V",
+    "handle": "Coyote Brown G-10",
+    "type": "River's Edge Cutlery excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GMCBKP",
+   "section": "Para 3",
+   "released": "2024 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223GMCBK (wiki)",
+   "src": "wiki|C223GMCBK|2024",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GMCBK",
+    "handle": "Black G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "2024 -",
+    "note": "The C223GMCBK is part of Spyderco Salt series of knives.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223GMCBK",
+    "section": "Para 3",
+    "released": "2024 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Black G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GPBN15V",
+   "section": "Para 3",
+   "released": "2024 -",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C223GBN15V (wiki)",
+   "src": "wiki|C223GBN15V|2024",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GBN15V",
+    "handle": "Brown G-10",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "2024 -",
+    "note": "",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C223GBN15V",
+    "section": "Para 3",
+    "released": "2024 -",
+    "steel": "CPM 15V",
+    "handle": "Brown G-10",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GBKYLMCP",
+   "section": "Para 3",
+   "released": "Nov. 2025 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Black & Yellow G-10",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223GBKYLMC (wiki)",
+   "src": "wiki|C223GBKYLMC|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GBKYLMC",
+    "handle": "Black & Yellow G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "Nov. 2025 -",
+    "note": "Part of Spyderco's Salt series of knives",
+    "number_made": "Regular Production"
+   },
+   "auto": {
+    "sku": "C223GBKYLMC",
+    "section": "Para 3",
+    "released": "Nov. 2025 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Black & Yellow G-10",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223CFTSBKP",
+   "section": "Para 3",
+   "released": "Nov. 2025",
+   "steel": "Cru-Wear",
+   "handle": "Toxic storm pattern Fatcarbon Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223CFTSBKP|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223CFTSBKP",
+    "handle": "Toxic storm pattern Fatcarbon Carbon Fiber",
+    "edge": "PE",
+    "steel": "Cru-Wear",
+    "from_to": "Nov. 2025",
+    "note": "Smokey Mountain Knifeworks dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223CFTSBKP",
+    "section": "Para 3",
+    "released": "Nov. 2025",
+    "steel": "Cru-Wear",
+    "handle": "Toxic storm pattern Fatcarbon Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223CFPHBKP",
+   "section": "Para 3",
+   "released": "Dec. 2025",
+   "steel": "Black DLC-coated Cru-Wear",
+   "handle": "Purple haze pattern Fatcarbon Carbon Fiber",
+   "type": "Smoky Mountain Knife Works excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223CFPHBKP|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223CFPHBKP",
+    "handle": "Purple haze pattern Fatcarbon Carbon Fiber",
+    "edge": "PE",
+    "steel": "Black DLC-coated Cru-Wear",
+    "from_to": "Dec. 2025",
+    "note": "Smokey Mountain Knifeworks dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223CFPHBKP",
+    "section": "Para 3",
+    "released": "Dec. 2025",
+    "steel": "Black DLC-coated Cru-Wear",
+    "handle": "Purple haze pattern Fatcarbon Carbon Fiber",
+    "type": "Smoky Mountain Knife Works excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GNDMCP",
+   "section": "Para 3",
+   "released": "March 2026",
+   "steel": "CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223GNDMCP|2026",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GNDMCP",
+    "handle": "Natural diamond mesh G-10",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "March 2026",
+    "note": "Blade HQ dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GNDMCP",
+    "section": "Para 3",
+    "released": "March 2026",
+    "steel": "CPM MagnaCut",
+    "handle": "Natural diamond mesh G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GNDMCBKP",
+   "section": "Para 3",
+   "released": "March 2026",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "C223GNDMCPBK (wiki)",
+   "src": "wiki|C223GNDMCPBK|2026",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GNDMCPBK",
+    "handle": "Natural diamond mesh G-10",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "from_to": "March 2026",
+    "note": "Blade HQ dealer exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GNDMCPBK",
+    "section": "Para 3",
+    "released": "March 2026",
+    "steel": "Black DLC-coated CPM MagnaCut",
+    "handle": "Natural diamond mesh G-10",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PBK",
+   "section": "Para 3 Lightweight",
+   "released": "Apr. 2019-",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PBK|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PBK",
+    "handle": "Black FRN",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "Apr. 2019-",
+    "note": "Lightweight version. No metal liners.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PBK",
+    "section": "Para 3 Lightweight",
+    "released": "Apr. 2019-",
+    "steel": "CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223SBK",
+   "section": "Para 3 Lightweight",
+   "released": "Apr. 2019-",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223SBK|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223SBK",
+    "handle": "Black FRN",
+    "edge": "SE",
+    "steel": "CTS-BD1N",
+    "from_to": "Apr. 2019-",
+    "note": "Lightweight version. No metal liners.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223SBK",
+    "section": "Para 3 Lightweight",
+    "released": "Apr. 2019-",
+    "steel": "CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PRD",
+   "section": "Para 3 Lightweight",
+   "released": "Oct. 29, 2019 @ 11AM CST",
+   "steel": "Satin M390",
+   "handle": "Red FRN",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PRD|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PRD",
+    "handle": "Red FRN",
+    "edge": "PE",
+    "steel": "Satin M390",
+    "from_to": "Oct. 29, 2019 @ 11AM CST",
+    "note": "DLT Trading dealer Exclusive. Lightweight version. No metal liners. Limit 2 per customer.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PRD",
+    "section": "Para 3 Lightweight",
+    "released": "Oct. 29, 2019 @ 11AM CST",
+    "steel": "Satin M390",
+    "handle": "Red FRN",
+    "type": "DLT Trading excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PBBK",
+   "section": "Para 3 Lightweight",
+   "released": "Dec. 2019-",
+   "steel": "Black DLC coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PBBK|2019",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PBBK",
+    "handle": "Black FRN",
+    "edge": "PE",
+    "steel": "Black DLC coated CTS-BD1N",
+    "from_to": "Dec. 2019-",
+    "note": "Lightweight version. No metal liners. Black screws. Uncoated satin lock bar.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PBBK",
+    "section": "Para 3 Lightweight",
+    "released": "Dec. 2019-",
+    "steel": "Black DLC coated CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PCBL",
+   "section": "Para 3 Lightweight",
+   "released": "2020 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PCBL|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PCBL",
+    "handle": "Cobalt blue FRN",
+    "edge": "PE",
+    "steel": "CPM SPY27",
+    "from_to": "2020 -",
+    "note": "Lightweight version. No metal liners. Uses new steel designed specifically for Spyderco.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PCBL",
+    "section": "Para 3 Lightweight",
+    "released": "2020 -",
+    "steel": "CPM SPY27",
+    "handle": "Cobalt blue FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223SBBK",
+   "section": "Para 3 Lightweight",
+   "released": "Feb. 2020-",
+   "steel": "Black DLC coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223SBBK|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223SBBK",
+    "handle": "Black FRN",
+    "edge": "SE",
+    "steel": "Black DLC coated CTS-BD1N",
+    "from_to": "Feb. 2020-",
+    "note": "Lightweight version. No metal liners. Black screws. Uncoated satin lock bar.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223SBBK",
+    "section": "Para 3 Lightweight",
+    "released": "Feb. 2020-",
+    "steel": "Black DLC coated CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PBORE",
+   "section": "Para 3 Lightweight",
+   "released": "Mar. 2020",
+   "steel": "CPM REX 45",
+   "handle": "Burnt-orange FRN",
+   "type": "Sprint Run",
+   "qty": "1200",
+   "alt": "",
+   "src": "wiki|C223PBORE|2020",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PBORE",
+    "handle": "Burnt-orange FRN",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "Mar. 2020",
+    "note": "Sprintrun. Lightweight version. No metal liners.",
+    "number_made": "1200"
+   },
+   "auto": {
+    "sku": "C223PBORE",
+    "section": "Para 3 Lightweight",
+    "released": "Mar. 2020",
+    "steel": "CPM REX 45",
+    "handle": "Burnt-orange FRN",
+    "type": "Sprint Run",
+    "qty": "1200"
+   }
+  },
+  {
+   "sku": "C223PTBL",
+   "section": "Para 3 Lightweight",
+   "released": "2021",
+   "steel": "CPM-S90V",
+   "handle": "Teal FRN",
+   "type": "MGE Wholesale excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PTBL|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PTBL",
+    "handle": "Teal FRN",
+    "edge": "PE",
+    "steel": "CPM-S90V",
+    "from_to": "2021",
+    "note": "Lightweight version. MGE Wholesale distributor Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PTBL",
+    "section": "Para 3 Lightweight",
+    "released": "2021",
+    "steel": "CPM-S90V",
+    "handle": "Teal FRN",
+    "type": "MGE Wholesale excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PNBL",
+   "section": "Para 3 Lightweight",
+   "released": "Mar. 2021",
+   "steel": "CPM-20CV",
+   "handle": "Stone Blue FRN",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PNBL|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PNBL",
+    "handle": "Stone Blue FRN",
+    "edge": "PE",
+    "steel": "CPM-20CV",
+    "from_to": "Mar. 2021",
+    "note": "Lightweight version. KnifeJoy dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PNBL",
+    "section": "Para 3 Lightweight",
+    "released": "Mar. 2021",
+    "steel": "CPM-20CV",
+    "handle": "Stone Blue FRN",
+    "type": "KnifeJoy excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223GRM4",
+   "section": "Para 3 Lightweight",
+   "released": "June 2021",
+   "steel": "CPM-M4",
+   "handle": "Mint green FRN",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "C223GPGRM4",
+   "src": "wiki|C223GRM4|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223GRM4",
+    "handle": "Mint green FRN",
+    "edge": "PE",
+    "steel": "CPM-M4",
+    "from_to": "June 2021",
+    "note": "Lightweight version. Blade HQ dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223GRM4",
+    "section": "Para 3 Lightweight",
+    "released": "June 2021",
+    "steel": "CPM-M4",
+    "handle": "Mint green FRN",
+    "type": "Blade HQ excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PWH",
+   "section": "Para 3 Lightweight",
+   "released": "Sep. 2021",
+   "steel": "CPM REX 45",
+   "handle": "White FRN",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PWH|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PWH",
+    "handle": "White FRN",
+    "edge": "PE",
+    "steel": "CPM REX 45",
+    "from_to": "Sep. 2021",
+    "note": "Lightweight version. GP Knives dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PWH",
+    "section": "Para 3 Lightweight",
+    "released": "Sep. 2021",
+    "steel": "CPM REX 45",
+    "handle": "White FRN",
+    "type": "GP Knives excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PWHBK",
+   "section": "Para 3 Lightweight",
+   "released": "Nov. 2021",
+   "steel": "Black DLC coated CPM REX 45",
+   "handle": "White FRN",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PWHBK|2021",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PWHBK",
+    "handle": "White FRN",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM REX 45",
+    "from_to": "Nov. 2021",
+    "note": "Lightweight version. GP Knives dealer Exclusive",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PWHBK",
+    "section": "Para 3 Lightweight",
+    "released": "Nov. 2021",
+    "steel": "Black DLC coated CPM REX 45",
+    "handle": "White FRN",
+    "type": "GP Knives excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PRDBK",
+   "section": "Para 3 Lightweight",
+   "released": "Feb. 2022",
+   "steel": "Black DLC coated CPM-4V",
+   "handle": "Red FRN",
+   "type": "St. Nick's Knives excl.",
+   "qty": "~1600",
+   "alt": "",
+   "src": "wiki|C223PRDBK|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PRDBK",
+    "handle": "Red FRN",
+    "edge": "PE",
+    "steel": "Black DLC coated CPM-4V",
+    "from_to": "Feb. 2022",
+    "note": "St. Nick's dealer Exclusive",
+    "number_made": "~1600"
+   },
+   "auto": {
+    "sku": "C223PRDBK",
+    "section": "Para 3 Lightweight",
+    "released": "Feb. 2022",
+    "steel": "Black DLC coated CPM-4V",
+    "handle": "Red FRN",
+    "type": "St. Nick's Knives excl.",
+    "qty": "~1600"
+   }
+  },
+  {
+   "sku": "C223POR",
+   "section": "Para 3 Lightweight",
+   "released": "March 2022",
+   "steel": "CTS-XHP",
+   "handle": "Orange FRN",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~1000",
+   "alt": "",
+   "src": "wiki|C223POR|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223POR",
+    "handle": "Orange FRN",
+    "edge": "PE",
+    "steel": "CTS-XHP",
+    "from_to": "March 2022",
+    "note": "Cutlery Shoppe dealer Exclusive",
+    "number_made": "~1000"
+   },
+   "auto": {
+    "sku": "C223POR",
+    "section": "Para 3 Lightweight",
+    "released": "March 2022",
+    "steel": "CTS-XHP",
+    "handle": "Orange FRN",
+    "type": "Cutlery Shoppe excl.",
+    "qty": "~1000"
+   }
+  },
+  {
+   "sku": "C223PORBK",
+   "section": "Para 3 Lightweight",
+   "released": "Jul. 2022",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange FRN",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PORBK|2022",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PORBK",
+    "handle": "Orange FRN",
+    "edge": "PE",
+    "steel": "Black DLC coated CTS-XHP",
+    "from_to": "Jul. 2022",
+    "note": "Cutlery Shoppe dealer Exclusive, features all black hardware (liners, screws)",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PORBK",
+    "section": "Para 3 Lightweight",
+    "released": "Jul. 2022",
+    "steel": "Black DLC coated CTS-XHP",
+    "handle": "Orange FRN",
+    "type": "Cutlery Shoppe excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PPN",
+   "section": "Para 3 Lightweight",
+   "released": "2023 -",
+   "steel": "CTS-BD1N",
+   "handle": "Pink FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223PN (wiki)",
+   "src": "wiki|C223PN|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PN",
+    "handle": "Pink FRN",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "2023 -",
+    "note": "Spyderco donates a portion of the sales of all pink-handled knives to the organization https://www.lbbc.org/ Living Beyond Breast Cancer.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PN",
+    "section": "Para 3 Lightweight",
+    "released": "2023 -",
+    "steel": "CTS-BD1N",
+    "handle": "Pink FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PPNBK",
+   "section": "Para 3 Lightweight",
+   "released": "2023 -",
+   "steel": "Black DLC-coated CTS-BD1N",
+   "handle": "Pink FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223PN (wiki)",
+   "src": "wiki|C223PN|2023#2",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PN",
+    "handle": "Pink FRN",
+    "edge": "PE",
+    "steel": "Black DLC-coated CTS-BD1N",
+    "from_to": "2023 -",
+    "note": "Spyderco donates a portion of the sales of all pink-handled knives to the organization https://www.lbbc.org/ Living Beyond Breast Cancer.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PN",
+    "section": "Para 3 Lightweight",
+    "released": "2023 -",
+    "steel": "Black DLC-coated CTS-BD1N",
+    "handle": "Pink FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PYL",
+   "section": "Para 3 Lightweight",
+   "released": "2023 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "C223YL (wiki)",
+   "src": "wiki|C223YL|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223YL",
+    "handle": "Yellow FRN",
+    "edge": "PE",
+    "steel": "CPM MagnaCut",
+    "from_to": "2023 -",
+    "note": "The C223YL is part of Spyderco Salt series of knives.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223YL",
+    "section": "Para 3 Lightweight",
+    "released": "2023 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Yellow FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223KBPI",
+   "section": "Para 3 Lightweight",
+   "released": "Sep. 2023",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Limited",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223KBPI|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223KBPI",
+    "handle": "Black FRN",
+    "edge": "PE",
+    "steel": "CTS-BD1N",
+    "from_to": "Sep. 2023",
+    "note": "KBPI edition, a radio station from Denver, Colorado, USA. Features engraving on the presentation side of the blade with the KBPI logo.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223KBPI",
+    "section": "Para 3 Lightweight",
+    "released": "Sep. 2023",
+    "steel": "CTS-BD1N",
+    "handle": "Black FRN",
+    "type": "Limited",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PFGRCWBK",
+   "section": "Para 3 Lightweight",
+   "released": "Dec. 2023",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Deep Forest Green FRN",
+   "type": "The Knife Joker excl.",
+   "qty": "",
+   "alt": "C223PFGRCWBKCRF (spyderco.com, 2026 listing)",
+   "src": "wiki|C223PFGRCWBK|2023",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PFGRCWBK",
+    "handle": "Deep forest green FRN",
+    "edge": "PE",
+    "steel": "Black DLC-coated Cru-Wear",
+    "from_to": "Dec. 2023 -",
+    "note": "The Knifejoker dealer Exclusive",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223PFGRCWBK",
+    "section": "Para 3 Lightweight",
+    "released": "Dec. 2023 -",
+    "steel": "Black DLC-coated Cru-Wear",
+    "handle": "Deep forest green FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PODFDE",
+   "section": "Para 3 Lightweight",
+   "released": "July 2024",
+   "steel": "Flat dark earth PVD-coated CTS-204P",
+   "handle": "Olive Drab FRN",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PODFDE|2024",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PODFDE",
+    "handle": "Olive Drab FRN",
+    "edge": "PE",
+    "steel": "Flat dark earth PVD-coated CTS-204P",
+    "from_to": "July 2024",
+    "note": "River's Edge Cutlery dealer Exclusive.",
+    "number_made": "Limited"
+   },
+   "auto": {
+    "sku": "C223PODFDE",
+    "section": "Para 3 Lightweight",
+    "released": "July 2024",
+    "steel": "Flat dark earth PVD-coated CTS-204P",
+    "handle": "Olive Drab FRN",
+    "type": "River's Edge Cutlery excl.",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223SYL",
+   "section": "Para 3 Lightweight",
+   "released": "2025 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow FRN",
+   "type": "Regular production",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223SYL|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223SYL",
+    "handle": "Yellow FRN",
+    "edge": "SE",
+    "steel": "CPM MagnaCut",
+    "from_to": "2025 -",
+    "note": "The C223SYL is part of Spyderco Salt series of knives.",
+    "number_made": "Regular production"
+   },
+   "auto": {
+    "sku": "C223SYL",
+    "section": "Para 3 Lightweight",
+    "released": "2025 -",
+    "steel": "CPM MagnaCut",
+    "handle": "Yellow FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PBN15V",
+   "section": "Para 3 Lightweight",
+   "released": "Jan. 2025",
+   "steel": "CPM 15V",
+   "handle": "Brown FRN",
+   "type": "Sprint Run",
+   "qty": "",
+   "alt": "C223BN15V (wiki)",
+   "src": "wiki|C223BN15V|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223BN15V",
+    "handle": "Brown FRN",
+    "edge": "PE",
+    "steel": "CPM 15V",
+    "from_to": "Jan. 2025",
+    "note": "",
+    "number_made": "Sprint Run"
+   },
+   "auto": {
+    "sku": "C223BN15V",
+    "section": "Para 3 Lightweight",
+    "released": "Jan. 2025",
+    "steel": "CPM 15V",
+    "handle": "Brown FRN",
+    "type": "Sprint Run",
+    "qty": ""
+   }
+  },
+  {
+   "sku": "C223PFG",
+   "section": "Para 3 Lightweight",
+   "released": "Feb. 2025",
+   "steel": "CTS-204P",
+   "handle": "Forest Green FRN",
+   "type": "KnifeWorks excl.",
+   "qty": "",
+   "alt": "",
+   "src": "official|C223PFG"
+  },
+  {
+   "sku": "C223PGRM4BK",
+   "section": "Para 3 Lightweight",
+   "released": "Apr. 2025",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Mint Green FRN",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "alt": "",
+   "src": "wiki|C223PGRM4BK|2025",
+   "src_raw": {
+    "table": "Variations",
+    "sku": "C223PGRM4BK",
+    "handle": "Jade green FRN",
+    "edge": "PE",
+    "steel": "Black DLC-coated CPM-M4",
+    "from_to": "Apr. 2025",
+    "note": "Blade HQ dealer Exclusive",
+    "number_made": "Regular Production"
+   },
+   "auto": {
+    "sku": "C223PGRM4BK",
+    "section": "Para 3 Lightweight",
+    "released": "Apr. 2025",
+    "steel": "Black DLC-coated CPM-M4",
+    "handle": "Jade green FRN",
+    "type": "Regular production",
+    "qty": ""
+   }
+  }
+ ]
+}
