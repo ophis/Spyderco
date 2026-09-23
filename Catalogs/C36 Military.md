@@ -17,7 +17,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 7 | <a href="images/C36/C36GPS.webp"><img src="images/C36/C36GPS.webp" width="160"></a> | C36GPS | 2004-2013 | CPM-S30V (CombinationEdge) | Black G-10 | Regular production |  |  |
 | 8 | <a href="images/C36/C36GPBK.jpg"><img src="images/C36/C36GPBK.jpg" width="160"></a> | C36GPBK | 2005- | CPM-S30V black coated | Black G-10 | Regular production |  | C36GBK (wiki) |
 | 9 |  | C36CFP | 2005 | CPM-S30V | Black CF | 🟪 Limited | 400 |  |
-| 10 | <a href="images/C36/C36GPSBK.jpg"><img src="images/C36/C36GPSBK.jpg" width="160"></a> | C36GPSBK | 2005-2013 | CPM-S30V black coated (CombinationEdge) | Black G-10 | Regular production |  |  |
+| 10 | <a href="images/C36/C36GPSBK.jpg"><img src="images/C36/C36GPSBK.jpg" width="160"></a> <a href="images/C36/C36GPSBK_2.jpg"><img src="images/C36/C36GPSBK_2.jpg" width="160"></a> | C36GPSBK | 2005-2013 | CPM-S30V black coated (CombinationEdge) | Black G-10 | Regular production |  |  |
 | 11 | <a href="images/C36/C36CFBGP.jpg"><img src="images/C36/C36CFBGP.jpg" width="160"></a> | C36CFBGP | 2006 | BG-42 | Black CF | 🟥 Sprint Run | 1500 |  |
 | 12 | <a href="images/C36/C36FGD2P.jpg"><img src="images/C36/C36FGD2P.jpg" width="160"></a> | C36FGD2P | 2007 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run | ? |  |
 | 13 |  | C36CF90VP | 2008 | CPM-S90V | Black CF | 🟥 Sprint Run | ca. 1000 |  |
@@ -33,14 +33,14 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 23 | <a href="images/C36/C36GPBL.webp"><img src="images/C36/C36GPBL.webp" width="160"></a> | C36GPBL | July 2013 | CPM-S90V | "Smurf" Blue G-10 | 🟦 Bento Box Shop excl. | ? |  |
 | 24 | <a href="images/C36/C36GPGY.jpg"><img src="images/C36/C36GPGY.jpg" width="160"></a> | C36GPGY | Oct. 2013 | Cru-Wear | Grey G-10 | 🟥 Sprint Run | 1200 |  |
 | 25 | <a href="images/C36/C36GGRP.jpg"><img src="images/C36/C36GGRP.jpg" width="160"></a> | C36GGRP | May 2016 | CTS-204P | Dark Green G-10 | 🟦 KnifeWorks excl. | 1200 |  |
-| 26 | <a href="images/C36/C36CFP52100.jpg"><img src="images/C36/C36CFP52100.jpg" width="160"></a> | C36CFP52100 | June 2016 | 52100 | Black CF | 🟥 Sprint Run | 1000 |  |
+| 26 | <a href="images/C36/C36CFP52100.jpg"><img src="images/C36/C36CFP52100.jpg" width="160"></a> <a href="images/C36/C36CFP52100_2.jpg"><img src="images/C36/C36CFP52100_2.jpg" width="160"></a> | C36CFP52100 | June 2016 | 52100 | Black CF | 🟥 Sprint Run | 1000 |  |
 | 27 | <a href="images/C36/C36GPDBL.jpg"><img src="images/C36/C36GPDBL.jpg" width="160"></a> | C36GPDBL | Aug. 2016- | CPM-S110V | Dark Blue G-10 | Regular production |  |  |
-| 28 | <a href="images/C36/C36GM4P.jpg"><img src="images/C36/C36GM4P.jpg" width="160"></a> | C36GM4P | Apr. 2017 | Satin CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |
-| 29 | <a href="images/C36/C36CFTIP.jpg"><img src="images/C36/C36CFTIP.jpg" width="160"></a> | C36CFTIP | May 2017 | CPM-S90V | Black Peel Ply CF/Ti | 🟦 KnifeWorks excl. | 1200 |  |
-| 30 | <a href="images/C36/C36GPBORE.jpg"><img src="images/C36/C36GPBORE.jpg" width="160"></a> | C36GPBORE | Nov. 2018 | CPM REX 45 | Burnt orange G-10 | 🟥 Sprint Run |  |  |
-| 31 | <a href="images/C36/C36GM4PBK.jpg"><img src="images/C36/C36GM4PBK.jpg" width="160"></a> | C36GM4PBK | Feb. 5 2019 | Black coated CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |
+| 28 | <a href="images/C36/C36GM4P.jpg"><img src="images/C36/C36GM4P.jpg" width="160"></a> <a href="images/C36/C36GM4P_2.jpg"><img src="images/C36/C36GM4P_2.jpg" width="160"></a> | C36GM4P | Apr. 2017 | Satin CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |
+| 29 | <a href="images/C36/C36CFTIP.jpg"><img src="images/C36/C36CFTIP.jpg" width="160"></a> <a href="images/C36/C36CFTIP_2.jpg"><img src="images/C36/C36CFTIP_2.jpg" width="160"></a> | C36CFTIP | May 2017 | CPM-S90V | Black Peel Ply CF/Ti | 🟦 KnifeWorks excl. | 1200 |  |
+| 30 | <a href="images/C36/C36GPBORE.jpg"><img src="images/C36/C36GPBORE.jpg" width="160"></a> <a href="images/C36/C36GPBORE_2.jpg"><img src="images/C36/C36GPBORE_2.jpg" width="160"></a> | C36GPBORE | Nov. 2018 | CPM REX 45 | Burnt orange G-10 | 🟥 Sprint Run |  |  |
+| 31 | <a href="images/C36/C36GM4PBK.jpg"><img src="images/C36/C36GM4PBK.jpg" width="160"></a> <a href="images/C36/C36GM4PBK_2.jpg"><img src="images/C36/C36GM4PBK_2.jpg" width="160"></a> | C36GM4PBK | Feb. 5 2019 | Black coated CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |
 | 32 | <a href="images/C36/C36GPRD4VBK.png"><img src="images/C36/C36GPRD4VBK.png" width="160"></a> | C36GPRD4VBK | Mar. 2023 | Black DLC-coated CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | ca. 600 |  |
-| 33 | <a href="images/C36/C36GPODFDE.jpg"><img src="images/C36/C36GPODFDE.jpg" width="160"></a> | C36GPODFDE | 2026 | Flat dark earth PVD-coated CTS-204P | Olive drab green G-10 | 🟦 River's Edge Cutlery excl. |  |  |
+| 33 | <a href="images/C36/C36GPODFDE.jpg"><img src="images/C36/C36GPODFDE.jpg" width="160"></a> <a href="images/C36/C36GPODFDE_2.jpg"><img src="images/C36/C36GPODFDE_2.jpg" width="160"></a> | C36GPODFDE | 2026 | Flat dark earth PVD-coated CTS-204P | Olive drab green G-10 | 🟦 River's Edge Cutlery excl. |  |  |
 | 34 |  | C36GBK | late 90s? | CPM-440V black coated | Black G-10 | Regular production |  |  |
 
 ## Military 2 (19)
