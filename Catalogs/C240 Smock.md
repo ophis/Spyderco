@@ -18,4 +18,4 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 8 | <a href="images/C240/C240ALCWP.jpg"><img src="images/C240/C240ALCWP.jpg" width="160"></a> <a href="images/C240/C240ALCWP_2.jpg"><img src="images/C240/C240ALCWP_2.jpg" width="160"></a> | C240ALCWP | May 2025 | Cru-Wear | Gray Aluminum | 🟦 The Knife Distributor excl. |  |  |
 | 9 | <a href="images/C240/C240MGRP.jpg"><img src="images/C240/C240MGRP.jpg" width="160"></a> | C240MGRP | Sep. 2025 | CPM-20CV | Green canvas Micarta | 🟦 DLT Trading excl. |  |  |
 | 10 | <a href="images/C240/C240GPBOR.jpg"><img src="images/C240/C240GPBOR.jpg" width="160"></a> | C240GPBOR | 2026 | CPM REX 121 | Burnt orange G-10 | 🟥 Sprint Run |  |  |
-| 11 | <a href="images/C240/C240GPRDBK.jpg"><img src="images/C240/C240GPRDBK.jpg" width="160"></a> | C240GPRDBK | May 2026 | Black TiCN-coated CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | ~850 |  |
+| 11 | <a href="images/C240/C240GPRDBK.webp"><img src="images/C240/C240GPRDBK.webp" width="160"></a> | C240GPRDBK | May 2026 | Black TiCN-coated CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | ~850 |  |
