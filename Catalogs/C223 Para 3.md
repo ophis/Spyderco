@@ -20,7 +20,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 10 | <a href="images/C223/C223GPBL.jpg"><img src="images/C223/C223GPBL.jpg" width="160"></a> | C223GPBL | Feb. 2018 | M390 | Blue G-10 | 🟦 Bento Box Shop excl. | Limited (2 batches) |  |
 | 11 | <a href="images/C223/C223GPDGY.jpg"><img src="images/C223/C223GPDGY.jpg" width="160"></a> | C223GPDGY | Mar. 2018- | Maxamet | Dark gray G-10 | Regular production |  |  |
 | 12 | <a href="images/C223/C223GM4P.jpg"><img src="images/C223/C223GM4P.jpg" width="160"></a> | C223GM4P | June 26, 2018 | CPM-M4 | Jade G-10 | 🟦 Blade HQ excl. |  |  |
-| 13 |  | C223GPODFDE | July 2018 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. | 600 |  |
+| 13 | <a href="images/C223/C223GPODFDE.jpg"><img src="images/C223/C223GPODFDE.jpg" width="160"></a> | C223GPODFDE | July 2018 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. | 600 |  |
 | 14 | <a href="images/C223/C223GM4PBK.jpg"><img src="images/C223/C223GM4PBK.jpg" width="160"></a> | C223GM4PBK | July 2018 | Black DLC CPM-M4 | Jade G-10 | 🟦 Blade HQ excl. |  |  |
 | 15 | <a href="images/C223/C223GPBORE.jpg"><img src="images/C223/C223GPBORE.jpg" width="160"></a> | C223GPBORE | Aug. 2018 | CPM REX 45 | Burnt orange G-10 | 🟥 Sprint Run |  |  |
 | 16 | <a href="images/C223/C223CF52100P.jpg"><img src="images/C223/C223CF52100P.jpg" width="160"></a> | C223CF52100P | Aug. 2018 | 52100 | Black CF | 🟦 H.L. Dalis excl. |  |  |
@@ -29,13 +29,13 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 19 | <a href="images/C223/C223CF52100PS.jpg"><img src="images/C223/C223CF52100PS.jpg" width="160"></a> | C223CF52100PS | Oct. 2018 | 52100 | Black CF | 🟦 H.L. Dalis excl. |  |  |
 | 20 | <a href="images/C223/C223GPCW.jpg"><img src="images/C223/C223GPCW.jpg" width="160"></a> | C223GPCW | Oct. 2018 | Cru-Wear | Smooth black G-10 | 🟦 KnifeCenter excl. | 600 |  |
 | 21 | <a href="images/C223/C223GPOR.webp"><img src="images/C223/C223GPOR.webp" width="160"></a> | C223GPOR | Nov. 16, 2018 @ 10AM MST | Satin CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
-| 22 |  | C223GPORBK | Nov. 16, 2018 @ 10AM MST | Black DLC CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
+| 22 | <a href="images/C223/C223GPORBK.jpg"><img src="images/C223/C223GPORBK.jpg" width="160"></a> | C223GPORBK | Nov. 16, 2018 @ 10AM MST | Black DLC CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
 | 23 | <a href="images/C223/C223GPBNBK.jpg"><img src="images/C223/C223GPBNBK.jpg" width="160"></a> | C223GPBNBK | Apr. 2019 | Black DLC coated CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
-| 24 |  | C223GPRD | Aug. 2019 | M390 | Red G-10 | 🟪 Exclusive |  |  |
+| 24 | <a href="images/C223/C223GPRD.webp"><img src="images/C223/C223GPRD.webp" width="160"></a> | C223GPRD | Aug. 2019 | M390 | Red G-10 | 🟪 Exclusive |  |  |
 | 25 | <a href="images/C223/C223GPRGR.jpg"><img src="images/C223/C223GPRGR.jpg" width="160"></a> | C223GPRGR | Nov. 1, 2019 @ 1pm PST | K390 | Ranger Green G-10 | 🟦 Bento Box Shop excl. |  |  |
 | 26 | <a href="images/C223/C223GPOROD.jpg"><img src="images/C223/C223GPOROD.jpg" width="160"></a> | C223GPOROD | Mar. 15, 2020 @ 12pm MDT | Satin CPM REX 45 | Orange and olive drab green G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
-| 27 |  | C223GPORBL | Mar. 29, 2020 | Satin CPM REX 45 | Orange and blue G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
-| 28 |  | C223GPGR | Apr. 2020 | CTS-204P | Forest Green G-10 | 🟦 KnifeWorks excl. |  |  |
+| 27 | <a href="images/C223/C223GPORBL.jpg"><img src="images/C223/C223GPORBL.jpg" width="160"></a> | C223GPORBL | Mar. 29, 2020 | Satin CPM REX 45 | Orange and blue G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
+| 28 | <a href="images/C223/C223GPGR.jpg"><img src="images/C223/C223GPGR.jpg" width="160"></a> | C223GPGR | Apr. 2020 | CTS-204P | Forest Green G-10 | 🟦 KnifeWorks excl. |  |  |
 | 29 | <a href="images/C223/C223GPFGR.jpg"><img src="images/C223/C223GPFGR.jpg" width="160"></a> | C223GPFGR | Jul. 2020 | CPM S45VN | Forest Green "diamond arc pattern" G-10 | 🟥 Sprint Run |  |  |
 | 30 | <a href="images/C223/C223GPPRBK.jpg"><img src="images/C223/C223GPPRBK.jpg" width="160"></a> | C223GPPRBK | Nov. 2020 | Black DLC coated Cru-Wear | Purple G-10 | 🟦 DLT Trading excl. |  | C223GPRBK (wiki) |
 | 31 | <a href="images/C223/C223GPPN.jpg"><img src="images/C223/C223GPPN.jpg" width="160"></a> | C223GPPN | 2021 | CPM S45VN | Pink G-10 | 🟦 KnifeJoy excl. |  |  |
@@ -46,8 +46,8 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 36 | <a href="images/C223/C223GPTNBK.jpg"><img src="images/C223/C223GPTNBK.jpg" width="160"></a> | C223GPTNBK | November 1, 2022 @ 9AM PST | Black DLC coated CPM-20CV | Tan G-10 | 🟦 DLT Trading excl. |  |  |
 | 37 | <a href="images/C223/C223GPCBL.jpg"><img src="images/C223/C223GPCBL.jpg" width="160"></a> | C223GPCBL | 2023 - | CPM SPY27 | Cobalt blue G-10 | Regular production |  | C223GCBL (wiki) |
 | 38 | <a href="images/C223/C223MPCW.jpg"><img src="images/C223/C223MPCW.jpg" width="160"></a> | C223MPCW | 2023 - | Cru-Wear | Brown canvas Micarta | Regular production |  | C223MCW (wiki) |
-| 39 |  | C223GPCBBK | June 2023 | Black DLC-coated CPM-10V | Coyote Brown G-10 | 🟦 River's Edge Cutlery excl. |  |  |
-| 40 |  | C223GPCB | July 2023 | CPM-10V | Coyote Brown G-10 | 🟦 River's Edge Cutlery excl. |  |  |
+| 39 | <a href="images/C223/C223GPCBBK.jpg"><img src="images/C223/C223GPCBBK.jpg" width="160"></a> | C223GPCBBK | June 2023 | Black DLC-coated CPM-10V | Coyote Brown G-10 | 🟦 River's Edge Cutlery excl. |  |  |
+| 40 | <a href="images/C223/C223GPCB.jpg"><img src="images/C223/C223GPCB.jpg" width="160"></a> | C223GPCB | July 2023 | CPM-10V | Coyote Brown G-10 | 🟦 River's Edge Cutlery excl. |  |  |
 | 41 | <a href="images/C223/C223GMCBKP.jpg"><img src="images/C223/C223GMCBKP.jpg" width="160"></a> | C223GMCBKP | 2024 - | CPM MagnaCut | Black G-10 | Regular production |  | C223GMCBK (wiki) |
 | 42 | <a href="images/C223/C223GPBN15V.jpg"><img src="images/C223/C223GPBN15V.jpg" width="160"></a> | C223GPBN15V | 2024 - | CPM 15V | Brown G-10 | 🟥 Sprint Run |  | C223GBN15V (wiki) |
 | 43 | <a href="images/C223/C223GBKYLMCP.jpg"><img src="images/C223/C223GBKYLMCP.jpg" width="160"></a> | C223GBKYLMCP | Nov. 2025 - | CPM MagnaCut | Black & Yellow G-10 | Regular production |  | C223GBKYLMC (wiki) |
@@ -74,7 +74,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 12 | <a href="images/C223/C223PWHBK.jpg"><img src="images/C223/C223PWHBK.jpg" width="160"></a> | C223PWHBK | Nov. 2021 | Black DLC coated CPM REX 45 | White FRN | 🟦 GP Knives excl. |  |  |
 | 13 | <a href="images/C223/C223PRDBK.png"><img src="images/C223/C223PRDBK.png" width="160"></a> | C223PRDBK | Feb. 2022 | Black DLC coated CPM-4V | Red FRN | 🟦 St. Nick's Knives excl. | ~1600 |  |
 | 14 | <a href="images/C223/C223POR.webp"><img src="images/C223/C223POR.webp" width="160"></a> | C223POR | March 2022 | CTS-XHP | Orange FRN | 🟦 Cutlery Shoppe excl. | ~1000 |  |
-| 15 |  | C223PORBK | Jul. 2022 | Black DLC coated CTS-XHP | Orange FRN | 🟦 Cutlery Shoppe excl. |  |  |
+| 15 | <a href="images/C223/C223PORBK.jpg"><img src="images/C223/C223PORBK.jpg" width="160"></a> | C223PORBK | Jul. 2022 | Black DLC coated CTS-XHP | Orange FRN | 🟦 Cutlery Shoppe excl. |  |  |
 | 16 | <a href="images/C223/C223PPN.jpg"><img src="images/C223/C223PPN.jpg" width="160"></a> | C223PPN | 2023 - | CTS-BD1N | Pink FRN | Regular production |  | C223PN (wiki) |
 | 17 | <a href="images/C223/C223PPNBK.jpg"><img src="images/C223/C223PPNBK.jpg" width="160"></a> | C223PPNBK | 2023 - | Black DLC-coated CTS-BD1N | Pink FRN | Regular production |  | C223PN (wiki) |
 | 18 | <a href="images/C223/C223PYL.jpg"><img src="images/C223/C223PYL.jpg" width="160"></a> | C223PYL | 2023 - | CPM MagnaCut | Yellow FRN | Regular production |  | C223YL (wiki) |
