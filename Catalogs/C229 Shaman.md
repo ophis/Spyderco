@@ -1,0 +1,50 @@
+# C229 Shaman — Shaman & Shaman Lightweight
+
+Model numbers checked against spyderco.com product listings where the model is still listed. Sources: Spydiewiki variation tables; forum thread t=90980 (2019+). "Alt SKU" = number used on the wiki where it was corrected. Rows sharing a model number are the same model in different steel generations.
+
+Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
+
+## Shaman (31)
+
+| # | Image | Model No. | Released | Steel | Handle | Type | Qty | Alt SKU |
+|---|---|---|---|---|---|---|---|---|
+| 1 |  | C229GP | Oct. 2017- | Satin CPM-S30V | Black, matte finish, contoured G-10 | Regular production |  |  |
+| 2 |  | C229GS | Oct. 2017- | Satin CPM-S30V | Black, matte finish, contoured G-10 | Regular production |  |  |
+| 3 |  | C229GPBK | Feb. 2018- | Black DLC coated CPM-S30V | Black, matte finish, contoured G-10 | Regular production |  |  |
+| 4 |  | C229GSBK | Mar. 2018- | Black DLC coated CPM-S30V | Black, matte finish, contoured G-10 | Regular production |  |  |
+| 5 |  | C229GM4P | Mar. 19, 2019 @ 10 AM MST | Satin CPM-M4 | Jade/Natural, contoured G-10 | 🟦 Blade HQ excl. |  |  |
+| 6 |  | C229CFP | May 2019 | Satin CPM-S90V | Black, contoured CF | 🟥 Sprint Run | 600-1200? |  |
+| 7 |  | C229GRDBK | Sept. 19, 2019 @ 7 PM CST | Black DLC coated CPM-4V | Red, contoured G-10 | 🟦 St. Nick's Knives excl. | ~450 |  |
+| 8 |  | C229MCW | Oct. 2019 | Cru-Wear | Brown, contoured canvas Micarta | 🟥 Sprint Run | 1200 |  |
+| 9 |  | C229RWDP | Jan. 2020 | CPM REX 45 | Contoured rosewood Dymondwood | 🟦 KnifeCenter excl. |  |  |
+| 10 |  | C229GPFGBK | Feb. 01, 2020 @ 11 AM EST | DLC Cru-Wear | Forest green, smooth contoured G-10 | 🟦 The Knife Joker excl. | ~435 | C229GFGBK (wiki) |
+| 11 |  | C229GM4PBK | Feb. 11, 2020 @ 10 AM MST | Black DLC CPM-M4 | Jade/Natural, contoured G-10 | 🟦 Blade HQ excl. |  |  |
+| 12 |  | C229GPBORE | June 2020 | CPM REX 45 | Burnt-orange contoured G-10 | 🟥 Sprint Run | 1200 |  |
+| 13 |  | C229BMBNP | 2021 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
+| 14 |  | C229MPZW | Feb. 2021 | Z-WEAR PM | Brown, contoured canvas Micarta | 🟥 Sprint Run |  |  |
+| 15 |  | C229GPORBK | March 2021 | Black DLC coated CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  | C229GORBK (wiki) |
+| 16 |  | C229GPOR | May 2021 | CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  | C229GOR (wiki) |
+| 17 |  | C229GPODFDE | June 2021 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. |  | C229GODFDE (wiki) |
+| 18 |  | C229MPM4 | May 2022 | CPM-M4 | Green canvas Micarta | 🟦 Blade HQ excl. |  | C229MM4 (wiki) |
+| 19 |  | C229BMBNP | June 2022 | CPM-S90V | Brown burlap Micarta | 🟦 KnifeCenter excl. |  | C229BMBN (wiki) |
+| 20 |  | C229MPM4BK | July 2022 | Black DLC CPM-M4 | Green canvas Micarta | 🟦 Blade HQ excl. |  |  |
+| 21 |  | C229GPDGR | August 2022 | CTS-204P | Forest Green G-10 | 🟦 KnifeWorks excl. |  |  |
+| 22 |  | C229GPGY | August 2022 | Elmax | Gray G-10 | 🟦 BladeOps excl. |  | C229GGY (wiki) |
+| 23 |  | C229GPBN15V | 2023 | CPM 15V | Brown G-10 | 🟥 Sprint Run |  | C229GBN15V (wiki) |
+| 24 |  | C229GCBL | 2024 - | CPM SPY27 | Cobalt blue G-10 | Regular production |  |  |
+| 25 |  | C229MXHPP | March 2024 | CTS-XHP | Black Micarta | 🟦 Blade HQ excl. |  |  |
+| 26 |  | C229BMBNP | Nov. 2024 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
+| 27 |  | C229MGYS45BKP | 2025 | Black DLC-coated CPM S45VN | Gray Micarta | 🟦 Smoky Mountain Knife Works excl. |  |  |
+| 28 |  | C229MPY10VP | 12 June 2025 | CPM-10V | Python Canvas Micarta | 🟦 River's Edge Cutlery excl. |  |  |
+| 29 |  | C229MORM390BKP | Sep. 2025 | Black DLC-coated M390 | Orange Micarta | 🟦 JB Outman excl. |  |  |
+| 30 |  | C229GMCBKP | Nov. 2025 - | Black DLC-coated CPM MagnaCut | Black G-10 | Regular production |  |  |
+| 31 |  | C229MBLRX76BKP | Dec. 2025 - | Black DLC-coated CPM REX 76 | Blue jean canvas Micarta | 🟦 St. Nick's Knives excl. | ~600 |  |
+
+## Shaman Lightweight (4)
+
+| # | Image | Model No. | Released | Steel | Handle | Type | Qty | Alt SKU |
+|---|---|---|---|---|---|---|---|---|
+| 1 |  | C229PBK | Oct. 2025 - | CTS-BD1N | Black FRN | Regular production |  | C229BK (wiki) |
+| 2 |  | C229SBK | Oct. 2025 - | CTS-BD1N (SpyderEdge) | Black FRN | Regular production |  |  |
+| 3 |  | C229PBBK | Jun. 2026 - | Black DLC-coated CTS-BD1N | Black FRN | Regular production |  | C229BBK (wiki) |
+| 4 |  | C229SBBK | Jun. 2026 - | Black DLC-coated CTS-BD1N (SpyderEdge) | Black FRN | Regular production |  |  |
