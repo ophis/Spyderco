@@ -1,6 +1,9 @@
 # C223 Para 3 — Para 3 & Para 3 Lightweight
 
-Model numbers checked against spyderco.com product listings where the model is still listed. Sources: Spydiewiki "C81 Para-Military" and "C223 Para 3" variation tables; forum thread t=90980 (2019+). "Alt SKU" = number used in the forum thread where it differs.
+Sources: Spydiewiki [C223 Para 3](https://www.spydiewiki.com/index.php?title=C223_Para_3) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
+
+Forum discussions: [Paramilitary3](http://forum.spyderco.com/viewtopic.php?f=2&t=72081) · [this was an error](https://forum.spyderco.com/viewtopic.php?p=1322686&sid=fb52c925a0aa06358d85e1ca30cfb8ef#p1322686)
+
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
 
