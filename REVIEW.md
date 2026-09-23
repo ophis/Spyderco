@@ -21,7 +21,7 @@ Checklist for every model list in `Catalogs/`, and for every new model line fetc
 
 Preference: **open and folded (clip side) in one photo** → **open + folded clip side as two photos** (`SKU` + `SKU_2`) → best available photo of the exact variant. Lower quality beats no photo.
 
-- [ ] Source order: spyderco.com (`_Both` image) → the exclusive dealer's own site → other retailers → listings (eBay, Bladebinge, WorthPoint, forums).
+- [ ] Source order: spyderco.com (`_Both` image) → the exclusive dealer's own site → other retailers → last resort: any photo of the exact variant that can be found online.
 - [ ] The photo is the exact variant: handle material/color, steel stamp, **blade finish (satin vs black DLC/TiCN)**, edge (Plain / Combo / SpyderEdge), blade shape (clip point / Wharncliffe / tanto). Retailers often carry satin and black-blade pages side by side — check the page title.
 - [ ] Page shows the model number (or an Alt SKU); otherwise inspect by eye before accepting.
 - [ ] Not a logo, banner, "coming soon", "page not found", placeholder, maintenance or related-product thumbnail.
