@@ -1,0 +1,1727 @@
+{
+ "ParaMilitary 2": [
+  {
+   "sku": "C81GP2",
+   "date": "2010-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFP2",
+   "date": "2010",
+   "steel": "CPM-S90V",
+   "handle": "Black Peel Ply CF",
+   "type": "Sprint Run",
+   "qty": "600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBK2",
+   "date": "2011-",
+   "steel": "CPM-S30V black DLC",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GCMO2",
+   "date": "2011-",
+   "steel": "CPM-S30V",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GCMOBK2",
+   "date": "2011-",
+   "steel": "CPM-S30V black DLC",
+   "handle": "Digital Camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GGY20CP2",
+   "date": "2011",
+   "steel": "CTS-20CP",
+   "handle": "Gray G-10",
+   "type": "Sprint Run",
+   "qty": "?",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBLM3902",
+   "date": "Jan. 2012 / Dec. 2012 / Nov. 2016 / July 2019",
+   "steel": "M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "800 (1st run)",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPBN2",
+   "date": "Mar. 2012, Nov. 2015, June 2017",
+   "steel": "CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPOR2",
+   "date": "2012 Apr.",
+   "steel": "CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "800 link to this knife at Cutlery shoppe.",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPGR2",
+   "date": "June 2013, March 2014, Dec. 2018",
+   "steel": "CTS-204P",
+   "handle": "Dark Green G-10",
+   "type": "Blue Ridge Knives excl.",
+   "qty": "1200 link to this knife at knifeworks + 628.",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFPE2",
+   "date": "Feb. 2014",
+   "steel": "CPM-154/S90V",
+   "handle": "Peel Ply CF",
+   "type": "Sprint Run",
+   "qty": "300",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GFGP2",
+   "date": "June 2014",
+   "steel": "Elmax",
+   "handle": "Foliage Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "800-1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPDBL2",
+   "date": "Sept. 2015-",
+   "steel": "CPM-S110V",
+   "handle": "Dark blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPORBK2",
+   "date": "Oct. 2015-Feb. 2016",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Exclusive",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GM4P2",
+   "date": "July 2016",
+   "steel": "CPM-M4",
+   "handle": "Jade G-10",
+   "type": "BladeHQ excl.",
+   "qty": "2300 (2200 + 100 CC)",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFM4P2",
+   "date": "Aug. 2016/Mar. 2018",
+   "steel": "CPM-M4",
+   "handle": "Peel Ply CF",
+   "type": "Knifeworks excl.",
+   "qty": "1200 + 800",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPGY2",
+   "date": "Oct. 2016",
+   "steel": "Cru-Wear",
+   "handle": "Dark grey G-10",
+   "type": "Sprint Run",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPNP2",
+   "date": "Dec. 2016",
+   "steel": "CPM-S30V",
+   "handle": "Light pink G-10",
+   "type": "Exclusive",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GS2",
+   "date": "Mar. 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPLE2",
+   "date": "Apr. 2017 -",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPBKBS2",
+   "date": "June. 2017",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CF52100P2",
+   "date": "Oct. 2017",
+   "steel": "52100",
+   "handle": "Peel Ply CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPRD2",
+   "date": "Nov. 2017 / July 2019",
+   "steel": "M390",
+   "handle": "Red G-10",
+   "type": "DLT Trading excl.",
+   "qty": "1000-1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPDGY2",
+   "date": "Nov. 2017-",
+   "steel": "Maxamet",
+   "handle": "Dark gray G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CF52100PS2",
+   "date": "Dec. 2017",
+   "steel": "52100",
+   "handle": "Peel Ply CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPGRBKP2",
+   "date": "Feb. 2018, Sept. 2018",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Olive drab green G-10",
+   "type": "JB Outman excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GM4BKP2",
+   "date": "Mar. 27, 2018, 7PM MST",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Jade G-10",
+   "type": "BladeHQ excl.",
+   "qty": "Limited (probably 2200-2400)",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPCW2",
+   "date": "May 2018",
+   "steel": "Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "KnifeCenter excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPBORE2",
+   "date": "July 2018",
+   "steel": "CPM REX 45",
+   "handle": "Burnt orange G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPTN2",
+   "date": "Sept. 25, 2018, 11AM CST / Mar. 19, 2019, 11AM CST",
+   "steel": "CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "900-1000 (1st batch)",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPDGYS90V2",
+   "date": "Oct. 12, 2018 9AM MDT",
+   "steel": "CPM-S90V",
+   "handle": "Gray G-10",
+   "type": "Limited",
+   "qty": "Just over 700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPBNBK2",
+   "date": "Mar. 2019",
+   "steel": "Black DLC coated CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPTNBK2",
+   "date": "May 29, 2019, 11AM CST",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "800",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPBLBK2",
+   "date": "August 2019",
+   "steel": "Black DLC coated M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPRGR2",
+   "date": "Oct. 04, 2019 @ 9AM PST",
+   "steel": "Satin K390",
+   "handle": "Ranger Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPNGR2",
+   "date": "Dec. 12, 2019 @ 11AM CST",
+   "steel": "Satin CPM-20CV",
+   "handle": "Neon Green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "502",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPCB2",
+   "date": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+   "steel": "Satin CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "~700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPCBBK2",
+   "date": "Mar. 18, 2020 @ ~7AM PST (preorder)",
+   "steel": "Black DLC coated CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "~700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPFGR2",
+   "date": "April 2020",
+   "steel": "Satin CPM S45VN",
+   "handle": "Forest Green \"diamond arc pattern\" G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPRDBK2",
+   "date": "April 25, 2020 @ 3PM CST",
+   "steel": "Black DLC coated CPM-4V",
+   "handle": "Red G-10",
+   "type": "St. Nick's Knives excl.",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPW2",
+   "date": "May 2020",
+   "steel": "Satin CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Blade Ops excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWBK2",
+   "date": "June 2020",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Blade Ops excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CUP2",
+   "date": "June 2020",
+   "steel": "Satin CPM REX 45",
+   "handle": "Natural Copper",
+   "type": "BladeHQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPTBK2",
+   "date": "July 2020",
+   "steel": "Black DLC coated CPM-S30V, Tanto",
+   "handle": "Black G-10",
+   "type": "BladeHQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPPRBK2",
+   "date": "Aug. 2020",
+   "steel": "Black DLC Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPODFDE2",
+   "date": "Aug. 2020",
+   "steel": "Flat dark earth PVD coated CTS-204P",
+   "handle": "Olive drab G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPT2",
+   "date": "Dec. 2020",
+   "steel": "Satin CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GM4PT2",
+   "date": "Jan. 2021",
+   "steel": "Satin CPM-M4",
+   "handle": "Natural G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GM4PTBK2",
+   "date": "Jan. 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Natural G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GWC2",
+   "date": "Feb. 2021",
+   "steel": "CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPNGRBK2",
+   "date": "July 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Neon Green G-10",
+   "type": "Knife Joy excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPODBK2",
+   "date": "March 2021",
+   "steel": "Black DLC coated CPM-S90V",
+   "handle": "Olive Drab Green G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GCOFL2",
+   "date": "June 2021",
+   "steel": "Laser engraved CPM SPY27",
+   "handle": "multi-colored G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81MCW2",
+   "date": "2021",
+   "steel": "Satin Cru-Wear",
+   "handle": "Brown canvas Micarta",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFPBLBK2",
+   "date": "August 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Blue Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CUPBK2",
+   "date": "August 2021",
+   "steel": "Black DLC coated CPM REX 45",
+   "handle": "Natural Copper",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPDGYLMX2",
+   "date": "September 2021",
+   "steel": "Elmax",
+   "handle": "Dark Gray G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFPBL2",
+   "date": "October 2021",
+   "steel": "CPM-M4",
+   "handle": "Blue Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFPGRBK2",
+   "date": "November 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Green Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFPRDORBK2",
+   "date": "December 2021",
+   "steel": "Black DLC coated CPM-M4",
+   "handle": "Red Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPPR2",
+   "date": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Purple anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPBL2",
+   "date": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Blue anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPGR2",
+   "date": "21 December 2021",
+   "steel": "CTS-BD1N",
+   "handle": "Green anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPORBL2",
+   "date": "January 2022",
+   "steel": "CPM REX 45",
+   "handle": "Orange & Blue G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81MCFLMXP2",
+   "date": "January 2022",
+   "steel": "Elmax",
+   "handle": "Marbled Carbon fiber",
+   "type": "Fradon Lock excl.",
+   "qty": "~800",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPOROD2",
+   "date": "January 2022",
+   "steel": "CPM REX 45",
+   "handle": "Green & Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPBK2",
+   "date": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Black anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPOR2",
+   "date": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Orange anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81ALPRD2",
+   "date": "16 March 2022",
+   "steel": "CTS-BD1N",
+   "handle": "Red anodized Aluminum",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWCBK2",
+   "date": "1 April 2022",
+   "steel": "Black DLC coated CPM-S30V",
+   "handle": "Black G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPPR2",
+   "date": "April 2022",
+   "steel": "Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWCOR2",
+   "date": "August 2022",
+   "steel": "CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPTLBK2",
+   "date": "August 2022",
+   "steel": "Black DLC coated CPM-S90V",
+   "handle": "Teal G-10",
+   "type": "MGE Wholesale excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWCORBK2",
+   "date": "September 2022",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81FCGR2",
+   "date": "October 2022",
+   "steel": "CPM-M4",
+   "handle": "Green Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPCWBK2",
+   "date": "Dec. 2022",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Smooth Black G-10",
+   "type": "Knifecenter excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBN15V2",
+   "date": "Feb. 2023",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFRDOR2",
+   "date": "Mar. 2023",
+   "steel": "CPM-M4",
+   "handle": "Red Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPTL2",
+   "date": "June 2023",
+   "steel": "CPM-S90V",
+   "handle": "Teal G-10",
+   "type": "MGE Wholesale excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPGYW2",
+   "date": "Oct. 2023",
+   "steel": "Elmax",
+   "handle": "Dark Gray G-10",
+   "type": "BladeOps excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GCBL2",
+   "date": "2023 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBKYLMC2",
+   "date": "Dec. 2024 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow and black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBKYLMC2",
+   "date": "2023 -",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GDGYRX76BKP2",
+   "date": "Nov. 2024",
+   "steel": "Black DLC-coated CPM REX 76",
+   "handle": "Brick dark grey G-10",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GDGYRX76BKP2",
+   "date": "Feb. 2025",
+   "steel": "CPM REX 76",
+   "handle": "Brick dark grey G-10",
+   "type": "GP Knives excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBKRDMCBKP2",
+   "date": "Apr. 2025",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Red and Black G-10",
+   "type": "Limited",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81CFSPY27P2",
+   "date": "Oct. 2025",
+   "steel": "CPM SPY27",
+   "handle": "Black Dunes pattern Fatcarbon Carbon Fiber",
+   "type": "H.L. Dalis Inc. excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPORRX1212",
+   "date": "Jan. 5 2026",
+   "steel": "CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWCORRX1212",
+   "date": "Jan. 5 2026",
+   "steel": "CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81BK2",
+   "date": "Jan. 2026 -",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81BK2",
+   "date": "March 2026 -",
+   "steel": "Black DLC-coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81PBN15V2",
+   "date": "April 2026",
+   "steel": "CPM 15V",
+   "handle": "Brown FRN",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GNDMCP2",
+   "date": "March 2026",
+   "steel": "CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GNDMCPBK2",
+   "date": "March 2026",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPWCORRX121BK2",
+   "date": "April 2026",
+   "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GPORRX121BK2",
+   "date": "May 2026",
+   "steel": "Black VaporTech ZrOC-coated CPM REX 121",
+   "handle": "HEX Pattern Orange G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBKM4TP2",
+   "date": "July 2026",
+   "steel": "CPM-M4, Tanto",
+   "handle": "Black G-10",
+   "type": "BladeHQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C81GBKBKM4TP2",
+   "date": "July 2026",
+   "steel": "Black DLC coated CPM-M4, Tanto",
+   "handle": "Black G-10",
+   "type": "BladeHQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "?",
+   "date": "MAR 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-S35VN Black DLC Blade Earth Brown G-10 Moteng (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "MAY 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-20CV Black DLC Blade Tan G-10 DLT Trading (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "AUG 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 M390 Black DLC Blade Blue G-10 Bento Box Shop (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "OCT 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 K390 Ranger Green G-10 Bento Box Shop (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "DEC 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-20CV Lime Green G-10 KnifeJoy (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81GPWC2",
+   "date": "FEB 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-S30V PlainEdge Satin Wharncliffe Blade Black G-10 C81GPWC2 Cutlery Shoppe (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81GPCOFL2",
+   "date": "JUN 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-SPY27 Colorado Flag G-10 C81GPCOFL2 Sprint Run (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81CFPGR2",
+   "date": "NOV 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-M4 Black DLC Blade Jungle Wear Fat Carbon Fiber C81CFPGR2 Smoky Mountain Knife Works (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81CFPRDOR",
+   "date": "DEC 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-M4 Black DLC Blade Lava Flow Fat Carbon Fiber C81CFPRDOR Smoky Mountain Knife Works (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81GPR2",
+   "date": "APR 2022",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-CRUWEAR Purple G-10 C81GPR2 DLT Trading (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81GPBN15V2",
+   "date": "FEB 2023",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-15V Brown G-10 C81GPBN15V2 Sprint Run (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "MAR 2023",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-M4 Satin Blade Lava Flow Fat Carbon Fiber Smoky Mountain Knife Works (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C81GDGYRX76P2",
+   "date": "FEB 2025",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) ParaMilitary2 CPM-REX76 Satin Blade Dark Gray Brick Texture G-10 C81GDGYRX76P2 GP Knives (USA)",
+   "qty": "",
+   "src": "forum"
+  }
+ ],
+ "Para 3": [
+  {
+   "sku": "C223GP",
+   "date": "Dec. 2016-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPS",
+   "date": "Mar. 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCMO",
+   "date": "May 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Digi camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GS",
+   "date": "June 2017-",
+   "steel": "CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPBK",
+   "date": "June 2017-",
+   "steel": "Black CPM-S30V",
+   "handle": "Black textured G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPDBL",
+   "date": "Aug. 2017-",
+   "steel": "CPM-S110V",
+   "handle": "Dark blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCMOBK",
+   "date": "Aug. 2017-",
+   "steel": "Black CPM-S30V",
+   "handle": "Digi camo G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPGYCW",
+   "date": "Aug. 2017",
+   "steel": "Cru-Wear",
+   "handle": "Gray G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223CF90VP",
+   "date": "Feb. 2018",
+   "steel": "CPM-S90V",
+   "handle": "Black peel ply CF",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPBL",
+   "date": "Feb. 2018 / Nov. 29, 2019 @ 9am PST",
+   "steel": "M390",
+   "handle": "Blue G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "Limited (2 batches)",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPDGY",
+   "date": "Mar. 2018-",
+   "steel": "Maxamet",
+   "handle": "Dark gray G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GM4P",
+   "date": "June 26, 2018",
+   "steel": "CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPODFDE",
+   "date": "July 2018",
+   "steel": "Flat dark earth PVD coated CTS-204P",
+   "handle": "Olive drab G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GM4PBK",
+   "date": "July 2018",
+   "steel": "Black DLC CPM-M4",
+   "handle": "Jade G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPBORE",
+   "date": "Aug. 2018",
+   "steel": "CPM REX 45",
+   "handle": "Burnt orange G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223CF52100P",
+   "date": "Aug. 2018",
+   "steel": "52100",
+   "handle": "Black CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPBN",
+   "date": "Sept. 2018",
+   "steel": "CPM-S35VN",
+   "handle": "Earth brown G-10",
+   "type": "Moteng excl.",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPRDBK",
+   "date": "Sept. 20, 2018",
+   "steel": "Black DLC CPM-4V",
+   "handle": "Red G-10",
+   "type": "St. Nick's Knives excl.",
+   "qty": "~700",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223CF52100PS",
+   "date": "Oct. 2018",
+   "steel": "52100",
+   "handle": "Black CF",
+   "type": "H.L. Dalis excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCW",
+   "date": "Oct. 2018",
+   "steel": "Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "Knife Center excl.",
+   "qty": "600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPOR",
+   "date": "Nov. 16, 2018 @ 10AM MST",
+   "steel": "Satin CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPORBK",
+   "date": "Nov. 16, 2018 @ 10AM MST",
+   "steel": "Black DLC CTS-XHP",
+   "handle": "Orange G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPBNBK",
+   "date": "Apr. 2019",
+   "steel": "Black DLC coated CPM-S35VN",
+   "handle": "Earth Brown G-10",
+   "type": "Moteng excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPRD",
+   "date": "Aug. 2019",
+   "steel": "M390",
+   "handle": "Red G-10",
+   "type": "Exclusive",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPRGR",
+   "date": "Nov. 1, 2019 @ 1pm PST",
+   "steel": "K390",
+   "handle": "Ranger Green G-10",
+   "type": "Bento Box Shop excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPOROD",
+   "date": "Mar. 15, 2020 @ 12pm MDT",
+   "steel": "Satin CPM REX 45",
+   "handle": "Orange and olive drab green G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPORBL",
+   "date": "Mar. 29, 2020",
+   "steel": "Satin CPM REX 45",
+   "handle": "Orange and blue G-10",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPGR",
+   "date": "Apr. 2020",
+   "steel": "CTS-204P",
+   "handle": "Forest Green G-10",
+   "type": "KnifeWorks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPFGR",
+   "date": "Jul. 2020",
+   "steel": "CPM S45VN",
+   "handle": "Forest Green \"diamond arc pattern\" G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPRBK",
+   "date": "Nov. 2020",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Purple G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GNGRBK",
+   "date": "April 2021",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Neon green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCWBK",
+   "date": "Aug. 2021",
+   "steel": "Black DLC coated Cru-Wear",
+   "handle": "Smooth black G-10",
+   "type": "Knifecenter excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPPN",
+   "date": "2021",
+   "steel": "CPM S45VN",
+   "handle": "Pink G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223MCFLMXP",
+   "date": "August 2022",
+   "steel": "Elmax",
+   "handle": "Marbled Carbon fiber",
+   "type": "Fradon Lock Company excl.",
+   "qty": "~600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPTNBK",
+   "date": "November 1, 2022 @ 9AM PST",
+   "steel": "Black DLC coated CPM-20CV",
+   "handle": "Tan G-10",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPNGR",
+   "date": "Oct. 2022",
+   "steel": "CPM-20CV",
+   "handle": "Neon green G-10",
+   "type": "KnifeJoy excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCBBK",
+   "date": "June 2023",
+   "steel": "Black DLC-coated CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GPCB",
+   "date": "July 2023",
+   "steel": "CPM-10V",
+   "handle": "Coyote Brown G-10",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GCBL",
+   "date": "2023 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223MCW",
+   "date": "2023 -",
+   "steel": "Cru-Wear",
+   "handle": "Brown canvas Micarta",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GMCBK",
+   "date": "2024 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Black G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GBN15V",
+   "date": "2024 -",
+   "steel": "CPM 15V",
+   "handle": "Brown G-10",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GBKYLMC",
+   "date": "Nov. 2025 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Black & Yellow G-10",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223CFTSBKP",
+   "date": "Nov. 2025",
+   "steel": "Cru-Wear",
+   "handle": "Toxic storm pattern Fatcarbon Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223CFPHBKP",
+   "date": "Dec. 2025",
+   "steel": "Black DLC-coated Cru-Wear",
+   "handle": "Purple haze pattern Fatcarbon Carbon Fiber",
+   "type": "Smokey Mountain Knifeworks excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GNDMCP",
+   "date": "March 2026",
+   "steel": "CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GNDMCPBK",
+   "date": "March 2026",
+   "steel": "Black DLC-coated CPM MagnaCut",
+   "handle": "Natural diamond mesh G-10",
+   "type": "Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "?",
+   "date": "APR 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 CPM-S35VN Black DLC Blade Earth Brown G-10 Moteng (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "AUG 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 M390 Red G-10 DLT Trading (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "?",
+   "date": "NOV 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 K390 Ranger Green G-10 Bento Box Shop (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C223GPPRBK",
+   "date": "NOV 2020",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 CPM-CRU-WEAR Black DLC Blade Purple G-10 C223GPPRBK DLT Trading (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C223GPNGRBK",
+   "date": "APR 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 CPM-20CV Black DLC Blade Neon Green G-10 C223GPNGRBK KnifeJoy (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C223GNGR",
+   "date": "OCT 2022",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 CPM-20CV Satin Blade Neon Green G-10 C223GNGR KnifeJoy (USA)",
+   "qty": "",
+   "src": "forum"
+  }
+ ],
+ "Para 3 Lightweight": [
+  {
+   "sku": "C223PBK",
+   "date": "Apr. 2019-",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223SBK",
+   "date": "Apr. 2019-",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PRD",
+   "date": "Oct. 29, 2019 @ 11AM CST",
+   "steel": "Satin M390",
+   "handle": "Red FRN",
+   "type": "DLT Trading excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PBBK",
+   "date": "Dec. 2019-",
+   "steel": "Black DLC coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223SBBK",
+   "date": "Feb. 2020-",
+   "steel": "Black DLC coated CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PBORE",
+   "date": "Mar. 2020",
+   "steel": "CPM REX 45",
+   "handle": "Burnt-orange FRN",
+   "type": "Sprint Run",
+   "qty": "1200",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PCBL",
+   "date": "2020 -",
+   "steel": "CPM SPY27",
+   "handle": "Cobalt blue FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PNBL",
+   "date": "Mar. 2021",
+   "steel": "CPM-20CV",
+   "handle": "Stone Blue FRN",
+   "type": "Lightweight version. KnifeJoy excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PTBL",
+   "date": "2021",
+   "steel": "CPM-S90V",
+   "handle": "Teal FRN",
+   "type": "Lightweight version. MGE Wholesale excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223GRM4",
+   "date": "June 2021",
+   "steel": "CPM-M4",
+   "handle": "Mint green FRN",
+   "type": "Lightweight version. Blade HQ excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PWH",
+   "date": "Sep. 2021",
+   "steel": "CPM REX 45",
+   "handle": "White FRN",
+   "type": "Lightweight version. GP Knives excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PWHBK",
+   "date": "Nov. 2021",
+   "steel": "Black DLC coated CPM REX 45",
+   "handle": "White FRN",
+   "type": "Lightweight version. GP Knives excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PRDBK",
+   "date": "Feb. 2022",
+   "steel": "Black DLC coated CPM-4V",
+   "handle": "Red FRN",
+   "type": "St. Nick's excl.",
+   "qty": "~1600",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223POR",
+   "date": "March 2022",
+   "steel": "CTS-XHP",
+   "handle": "Orange FRN",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "~1000",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PORBK",
+   "date": "Jul. 2022",
+   "steel": "Black DLC coated CTS-XHP",
+   "handle": "Orange FRN",
+   "type": "Cutlery Shoppe excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223KBPI",
+   "date": "Sep. 2023",
+   "steel": "CTS-BD1N",
+   "handle": "Black FRN",
+   "type": "Limited",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PN",
+   "date": "2023 -",
+   "steel": "CTS-BD1N",
+   "handle": "Pink FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PN",
+   "date": "2023 -",
+   "steel": "Black DLC-coated CTS-BD1N",
+   "handle": "Pink FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223YL",
+   "date": "2023 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PFGRCWBK",
+   "date": "Dec. 2023 -",
+   "steel": "Black DLC-coated Cru-Wear",
+   "handle": "Deep forest green FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PODFDE",
+   "date": "July 2024",
+   "steel": "Flat dark earth PVD-coated CTS-204P",
+   "handle": "Olive Drab FRN",
+   "type": "River's Edge Cutlery excl.",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223BN15V",
+   "date": "Jan. 2025",
+   "steel": "CPM 15V",
+   "handle": "Brown FRN",
+   "type": "Sprint Run",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223PGRM4BK",
+   "date": "Apr. 2025",
+   "steel": "Black DLC-coated CPM-M4",
+   "handle": "Jade green FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "C223SYL",
+   "date": "2025 -",
+   "steel": "CPM MagnaCut",
+   "handle": "Yellow FRN",
+   "type": "Regular production",
+   "qty": "",
+   "src": "wiki"
+  },
+  {
+   "sku": "?",
+   "date": "OCT 2019",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 Lightweight M390 Red FRN DLT Trading (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C223GPGRM4",
+   "date": "JUN 2021",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 Lightweight CPM-M4 Mint Green FRN C223GPGRM4 BladeHQ (USA)",
+   "qty": "",
+   "src": "forum"
+  },
+  {
+   "sku": "C223PFG",
+   "date": "FEB 2025",
+   "steel": "",
+   "handle": "",
+   "type": "(forum) Para3 Lightweight CTS-204P Forest Green FRN C223PFG KnifeWorks (USA)",
+   "qty": "",
+   "src": "forum"
+  }
+ ]
+}

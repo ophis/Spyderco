@@ -1,0 +1,10 @@
+import { chromium } from 'playwright-core';
+import fs from 'fs';
+const b = await chromium.launchPersistentContext('./prof', { channel: 'chrome', headless: false, args:['--disable-blink-features=AutomationControlled'] });
+const p = b.pages()[0] || await b.newPage();
+await p.goto('https://spyderco.com/', { waitUntil: 'domcontentloaded' }); await p.waitForTimeout(4000);
+const all = await p.evaluate(async () => { const out=[]; for (let i=1;i<40;i++){ const r=await fetch('/products.json?limit=250&page='+i); const d=await r.json(); if(!d.products.length) break; out.push(...d.products); } return out; });
+const sel = all.filter(x=>/manix\W*2|shaman/i.test(x.title)).map(x=>({title:x.title,handle:x.handle,published:x.published_at,skus:x.variants.map(v=>v.sku+' :: '+v.title)}));
+fs.writeFileSync('site2.json', JSON.stringify(sel,null,1));
+console.log(all.length, sel.length);
+await b.close();

@@ -1,0 +1,10 @@
+prof/
+prof2/
+node_modules/
+venv/
+tmpimg/
+audit/
+review/
+smap.json
+bhq_sitemap.txt
+*.out
