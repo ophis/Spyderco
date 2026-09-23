@@ -25,13 +25,13 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 3 | <a href="images/C81/C81GPBK2.jpg"><img src="images/C81/C81GPBK2.jpg" width="160"></a> | C81GPBK2 | 2011- | CPM-S30V black DLC | Black G-10 | Regular production |  | C81GBK2 (wiki) |
 | 4 | <a href="images/C81/C81GPCMO2.jpg"><img src="images/C81/C81GPCMO2.jpg" width="160"></a> | C81GPCMO2 | 2011- | CPM-S30V | Digital Camo G-10 | Regular production |  | C81GCMO2 (wiki) |
 | 5 | <a href="images/C81/C81GPCMOBK2.jpg"><img src="images/C81/C81GPCMOBK2.jpg" width="160"></a> | C81GPCMOBK2 | 2011- | CPM-S30V black DLC | Digital Camo G-10 | Regular production |  | C81GCMOBK2 (wiki) |
-| 6 |  | C81GGY20CP2 | 2011 | CTS-20CP | Gray G-10 | 🟥 Sprint Run | ? |  |
+| 6 | <a href="images/C81/C81GGY20CP2.jpg"><img src="images/C81/C81GGY20CP2.jpg" width="160"></a> | C81GGY20CP2 | 2011 | CTS-20CP | Gray G-10 | 🟥 Sprint Run | ? |  |
 | 7 |  | C81GBLM3902 | Jan. 2012 | M390 | Blue G-10 | 🟦 Bento Box Shop excl. | 800 (1st run) |  |
 | 8 |  | C81GPBN2 | Mar. 2012 | CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
 | 9 |  | C81GPOR2 | 2012 Apr. | CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. | 800 |  |
 | 10 |  | C81GPGR2 | June 2013 | CTS-204P | Dark Green G-10 | 🟦 Blue Ridge Knives excl. | 1200 |  |
 | 11 |  | C81CFPE2 | Feb. 2014 | CPM-154/S90V | Peel Ply CF | 🟥 Sprint Run | 300 |  |
-| 12 |  | C81GFGP2 | June 2014 | Elmax | Foliage Green G-10 | 🟦 Bento Box Shop excl. | 800-1200 |  |
+| 12 | <a href="images/C81/C81GFGP2.webp"><img src="images/C81/C81GFGP2.webp" width="160"></a> | C81GFGP2 | June 2014 | Elmax | Foliage Green G-10 | 🟦 Bento Box Shop excl. | 800-1200 |  |
 | 13 | <a href="images/C81/C81GPDBL2.jpg"><img src="images/C81/C81GPDBL2.jpg" width="160"></a> | C81GPDBL2 | Sept. 2015- | CPM-S110V | Dark blue G-10 | Regular production |  |  |
 | 14 |  | C81GPORBK2 | Oct. 2015-Feb. 2016 | Black DLC coated CTS-XHP | Orange G-10 | 🟪 Exclusive | 1200 |  |
 | 15 | <a href="images/C81/C81GM4P2.jpg"><img src="images/C81/C81GM4P2.jpg" width="160"></a> | C81GM4P2 | July 2016 | CPM-M4 | Jade G-10 | 🟦 Blade HQ excl. | 2300 (2200 + 100 CC) |  |

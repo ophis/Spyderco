@@ -14,31 +14,31 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 4 | <a href="images/C229/C229GSBK.jpg"><img src="images/C229/C229GSBK.jpg" width="160"></a> | C229GSBK | Mar. 2018- | Black DLC coated CPM-S30V | Black, matte finish, contoured G-10 | Regular production |  |  |
 | 5 |  | C229GM4P | Mar. 19, 2019 @ 10 AM MST | Satin CPM-M4 | Jade/Natural, contoured G-10 | 🟦 Blade HQ excl. |  |  |
 | 6 |  | C229CFP | May 2019 | Satin CPM-S90V | Black, contoured CF | 🟥 Sprint Run | 600-1200? |  |
-| 7 |  | C229GRDBK | Sept. 19, 2019 @ 7 PM CST | Black DLC coated CPM-4V | Red, contoured G-10 | 🟦 St. Nick's Knives excl. | ~450 |  |
+| 7 |  | C229GPRDBK | Sept. 19, 2019 @ 7 PM CST | Black DLC coated CPM-4V | Red, contoured G-10 | 🟦 St. Nick's Knives excl. | ~450 | C229GRDBK (wiki) |
 | 8 |  | C229MCW | Oct. 2019 | Cru-Wear | Brown, contoured canvas Micarta | 🟥 Sprint Run | 1200 |  |
 | 9 |  | C229RWDP | Jan. 2020 | CPM REX 45 | Contoured rosewood Dymondwood | 🟦 KnifeCenter excl. |  |  |
 | 10 |  | C229GPFGBK | Feb. 01, 2020 @ 11 AM EST | DLC Cru-Wear | Forest green, smooth contoured G-10 | 🟦 The Knife Joker excl. | ~435 | C229GFGBK (wiki) |
 | 11 |  | C229GM4PBK | Feb. 11, 2020 @ 10 AM MST | Black DLC CPM-M4 | Jade/Natural, contoured G-10 | 🟦 Blade HQ excl. |  |  |
 | 12 |  | C229GPBORE | June 2020 | CPM REX 45 | Burnt-orange contoured G-10 | 🟥 Sprint Run | 1200 |  |
-| 13 |  | C229BMBNP | 2021 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
+| 13 | <a href="images/C229/C229BMBNP.jpg"><img src="images/C229/C229BMBNP.jpg" width="160"></a> | C229BMBNP | 2021 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
 | 14 |  | C229MPZW | Feb. 2021 | Z-WEAR PM | Brown, contoured canvas Micarta | 🟥 Sprint Run |  |  |
 | 15 |  | C229GPORBK | March 2021 | Black DLC coated CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  | C229GORBK (wiki) |
-| 16 |  | C229GPOR | May 2021 | CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  | C229GOR (wiki) |
+| 16 | <a href="images/C229/C229GPOR.jpg"><img src="images/C229/C229GPOR.jpg" width="160"></a> | C229GPOR | May 2021 | CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  | C229GOR (wiki) |
 | 17 |  | C229GPODFDE | June 2021 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. |  | C229GODFDE (wiki) |
 | 18 |  | C229MPM4 | May 2022 | CPM-M4 | Green canvas Micarta | 🟦 Blade HQ excl. |  | C229MM4 (wiki) |
-| 19 |  | C229BMBNP | June 2022 | CPM-S90V | Brown burlap Micarta | 🟦 KnifeCenter excl. |  | C229BMBN (wiki) |
-| 20 |  | C229MPM4BK | July 2022 | Black DLC CPM-M4 | Green canvas Micarta | 🟦 Blade HQ excl. |  |  |
+| 19 | <a href="images/C229/C229BMBNP.jpg"><img src="images/C229/C229BMBNP.jpg" width="160"></a> | C229BMBNP | June 2022 | CPM-S90V | Brown burlap Micarta | 🟦 KnifeCenter excl. |  | C229BMBN (wiki) |
+| 20 | <a href="images/C229/C229MPM4BK.jpg"><img src="images/C229/C229MPM4BK.jpg" width="160"></a> | C229MPM4BK | July 2022 | Black DLC CPM-M4 | Green canvas Micarta | 🟦 Blade HQ excl. |  |  |
 | 21 | <a href="images/C229/C229GPDGR.jpg"><img src="images/C229/C229GPDGR.jpg" width="160"></a> | C229GPDGR | August 2022 | CTS-204P | Forest Green G-10 | 🟦 KnifeWorks excl. |  |  |
 | 22 |  | C229GPGY | August 2022 | Elmax | Gray G-10 | 🟦 BladeOps excl. |  | C229GGY (wiki) |
 | 23 |  | C229GPBN15V | 2023 | CPM 15V | Brown G-10 | 🟥 Sprint Run |  | C229GBN15V (wiki) |
-| 24 |  | C229GCBL | 2024 - | CPM SPY27 | Cobalt blue G-10 | Regular production |  |  |
+| 24 |  | C229GPCBL | 2024 - | CPM SPY27 | Cobalt blue G-10 | Regular production |  | C229GCBL (wiki) |
 | 25 |  | C229MXHPP | March 2024 | CTS-XHP | Black Micarta | 🟦 Blade HQ excl. |  |  |
-| 26 |  | C229BMBNP | Nov. 2024 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
+| 26 | <a href="images/C229/C229BMBNP.jpg"><img src="images/C229/C229BMBNP.jpg" width="160"></a> | C229BMBNP | Nov. 2024 | CPM-S90V | Burlap Micarta | 🟦 KnifeCenter excl. |  |  |
 | 27 | <a href="images/C229/C229MGYS45BKP.jpg"><img src="images/C229/C229MGYS45BKP.jpg" width="160"></a> | C229MGYS45BKP | 2025 | Black DLC-coated CPM S45VN | Gray Micarta | 🟦 Smoky Mountain Knife Works excl. |  |  |
 | 28 |  | C229MPY10VP | 12 June 2025 | CPM-10V | Python Canvas Micarta | 🟦 River's Edge Cutlery excl. |  |  |
 | 29 | <a href="images/C229/C229MORM390BKP.jpg"><img src="images/C229/C229MORM390BKP.jpg" width="160"></a> | C229MORM390BKP | Sep. 2025 | Black DLC-coated M390 | Orange Micarta | 🟦 JB Outman excl. |  |  |
 | 30 | <a href="images/C229/C229GMCBKP.jpg"><img src="images/C229/C229GMCBKP.jpg" width="160"></a> | C229GMCBKP | Nov. 2025 - | Black DLC-coated CPM MagnaCut | Black G-10 | Regular production |  |  |
-| 31 |  | C229MBLRX76BKP | Dec. 2025 - | Black DLC-coated CPM REX 76 | Blue jean canvas Micarta | 🟦 St. Nick's Knives excl. | ~600 |  |
+| 31 | <a href="images/C229/C229MBLRX76BKP.jpg"><img src="images/C229/C229MBLRX76BKP.jpg" width="160"></a> | C229MBLRX76BKP | Dec. 2025 - | Black DLC-coated CPM REX 76 | Blue jean canvas Micarta | 🟦 St. Nick's Knives excl. | ~600 |  |
 
 ## Shaman Lightweight (4)
 
