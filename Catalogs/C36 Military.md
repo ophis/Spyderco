@@ -9,18 +9,18 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | # | Image | Model No. | Released | Steel | Handle | Type | Qty | Alt SKU |
 |---|---|---|---|---|---|---|---|---|
 | 1 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 1996-1999 | ATS-34 | Black G-10 | Regular production |  |  |
-| 2 |  | C36GBK | 1996-1997? | ATS-34 black coated | Black G-10 | Regular production |  |  |
+| 2 | <a href="images/C36/C36GBK.jpg"><img src="images/C36/C36GBK.jpg" width="160"></a> | C36GBK | 1996-1997? | ATS-34 black coated | Black G-10 | Regular production |  |  |
 | 3 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 1996-2001 | CPM-440V | Black G-10 | Regular production |  |  |
 | 4 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2000 | CPM-440V | Black G-10, bug on handle | 🟦 Spyderco Forum 2000 excl. | 500 |  |
 | 5 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2001-2003 | CPM-440V | Black G-10 | Regular production |  |  |
 | 6 | <a href="images/C36/C36G.jpg"><img src="images/C36/C36G.jpg" width="160"></a> | C36G | 2004- | CPM-S30V | Black G-10 | Regular production |  | C36GPE (spyderco.com) |
 | 7 | <a href="images/C36/C36GPS.webp"><img src="images/C36/C36GPS.webp" width="160"></a> | C36GPS | 2004-2013 | CPM-S30V (CombinationEdge) | Black G-10 | Regular production |  |  |
 | 8 | <a href="images/C36/C36GPBK.jpg"><img src="images/C36/C36GPBK.jpg" width="160"></a> | C36GPBK | 2005- | CPM-S30V black coated | Black G-10 | Regular production |  | C36GBK (wiki) |
-| 9 |  | C36CFP | 2005 | CPM-S30V | Black CF | 🟪 Limited | 400 |  |
+| 9 | <a href="images/C36/C36CFP.jpg"><img src="images/C36/C36CFP.jpg" width="160"></a> | C36CFP | 2005 | CPM-S30V | Black CF | 🟪 Limited | 400 |  |
 | 10 | <a href="images/C36/C36GPSBK.jpg"><img src="images/C36/C36GPSBK.jpg" width="160"></a> <a href="images/C36/C36GPSBK_2.jpg"><img src="images/C36/C36GPSBK_2.jpg" width="160"></a> | C36GPSBK | 2005-2013 | CPM-S30V black coated (CombinationEdge) | Black G-10 | Regular production |  |  |
 | 11 | <a href="images/C36/C36CFBGP.jpg"><img src="images/C36/C36CFBGP.jpg" width="160"></a> | C36CFBGP | 2006 | BG-42 | Black CF | 🟥 Sprint Run | 1500 |  |
 | 12 | <a href="images/C36/C36FGD2P.jpg"><img src="images/C36/C36FGD2P.jpg" width="160"></a> | C36FGD2P | 2007 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run | ? |  |
-| 13 |  | C36CF90VP | 2008 | CPM-S90V | Black CF | 🟥 Sprint Run | ca. 1000 |  |
+| 13 | <a href="images/C36/C36CF90VP.jpg"><img src="images/C36/C36CF90VP.jpg" width="160"></a> | C36CF90VP | 2008 | CPM-S90V | Black CF | 🟥 Sprint Run | ca. 1000 |  |
 | 14 | <a href="images/C36/C36GPCMO.jpg"><img src="images/C36/C36GPCMO.jpg" width="160"></a> | C36GPCMO | 2009- | CPM-S30V | Digital Camo G-10 | Regular production |  |  |
 | 15 | <a href="images/C36/C36GPCMOBK.jpg"><img src="images/C36/C36GPCMOBK.jpg" width="160"></a> | C36GPCMOBK | 2009- | CPM-S30V black coated | Digital Camo G-10 | Regular production |  |  |
 | 16 | <a href="images/C36/C36GPOR.webp"><img src="images/C36/C36GPOR.webp" width="160"></a> | C36GPOR | 2009-2010 | CPM-S30V | Orange G-10 | 🟪 Limited |  |  |
@@ -41,7 +41,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 31 | <a href="images/C36/C36GM4PBK.jpg"><img src="images/C36/C36GM4PBK.jpg" width="160"></a> <a href="images/C36/C36GM4PBK_2.jpg"><img src="images/C36/C36GM4PBK_2.jpg" width="160"></a> | C36GM4PBK | Feb. 5 2019 | Black coated CPM-M4 | Jade green G-10 | 🟦 Blade HQ excl. |  |  |
 | 32 | <a href="images/C36/C36GPRD4VBK.png"><img src="images/C36/C36GPRD4VBK.png" width="160"></a> | C36GPRD4VBK | Mar. 2023 | Black DLC-coated CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | ca. 600 |  |
 | 33 | <a href="images/C36/C36GPODFDE.jpg"><img src="images/C36/C36GPODFDE.jpg" width="160"></a> <a href="images/C36/C36GPODFDE_2.jpg"><img src="images/C36/C36GPODFDE_2.jpg" width="160"></a> | C36GPODFDE | 2026 | Flat dark earth PVD-coated CTS-204P | Olive drab green G-10 | 🟦 River's Edge Cutlery excl. |  |  |
-| 34 |  | C36GBK | late 90s? | CPM-440V black coated | Black G-10 | Regular production |  |  |
+| 34 | <a href="images/C36/C36GBK.jpg"><img src="images/C36/C36GBK.jpg" width="160"></a> | C36GBK | late 90s? | CPM-440V black coated | Black G-10 | Regular production |  |  |
 
 ## Military 2 (19)
 

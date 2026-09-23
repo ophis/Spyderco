@@ -9,11 +9,11 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | # | Image | Model No. | Released | Steel | Handle | Type | Qty | Alt SKU |
 |---|---|---|---|---|---|---|---|---|
 | 1 | <a href="images/C81/C81GP.jpg"><img src="images/C81/C81GP.jpg" width="160"></a> | C81GP | 2004-2010 | CPM-S30V | Black G-10 | Regular production |  |  |
-| 2 |  | C81GS | 2004-2009 | CPM-S30V | Black G-10 | Regular production |  |  |
-| 3 |  | C81GPBK | 2005-2010 | CPM-S30V black | Black G-10 | Regular production |  |  |
-| 4 |  | C81GSBK | 2005-2009 | CPM-S30V black | Black G-10 | Regular production |  |  |
-| 5 |  | C81GPFG | 2008 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run |  |  |
-| 6 |  | C81GPCMO | 2009-2010 | CPM-S30V | Digital Camo G-10 | Regular production |  |  |
+| 2 | <a href="images/C81/C81GS.jpg"><img src="images/C81/C81GS.jpg" width="160"></a> <a href="images/C81/C81GS_2.jpg"><img src="images/C81/C81GS_2.jpg" width="160"></a> | C81GS | 2004-2009 | CPM-S30V | Black G-10 | Regular production |  |  |
+| 3 | <a href="images/C81/C81GPBK.jpg"><img src="images/C81/C81GPBK.jpg" width="160"></a> | C81GPBK | 2005-2010 | CPM-S30V black | Black G-10 | Regular production |  |  |
+| 4 | <a href="images/C81/C81GSBK.jpg"><img src="images/C81/C81GSBK.jpg" width="160"></a> | C81GSBK | 2005-2009 | CPM-S30V black | Black G-10 | Regular production |  |  |
+| 5 | <a href="images/C81/C81GPFG.jpg"><img src="images/C81/C81GPFG.jpg" width="160"></a> <a href="images/C81/C81GPFG_2.jpg"><img src="images/C81/C81GPFG_2.jpg" width="160"></a> | C81GPFG | 2008 | CPM-D2 | Foliage Green G-10 | 🟥 Sprint Run |  |  |
+| 6 | <a href="images/C81/C81GPCMO.jpg"><img src="images/C81/C81GPCMO.jpg" width="160"></a> | C81GPCMO | 2009-2010 | CPM-S30V | Digital Camo G-10 | Regular production |  |  |
 | 7 | <a href="images/C81/C81GPCMOBK.jpg"><img src="images/C81/C81GPCMOBK.jpg" width="160"></a> | C81GPCMOBK | 2009-2010 | CPM-S30V black | Digital Camo G-10 | Regular production |  |  |
 
 ## ParaMilitary 2 (95)
@@ -21,7 +21,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | # | Image | Model No. | Released | Steel | Handle | Type | Qty | Alt SKU |
 |---|---|---|---|---|---|---|---|---|
 | 1 | <a href="images/C81/C81GP2.jpg"><img src="images/C81/C81GP2.jpg" width="160"></a> | C81GP2 | 2010- | CPM-S30V | Black G-10 | Regular production |  |  |
-| 2 |  | C81CFP2 | 2010 | CPM-S90V | Black Peel Ply CF | 🟥 Sprint Run | 600 |  |
+| 2 | <a href="images/C81/C81CFP2.jpg"><img src="images/C81/C81CFP2.jpg" width="160"></a> <a href="images/C81/C81CFP2_2.jpg"><img src="images/C81/C81CFP2_2.jpg" width="160"></a> | C81CFP2 | 2010 | CPM-S90V | Black Peel Ply CF | 🟥 Sprint Run | 600 |  |
 | 3 | <a href="images/C81/C81GPBK2.jpg"><img src="images/C81/C81GPBK2.jpg" width="160"></a> | C81GPBK2 | 2011- | CPM-S30V black DLC | Black G-10 | Regular production |  | C81GBK2 (wiki) |
 | 4 | <a href="images/C81/C81GPCMO2.jpg"><img src="images/C81/C81GPCMO2.jpg" width="160"></a> | C81GPCMO2 | 2011- | CPM-S30V | Digital Camo G-10 | Regular production |  | C81GCMO2 (wiki) |
 | 5 | <a href="images/C81/C81GPCMOBK2.jpg"><img src="images/C81/C81GPCMOBK2.jpg" width="160"></a> | C81GPCMOBK2 | 2011- | CPM-S30V black DLC | Digital Camo G-10 | Regular production |  | C81GCMOBK2 (wiki) |
@@ -72,7 +72,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 50 | <a href="images/C81/C81GM4PTBK2.jpg"><img src="images/C81/C81GM4PTBK2.jpg" width="160"></a> <a href="images/C81/C81GM4PTBK2_2.jpg"><img src="images/C81/C81GM4PTBK2_2.jpg" width="160"></a> | C81GM4PTBK2 | Jan. 2021 | Black DLC coated CPM-M4 | Natural G-10 | 🟦 Blade HQ excl. |  |  |
 | 51 | <a href="images/C81/C81GWC2.webp"><img src="images/C81/C81GWC2.webp" width="160"></a> | C81GWC2 | Feb. 2021 | CPM-S30V | Black G-10 | 🟦 Cutlery Shoppe excl. |  | C81GPWC2 |
 | 52 | <a href="images/C81/C81GPODBK2.jpg"><img src="images/C81/C81GPODBK2.jpg" width="160"></a> <a href="images/C81/C81GPODBK2_2.webp"><img src="images/C81/C81GPODBK2_2.webp" width="160"></a> | C81GPODBK2 | March 2021 | Black DLC coated CPM-S90V | Olive Drab Green G-10 | 🟦 DLT Trading excl. |  |  |
-| 53 |  | C81GCOFL2 | June 2021 | Laser engraved CPM SPY27 | multi-colored G-10 | 🟥 Sprint Run |  | C81GPCOFL2 |
+| 53 | <a href="images/C81/C81GCOFL2.jpg"><img src="images/C81/C81GCOFL2.jpg" width="160"></a> | C81GCOFL2 | June 2021 | Laser engraved CPM SPY27 | multi-colored G-10 | 🟥 Sprint Run |  | C81GPCOFL2 |
 | 54 | <a href="images/C81/C81GPNGRBK2.png"><img src="images/C81/C81GPNGRBK2.png" width="160"></a> | C81GPNGRBK2 | July 2021 | Black DLC coated CPM-20CV | Neon Green G-10 | 🟦 KnifeJoy excl. |  |  |
 | 55 | <a href="images/C81/C81CFPBLBK2.jpg"><img src="images/C81/C81CFPBLBK2.jpg" width="160"></a> <a href="images/C81/C81CFPBLBK2_2.jpg"><img src="images/C81/C81CFPBLBK2_2.jpg" width="160"></a> | C81CFPBLBK2 | August 2021 | Black DLC coated CPM-M4 | Blue Carbon Fiber | 🟦 Smoky Mountain Knife Works excl. |  |  |
 | 56 | <a href="images/C81/C81CUPBK2.jpg"><img src="images/C81/C81CUPBK2.jpg" width="160"></a> | C81CUPBK2 | August 2021 | Black DLC coated CPM REX 45 | Natural Copper | 🟦 Blade HQ excl. |  |  |

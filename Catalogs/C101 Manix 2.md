@@ -12,13 +12,13 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 2 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 3 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 4 | <a href="images/C101/C101GS2.jpg"><img src="images/C101/C101GS2.jpg" width="160"></a> | C101GS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
-| 5 |  | C101CF90VP2 | 2009 | CPM-S90V | Black CF | 🟥 Sprint Run | 400 |  |
+| 5 | <a href="images/C101/C101CF90VP2.jpg"><img src="images/C101/C101CF90VP2.jpg" width="160"></a> | C101CF90VP2 | 2009 | CPM-S90V | Black CF | 🟥 Sprint Run | 400 |  |
 | 6 | <a href="images/C101/C101GPBL2.jpg"><img src="images/C101/C101GPBL2.jpg" width="160"></a> | C101GPBL2 | early 2010 | CPM-S30V | Blue G-10 | 🟥 Sprint Run | 500 |  |
 | 7 | <a href="images/C101/C101GFGXHPP2.jpg"><img src="images/C101/C101GFGXHPP2.jpg" width="160"></a> | C101GFGXHPP2 | 2010 | CTS-XHP | Foliage Green G-10 | 🟥 Sprint Run | 1000 |  |
 | 8 |  | C101GPPN2 | mid 2010 | 154CM | Pink G-10 | 🟪 Exclusive | 500 |  |
 | 9 | <a href="images/C101/C101GPBBK2.jpg"><img src="images/C101/C101GPBBK2.jpg" width="160"></a> | C101GPBBK2 | 2010-2012 | Black DLC coated 154CM | Black G-10 | Regular production |  |  |
 | 10 | <a href="images/C101/C101GPSBBK2.jpg"><img src="images/C101/C101GPSBBK2.jpg" width="160"></a> | C101GPSBBK2 | 2010-2012 | Black DLC coated 154CM | Black G-10 | Regular production |  |  |
-| 11 |  | C101GPRBK2 | late 2010 | CPM-S30V | Dark Green G-10 | 🟦 Stag Arms excl. |  |  |
+| 11 | <a href="images/C101/C101GPRBK2.jpg"><img src="images/C101/C101GPRBK2.jpg" width="160"></a> | C101GPRBK2 | late 2010 | CPM-S30V | Dark Green G-10 | 🟦 Stag Arms excl. |  |  |
 | 12 | <a href="images/C101/C101GPOR2.webp"><img src="images/C101/C101GPOR2.webp" width="160"></a> | C101GPOR2 | late 2010 | CPM-S30V | Orange G-10 | 🟦 Cutlery Shoppe excl. | 600 | C101GP2OR (wiki) |
 | 13 | <a href="images/C101/C101GTNP2.webp"><img src="images/C101/C101GTNP2.webp" width="160"></a> <a href="images/C101/C101GTNP2_2.webp"><img src="images/C101/C101GTNP2_2.webp" width="160"></a> | C101GTNP2 | early 2011 | CPM-M4 | Tan G-10 | 🟦 Bento Box Shop excl. | 600 |  |
 | 14 | <a href="images/C101/C101GBD30P2.jpg"><img src="images/C101/C101GBD30P2.jpg" width="160"></a> | C101GBD30P2 | mid 2011 | CTS-BD30P | Coarse Black G-10 | 🟥 Sprint Run | 1000 |  |
