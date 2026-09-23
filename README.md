@@ -29,4 +29,6 @@ Type column: 🟥 Sprint Run · 🟦 dealer/distributor exclusive · 🟪 other 
 
 Model numbers follow spyderco.com or retailer spelling where the wiki differs; the wiki spelling is kept in the Alt SKU column.
 
+Review checklist for new and existing lists: [REVIEW.md](REVIEW.md).
+
 The annual Spyderco Product Guides (2010–2026) were collected in `Catalogs/` but are not tracked in git because of their size.
