@@ -12,7 +12,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 2 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 3 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 4 | <a href="images/C101/C101GS2.jpg"><img src="images/C101/C101GS2.jpg" width="160"></a> | C101GS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
-| 5 |  | C101CF90VP2 | 2009 | CPM-S90V | Black CF | 🟥 Sprint Run | 400 |  |
+| 5 | <a href="images/C101/C101CF90VP2.webp"><img src="images/C101/C101CF90VP2.webp" width="160"></a> | C101CF90VP2 | 2009 | CPM-S90V | Black CF | 🟥 Sprint Run | 400 |  |
 | 6 | <a href="images/C101/C101GPBL2.jpg"><img src="images/C101/C101GPBL2.jpg" width="160"></a> | C101GPBL2 | early 2010 | CPM-S30V | Blue G-10 | 🟥 Sprint Run | 500 |  |
 | 7 | <a href="images/C101/C101GFGXHPP2.jpg"><img src="images/C101/C101GFGXHPP2.jpg" width="160"></a> | C101GFGXHPP2 | 2010 | CTS-XHP | Foliage Green G-10 | 🟥 Sprint Run | 1000 |  |
 | 8 | <a href="images/C101/C101GPPN2.png"><img src="images/C101/C101GPPN2.png" width="160"></a> | C101GPPN2 | mid 2010 | 154CM | Pink G-10 | 🟪 Exclusive | 500 |  |
@@ -50,7 +50,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 40 | <a href="images/C101/C101GPRDBK2.png"><img src="images/C101/C101GPRDBK2.png" width="160"></a> | C101GPRDBK2 | Apr 10. 2020 @ 12PM CST | Black DLC CPM-4V | Red G-10 | 🟦 St. Nick's Knives excl. | 500-550 |  |
 | 41 | <a href="images/C101/C101GPPRBK2.jpg"><img src="images/C101/C101GPPRBK2.jpg" width="160"></a> | C101GPPRBK2 | Jan. 2021 | Cru-Wear | Purple G-10 | 🟦 DLT Trading excl. |  | C101GPRBK2 (wiki) |
 | 42 | <a href="images/C101/C101GPCWBK2.jpg"><img src="images/C101/C101GPCWBK2.jpg" width="160"></a> | C101GPCWBK2 | March 2022 | Cru-Wear | Black G-10 | 🟦 KnifeCenter excl. |  |  |
-| 43 |  | C101GPODFDE2 | Aug. 2022 | Flat dark earth PVD (physical vapor deposition) coated CTS-204P | Olive drab green G-10 | 🟦 River's Edge Cutlery excl. | ~800 | C101GODFDE2 (wiki) |
+| 43 | <a href="images/C101/C101GPODFDE2.jpg"><img src="images/C101/C101GPODFDE2.jpg" width="160"></a> | C101GPODFDE2 | Aug. 2022 | Flat dark earth PVD (physical vapor deposition) coated CTS-204P | Olive drab green G-10 | 🟦 River's Edge Cutlery excl. | ~800 | C101GODFDE2 (wiki) |
 | 44 | <a href="images/C101/C101GPBN15V2.jpg"><img src="images/C101/C101GPBN15V2.jpg" width="160"></a> | C101GPBN15V2 | Dec. 2022 | CPM 15V | Brown G-10 | 🟥 Sprint Run |  | C101GBN15V2 (wiki) |
 | 45 | <a href="images/C101/C101MPCW2.jpg"><img src="images/C101/C101MPCW2.jpg" width="160"></a> | C101MPCW2 | 2023- | Cru-Wear | Brown canvas Micarta | Regular production |  | C101MCW2 (wiki) |
 | 46 | <a href="images/C101/C101GPNGR2.jpg"><img src="images/C101/C101GPNGR2.jpg" width="160"></a> | C101GPNGR2 | July 2023 | CPM-20CV | Neon green G-10 | 🟦 KnifeJoy excl. |  |  |
@@ -72,7 +72,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 4 | <a href="images/C101/C101PBK2.jpg"><img src="images/C101/C101PBK2.jpg" width="160"></a> | C101PBK2 | 2013- | CTS-BD1 | Black FRCP | Regular production |  |  |
 | 5 | <a href="images/C101/C101PDBL2.jpg"><img src="images/C101/C101PDBL2.jpg" width="160"></a> | C101PDBL2 | April 2014- | CPM-S110V | Dark Blue FRCP | Regular production |  |  |
 | 6 | <a href="images/C101/C101PBBK2.jpg"><img src="images/C101/C101PBBK2.jpg" width="160"></a> | C101PBBK2 | July 2015- | Black DLC coated CTS-BD1 | Black FRCP | Regular production |  |  |
-| 7 |  | C101PBN2 | Oct. 2016 | Satin CTS-XHP | Brown FRCP | 🟦 KnifeCenter excl. |  |  |
+| 7 | <a href="images/C101/C101PBN2.webp"><img src="images/C101/C101PBN2.webp" width="160"></a> | C101PBN2 | Oct. 2016 | Satin CTS-XHP | Brown FRCP | 🟦 KnifeCenter excl. |  |  |
 | 8 | <a href="images/C101/C101PGY2.jpg"><img src="images/C101/C101PGY2.jpg" width="160"></a> | C101PGY2 | Nov. 2016 | Maxamet | Stone gray FRCP | Regular production |  |  |
 | 9 | <a href="images/C101/C101POR2.jpg"><img src="images/C101/C101POR2.jpg" width="160"></a> | C101POR2 | May 2017-Feb. 2019 | Satin CPM-S90V | Orange FRCP | 🟦 Cutlery Shoppe excl. |  |  |
 | 10 | <a href="images/C101/C101PCBL2.jpg"><img src="images/C101/C101PCBL2.jpg" width="160"></a> | C101PCBL2 | 2020 | CPM SPY27 | Cobalt blue FRCP | Regular production |  |  |

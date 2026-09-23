@@ -78,7 +78,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 16 | <a href="images/C223/C223PPN.jpg"><img src="images/C223/C223PPN.jpg" width="160"></a> | C223PPN | 2023 - | CTS-BD1N | Pink FRN | Regular production |  | C223PN (wiki) |
 | 17 | <a href="images/C223/C223PPNBK.jpg"><img src="images/C223/C223PPNBK.jpg" width="160"></a> | C223PPNBK | 2023 - | Black DLC-coated CTS-BD1N | Pink FRN | Regular production |  | C223PN (wiki) |
 | 18 | <a href="images/C223/C223PYL.jpg"><img src="images/C223/C223PYL.jpg" width="160"></a> | C223PYL | 2023 - | CPM MagnaCut | Yellow FRN | Regular production |  | C223YL (wiki) |
-| 19 |  | C223KBPI | Sep. 2023 | CTS-BD1N | Black FRN | 🟪 Limited |  |  |
+| 19 | <a href="images/C223/C223KBPI.png"><img src="images/C223/C223KBPI.png" width="160"></a> | C223KBPI | Sep. 2023 | CTS-BD1N | Black FRN | 🟪 Limited |  |  |
 | 20 | <a href="images/C223/C223PFGRCWBK.jpg"><img src="images/C223/C223PFGRCWBK.jpg" width="160"></a> | C223PFGRCWBK | Dec. 2023 | Black DLC coated Cru-Wear | Deep Forest Green FRN | 🟦 The Knife Joker excl. |  | C223PFGRCWBKCRF (spyderco.com, 2026 listing) |
 | 21 | <a href="images/C223/C223PODFDE.jpg"><img src="images/C223/C223PODFDE.jpg" width="160"></a> | C223PODFDE | July 2024 | Flat dark earth PVD-coated CTS-204P | Olive Drab FRN | 🟦 River's Edge Cutlery excl. |  |  |
 | 22 | <a href="images/C223/C223SYL.jpg"><img src="images/C223/C223SYL.jpg" width="160"></a> | C223SYL | 2025 - | CPM MagnaCut | Yellow FRN | Regular production |  |  |
