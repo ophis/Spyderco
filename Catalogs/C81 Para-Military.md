@@ -63,7 +63,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 41 | <a href="images/C81/C81GPW2.webp"><img src="images/C81/C81GPW2.webp" width="160"></a> | C81GPW2 | May 2020 | Satin CPM-S30V | Black G-10 | 🟦 BladeOps excl. |  |  |
 | 42 | <a href="images/C81/C81GPWBK2.webp"><img src="images/C81/C81GPWBK2.webp" width="160"></a> | C81GPWBK2 | June 2020 | Black DLC coated CPM-S30V | Black G-10 | 🟦 BladeOps excl. |  |  |
 | 43 | <a href="images/C81/C81CUP2.jpg"><img src="images/C81/C81CUP2.jpg" width="160"></a> | C81CUP2 | June 2020 | Satin CPM REX 45 | Natural Copper | 🟦 Blade HQ excl. |  |  |
-| 44 |  | C81GPTBK2 | July 2020 | Black DLC coated CPM-S30V, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
+| 44 | <a href="images/C81/C81GPTBK2.jpg"><img src="images/C81/C81GPTBK2.jpg" width="160"></a> | C81GPTBK2 | July 2020 | Black DLC coated CPM-S30V, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
 | 45 | <a href="images/C81/C81GPPRBK2.webp"><img src="images/C81/C81GPPRBK2.webp" width="160"></a> | C81GPPRBK2 | Aug. 2020 | Black DLC Cru-Wear | Purple G-10 | 🟦 DLT Trading excl. |  |  |
 | 46 | <a href="images/C81/C81GPODFDE2.jpg"><img src="images/C81/C81GPODFDE2.jpg" width="160"></a> | C81GPODFDE2 | Aug. 2020 | Flat dark earth PVD coated CTS-204P | Olive drab G-10 | 🟦 River's Edge Cutlery excl. |  |  |
 | 47 | <a href="images/C81/C81GPT2.jpg"><img src="images/C81/C81GPT2.jpg" width="160"></a> | C81GPT2 | Dec. 2020 | Satin CPM-S30V | Black G-10 | 🟦 Blade HQ excl. |  |  |
@@ -81,7 +81,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 59 | <a href="images/C81/C81CFPGRBK2.jpg"><img src="images/C81/C81CFPGRBK2.jpg" width="160"></a> | C81CFPGRBK2 | November 2021 | Black DLC coated CPM-M4 | Green Carbon Fiber | 🟦 Smoky Mountain Knife Works excl. |  | C81CFPGR2 |
 | 60 | <a href="images/C81/C81CFPRDORBK2.jpg"><img src="images/C81/C81CFPRDORBK2.jpg" width="160"></a> | C81CFPRDORBK2 | December 2021 | Black DLC coated CPM-M4 | Red Carbon Fiber | 🟦 Smoky Mountain Knife Works excl. |  | C81CFPRDOR |
 | 61 | <a href="images/C81/C81ALPPR2.jpg"><img src="images/C81/C81ALPPR2.jpg" width="160"></a> | C81ALPPR2 | 21 December 2021 | CTS-BD1N | Purple anodized Aluminum | 🟦 Blade HQ excl. |  |  |
-| 62 |  | C81ALPBL2 | 21 December 2021 | CTS-BD1N | Blue anodized Aluminum | 🟦 Blade HQ excl. |  |  |
+| 62 | <a href="images/C81/C81ALPBL2.jpg"><img src="images/C81/C81ALPBL2.jpg" width="160"></a> | C81ALPBL2 | 21 December 2021 | CTS-BD1N | Blue anodized Aluminum | 🟦 Blade HQ excl. |  |  |
 | 63 |  | C81ALPGR2 | 21 December 2021 | CTS-BD1N | Green anodized Aluminum | 🟦 Blade HQ excl. |  |  |
 | 64 | <a href="images/C81/C81GPORBL2.jpg"><img src="images/C81/C81GPORBL2.jpg" width="160"></a> | C81GPORBL2 | January 2022 | CPM REX 45 | Orange & Blue G-10 | 🟦 Cutlery Shoppe excl. | ~700 |  |
 | 65 | <a href="images/C81/C81MCFLMXP2.jpg"><img src="images/C81/C81MCFLMXP2.jpg" width="160"></a> | C81MCFLMXP2 | January 2022 | Elmax | Marbled Carbon fiber | 🟦 Fradon Lock excl. | ~800 |  |
@@ -113,8 +113,8 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 91 | <a href="images/C81/C81GNDMCPBK2.jpg"><img src="images/C81/C81GNDMCPBK2.jpg" width="160"></a> | C81GNDMCPBK2 | March 2026 | Black DLC-coated CPM MagnaCut | Natural diamond mesh G-10 | 🟦 Blade HQ excl. |  |  |
 | 92 | <a href="images/C81/C81GPWCORRX121BK2.jpg"><img src="images/C81/C81GPWCORRX121BK2.jpg" width="160"></a> | C81GPWCORRX121BK2 | April 2026 | Black VaporTech ZrOC-coated CPM REX 121 | HEX Pattern Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
 | 93 | <a href="images/C81/C81GPORRX121BK2.jpg"><img src="images/C81/C81GPORRX121BK2.jpg" width="160"></a> | C81GPORRX121BK2 | May 2026 | Black VaporTech ZrOC-coated CPM REX 121 | HEX Pattern Orange G-10 | 🟪 Exclusive |  |  |
-| 94 |  | C81GBKM4TP2 | July 2026 | CPM-M4, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
-| 95 |  | C81GBKBKM4TP2 | July 2026 | Black DLC coated CPM-M4, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
+| 94 | <a href="images/C81/C81GBKM4TP2.jpg"><img src="images/C81/C81GBKM4TP2.jpg" width="160"></a> | C81GBKM4TP2 | July 2026 | CPM-M4, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
+| 95 | <a href="images/C81/C81GBKBKM4TP2.jpg"><img src="images/C81/C81GBKBKM4TP2.jpg" width="160"></a> | C81GBKBKM4TP2 | July 2026 | Black DLC coated CPM-M4, Tanto | Black G-10 | 🟦 Blade HQ excl. |  |  |
 
 ## ParaMilitary 2 Lightweight (4)
 
