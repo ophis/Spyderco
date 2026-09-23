@@ -10,7 +10,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 |---|---|---|---|---|---|---|---|---|
 | 1 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2009 | 154CM | Black G-10 | 🟪 Limited | 50 |  |
 | 2 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
-| 3 |  | C101GPS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
+| 3 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 4 | <a href="images/C101/C101GS2.jpg"><img src="images/C101/C101GS2.jpg" width="160"></a> | C101GS2 | 2009-2012 | 154CM | Black G-10 | Regular production |  |  |
 | 5 |  | C101CF90VP2 | 2009 | CPM-S90V | Black CF | 🟥 Sprint Run | 400 |  |
 | 6 | <a href="images/C101/C101GPBL2.jpg"><img src="images/C101/C101GPBL2.jpg" width="160"></a> | C101GPBL2 | early 2010 | CPM-S30V | Blue G-10 | 🟥 Sprint Run | 500 |  |
@@ -23,13 +23,13 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 13 | <a href="images/C101/C101GTNP2.webp"><img src="images/C101/C101GTNP2.webp" width="160"></a> | C101GTNP2 | early 2011 | CPM-M4 | Tan G-10 | 🟦 Bento Box Shop excl. | 600 |  |
 | 14 |  | C101GBD30P2 | mid 2011 | CTS-BD30P | Coarse Black G-10 | 🟥 Sprint Run | 1000 |  |
 | 15 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2012-2026 | CPM-S30V | Black G-10 | Regular production |  |  |
-| 16 |  | C101GPS2 | 2012-2026 | CPM-S30V | Black G-10 | Regular production |  |  |
+| 16 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2012-2026 | CPM-S30V | Black G-10 | Regular production |  |  |
 | 17 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2012-2013 | CPM-S30V | Black G-10 | Regular production |  |  |
-| 18 |  | C101GPS2 | 2012-2013 | CPM-S30V | Black G-10 | Regular production |  |  |
+| 18 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2012-2013 | CPM-S30V | Black G-10 | Regular production |  |  |
 | 19 | <a href="images/C101/C101GPBBK2.jpg"><img src="images/C101/C101GPBBK2.jpg" width="160"></a> | C101GPBBK2 | 2012-2013 | Black DLC coated CPM-S30V | Black G-10 | Regular production |  |  |
 | 20 | <a href="images/C101/C101GPSBBK2.jpg"><img src="images/C101/C101GPSBBK2.jpg" width="160"></a> | C101GPSBBK2 | 2012- | Black DLC coated CPM-S30V | Black G-10 | Regular production |  |  |
 | 21 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | 2014- | CPM-S30V | Black G-10 | Regular production |  |  |
-| 22 |  | C101GPS2 | 2014- | CPM-S30V | Black G-10 | Regular production |  |  |
+| 22 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | 2014- | CPM-S30V | Black G-10 | Regular production |  |  |
 | 23 | <a href="images/C101/C101GPBBK2.jpg"><img src="images/C101/C101GPBBK2.jpg" width="160"></a> | C101GPBBK2 | 2014- | Black DLC coated CPM-S30V | Black G-10 | Regular production |  |  |
 | 24 | <a href="images/C101/C101GPGY2.jpg"><img src="images/C101/C101GPGY2.jpg" width="160"></a> | C101GPGY2 | 2014 | Cru-Wear | Grey Diamond-Cut texture G-10 | 🟥 Sprint Run | 1200 |  |
 | 25 | <a href="images/C101/C101GPDBL2.jpg"><img src="images/C101/C101GPDBL2.jpg" width="160"></a> | C101GPDBL2 | Feb 2016- | CPM-S110V | Dark Blue G-10 | Regular production |  |  |
@@ -59,7 +59,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 49 | <a href="images/C101/C101GMCBKP2.jpg"><img src="images/C101/C101GMCBKP2.jpg" width="160"></a> | C101GMCBKP2 | Dec. 2025 - | Black DLC-coated CPM MagnaCut | Black G-10 | Regular production |  | C101GMCBK2 (wiki) |
 | 50 | <a href="images/C101/C101GPFGBK2.png"><img src="images/C101/C101GPFGBK2.png" width="160"></a> | C101GPFGBK2 | Apr 2026 | Black DLC-coated Cru-Wear | Forest green G-10 | 🟦 Onkate excl. |  |  |
 | 51 | <a href="images/C101/C101GP2.jpg"><img src="images/C101/C101GP2.jpg" width="160"></a> | C101GP2 | Jun. 2026- | MagnaMax | Black G-10 | Regular production |  |  |
-| 52 |  | C101GPS2 | Jun. 2026 | MagnaMax | Black G-10 | Regular production |  |  |
+| 52 | <a href="images/C101/C101GPS2.jpg"><img src="images/C101/C101GPS2.jpg" width="160"></a> | C101GPS2 | Jun. 2026 | MagnaMax | Black G-10 | Regular production |  |  |
 | 53 | <a href="images/C101/C101GBKYLMCP2.jpg"><img src="images/C101/C101GBKYLMCP2.jpg" width="160"></a> | C101GBKYLMCP2 | Jun. 2026 - | CPM MagnaCut | Yellow & black G-10 | Regular production |  |  |
 
 ## Manix 2 Lightweight (20)
