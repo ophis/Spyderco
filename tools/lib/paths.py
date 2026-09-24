@@ -7,7 +7,6 @@ ROOT = TOOLS.parent
 
 CATALOGS = ROOT / "Catalogs"
 IMAGES = CATALOGS / "images"
-FAMILIES = TOOLS / "families"
 DATA = TOOLS / "data"
 CACHE = TOOLS / "cache"
 PROFILES = TOOLS / ".profiles"

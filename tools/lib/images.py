@@ -1,4 +1,4 @@
-"""Photo mechanics: candidate lists, browser fetch, gallery, contact sheets, accept/reject into data/images.json."""
+"""Photo mechanics: candidate lists, browser fetch, gallery, contact sheets, accept/reject into the catalog."""
 
 import hashlib
 import json
@@ -8,7 +8,7 @@ import uuid
 from pathlib import Path
 from urllib.parse import urlparse
 
-from lib import data, paths, sources
+from lib import catalog, paths, sources
 from lib.fsio import atomic_write, dump_json
 
 JUNK_RE = (r"logo|icon|badge|sprite|payment|flag|attributes|placeholder|maintenance|seedprod|sorry|not-?found|404"
@@ -83,12 +83,24 @@ def target_name(id_, sku, ext, extra, content):
     return rel
 
 
-def _family_skus(fam):
-    return list(dict.fromkeys(row["sku"] for row in fam["rows"]))
+def _family_skus(cat):
+    return list(dict.fromkeys(r.sku for r in cat.rows))
 
 
-def _aliases(fam, sku):
-    return [a for a, s in fam.get("aliases", {}).items() if s == sku]
+def _images_of(cat, sku):
+    return next((list(r.images) for r in cat.rows if r.sku == sku), [])
+
+
+def _aliases(cat, sku):
+    # record-key aliases ("SKU|year") are not spellings; they would corrupt key_pattern
+    return [a for a, s in cat.config.get("aliases", {}).items() if s == sku and "|" not in a]
+
+
+def _record_page(id_, sku, page):
+    path = _candidates_path(id_)
+    cands = _load_json(path, {})
+    cands.setdefault(sku, {"candidates": []})["page"] = page
+    atomic_write(path, dump_json(cands))
 
 
 def _image_ext(path):
@@ -105,18 +117,18 @@ def _image_ext(path):
 
 
 def _cached_meta(file):
-    """page/url recorded for a file saved by `photos fetch` (review) or `photos gallery`."""
+    """page recorded for a file saved by `photos fetch` (review) or `photos gallery`."""
     file = Path(file).resolve()
     for index in (paths.CACHE / "review" / "review.json", paths.CACHE / "gallery" / "gallery.json"):
         entry = _load_json(index, {}).get(file.name)
-        if entry and file.parent == index.parent.resolve():
-            return {k: entry[k] for k in ("url", "page") if entry.get(k)}
+        if entry and file.parent == index.parent.resolve() and entry.get("page"):
+            return {"page": entry["page"]}
     return {}
 
 
-def accept(id_, sku, file, extra=False, replace=False, meta=None):
-    fam = data.load_family(id_)
-    if sku not in _family_skus(fam):
+def accept(id_, sku, file, extra=False, replace=False, page=None):
+    cat = catalog.load(id_)
+    if sku not in _family_skus(cat):
         raise ValueError(f"{sku} is not a SKU of family {id_}")
     file = Path(file)
     content = file.read_bytes()
@@ -124,33 +136,25 @@ def accept(id_, sku, file, extra=False, replace=False, meta=None):
     if digest in bad_md5s():
         raise ValueError(f"{file}: md5 {digest} is blacklisted")
     ext = _image_ext(file)
-    recs = data.load_images()
-    rec = recs.get(sku)
-    if extra and not (rec and rec.get("file")):
+    current = _images_of(cat, sku)
+    if extra and not current:
         raise ValueError(f"{sku} has no main photo; accept one before an extra")
-    if not extra and rec and rec.get("file") and not replace:
-        raise ValueError(f"{sku} already has a main photo ({rec['file']}); pass --replace")
-    if rec and any(_abs(f).exists() and md5_file(_abs(f)) == digest for f in [rec.get("file"), *rec.get("extra", [])] if f):
+    if not extra and current and not replace:
+        raise ValueError(f"{sku} already has a main photo ({current[0]}); pass --replace")
+    if any(_abs(f).exists() and md5_file(_abs(f)) == digest for f in current):
         raise ValueError(f"{file}: already recorded for {sku}")
-
     rel = target_name(id_, sku, ext, extra, content)
     atomic_write(_abs(rel), content)
-    if extra:
-        rec["extra"] = [*rec.get("extra", []), rel]
-    else:
-        info = {**_cached_meta(file), **{k: v for k, v in (meta or {}).items() if v}}
-        old = rec.get("file") if rec else None
-        new_rec = {"file": rel, "extra": rec.get("extra", []) if rec else []}
-        if info.get("url") or info.get("page"):
-            new_rec["url"] = info.get("url", info.get("page"))
-            new_rec["src"] = urlparse(info.get("page") or info["url"]).hostname or ""
-            new_rec["page"] = info.get("page", info.get("url"))
-        if info.get("verified"):
-            new_rec["verified"] = info["verified"]
-        recs[sku] = new_rec
-    data.save_images(recs)
-    if not extra and old and old != rel and _abs(old).exists():
-        _abs(old).unlink()
+    new = [*current, rel] if extra else [rel, *current[1:]]
+    for r in cat.rows:
+        if r.sku == sku:
+            r.images = list(new)
+    catalog.save(cat)
+    page = page or _cached_meta(file).get("page")
+    if page and not extra:
+        _record_page(id_, sku, page)
+    if not extra and current and current[0] != rel and _abs(current[0]).exists():
+        _abs(current[0]).unlink()
     return rel
 
 
@@ -182,11 +186,11 @@ def _official(sku):
     return out
 
 
-def _dealer_domain(fam, sku):
+def _dealer_domain(cat, sku):
     dealers = _load_json(paths.DATA / "dealers.json", {}).get("domains", {})
-    for row in fam["rows"]:
-        if row["sku"] == sku and row.get("type", "").endswith(" excl."):
-            domain = dealers.get(row["type"][:-6])
+    for row in cat.rows:
+        if row.sku == sku and row.type.endswith(" excl."):
+            domain = dealers.get(row.type[:-6])
             if domain:
                 return domain
     return None
@@ -197,8 +201,8 @@ def _candidates_path(id_):
 
 
 def candidates(id_, skus=None, add=()):
-    fam = data.load_family(id_)
-    family_skus = _family_skus(fam)
+    cat = catalog.load(id_)
+    family_skus = _family_skus(cat)
     extra = []
     for item in add:
         sku, sep, url = item.partition("=")
@@ -207,8 +211,7 @@ def candidates(id_, skus=None, add=()):
         if sku not in family_skus:
             raise ValueError(f"{sku} is not a SKU of family {id_}")
         extra.append((sku, url))
-    recs = data.load_images()
-    targets = list(skus) if skus else [s for s in family_skus if not recs.get(s, {}).get("file")]
+    targets = list(skus) if skus else [s for s in family_skus if not _images_of(cat, s)]
     targets += [s for s, _ in extra if s not in targets]
     unknown = [s for s in targets if s not in family_skus]
     if unknown:
@@ -218,9 +221,9 @@ def candidates(id_, skus=None, add=()):
     path = _candidates_path(id_)
     out = _load_json(path, {})
     for sku in targets:
-        keys = [sku, *_aliases(fam, sku)]
+        keys = [sku, *_aliases(cat, sku)]
         found = [(url, page, "official") for url, page in _official(sku)]
-        dealer = _dealer_domain(fam, sku)
+        dealer = _dealer_domain(cat, sku)
         if dealer:
             found += [(u, u, "dealer") for u in sitemaps.get(dealer, []) if _url_has(u, keys)]
         for domain, urls in sitemaps.items():
@@ -263,11 +266,12 @@ def _take(id_, sku, res, entry, summary):
     best = choose(found)
     if best is None:
         return "none"
-    if data.load_images().get(sku, {}).get("file"):
+    if _images_of(catalog.load(id_), sku):
         return "skipped"
     if res.get("verified"):
-        accept(id_, sku, best["path"], meta={"url": best["url"], "page": res["page"]})
-        entry["done"] = True
+        accept(id_, sku, best["path"])
+        # fetch rewrites the candidates file from its in-memory copy at the end; record the page there
+        entry.update(done=True, page=res["page"])
         summary["accepted"].append(sku)
         return "accepted"
     summary["review"].append(str(_review(sku, best, res)))
@@ -276,16 +280,16 @@ def _take(id_, sku, res, entry, summary):
 
 def fetch(id_, cmd=None):
     """Visit pending candidates; auto-accept only page-verified finds for SKUs still without a photo."""
-    data.load_family(id_)
+    cat = catalog.load(id_)
     path = _candidates_path(id_)
     if not path.exists():
         raise FileNotFoundError(f"{path}: run `spy.py photos candidates {id_}` first")
     cands = _load_json(path, {})
-    recs = data.load_images()
+    has = {r.sku for r in cat.rows if r.images}
 
     items = []
     for sku, entry in cands.items():
-        if entry.get("done") or recs.get(sku, {}).get("file"):
+        if entry.get("done") or sku in has:
             continue
         urls = []
         for c in entry["candidates"]:
@@ -327,21 +331,21 @@ def fetch(id_, cmd=None):
 
 
 def gallery(id_, sku, page=None, cmd=None):
-    fam = data.load_family(id_)
-    if sku not in _family_skus(fam):
+    cat = catalog.load(id_)
+    if sku not in _family_skus(cat):
         raise ValueError(f"{sku} is not a SKU of family {id_}")
-    rec = data.load_images().get(sku, {})
-    page = page or rec.get("page")
+    current = _images_of(cat, sku)
+    page = page or _load_json(_candidates_path(id_), {}).get(sku, {}).get("page")
     if not page or not page.startswith("http"):
-        raise ValueError(f"{sku}: no source page recorded; pass --page URL")
+        raise ValueError(f"{sku}: no source page in cache/candidates/{id_}.json; pass --page URL")
     out_dir = paths.CACHE / "gallery"
     out_dir.mkdir(parents=True, exist_ok=True)
     index_path = out_dir / "gallery.json"
     index = {k: v for k, v in _load_json(index_path, {}).items() if v.get("sku") != sku}
     for old in out_dir.glob(f"{sku}_*"):
         old.unlink()
-    exclude = sorted(bad_md5s() | ({md5_file(_abs(rec["file"]))} if rec.get("file") and _abs(rec["file"]).exists() else set()))
-    keys = [sku, *_aliases(fam, sku)]
+    exclude = sorted(bad_md5s() | ({md5_file(_abs(current[0]))} if current and _abs(current[0]).exists() else set()))
+    keys = [sku, *_aliases(cat, sku)]
     job = {"mode": "gallery", "items": [{"sku": sku, "keys": keys, "urls": [page]}], "out": str(out_dir),
            "junk_re": GALLERY_JUNK_RE, "bad_md5": exclude, "max": 8, "min_bytes": 15000}
     result = sources.run_helper("gallery.mjs", job, cmd=cmd)
@@ -356,12 +360,10 @@ def gallery(id_, sku, page=None, cmd=None):
 
 
 def _sheet_files(id_, mode):
-    fam = data.load_family(id_)
-    skus = set(_family_skus(fam))
+    cat = catalog.load(id_)
+    skus = set(_family_skus(cat))
     if mode == "all":
-        recs = data.load_images()
-        return [_abs(f) for s in _family_skus(fam) for f in [recs.get(s, {}).get("file"), *recs.get(s, {}).get("extra", [])]
-                if f and _abs(f).exists()]
+        return [_abs(f) for s in _family_skus(cat) for f in _images_of(cat, s) if _abs(f).exists()]
     folder = paths.CACHE / mode
     index = _load_json(folder / f"{mode}.json", {})
     return [folder / name for name, e in sorted(index.items()) if e.get("sku") in skus and (folder / name).exists()]
@@ -408,7 +410,7 @@ def _handler(fn):
     def run(args):
         try:
             fn(args)
-        except (sources.FetchError, ValueError, FileNotFoundError, data.FamilyError) as exc:
+        except (sources.FetchError, ValueError, FileNotFoundError, catalog.CatalogError) as exc:
             print(f"error: {exc}")
             return 1
         return 0
@@ -451,17 +453,15 @@ def register(subparsers):
         mode.add_argument(f"--{m}", dest="mode", action="store_const", const=m)
     sp.set_defaults(mode="review", func=_handler(lambda a: [print(f) for f in sheet(a.id, a.mode)]))
 
-    ap = sub.add_parser("accept", help="record a photo into data/images.json and Catalogs/images/<ID>/")
+    ap = sub.add_parser("accept", help="copy a photo into Catalogs/images/<ID>/ and the row's image cell")
     ap.add_argument("id")
     ap.add_argument("sku")
     ap.add_argument("file")
     ap.add_argument("--extra", action="store_true", help="add as an extra photo (<SKU>_2)")
     ap.add_argument("--replace", action="store_true", help="replace the existing main photo")
-    ap.add_argument("--url", help="image URL (defaults to the fetch/gallery record)")
-    ap.add_argument("--page", help="source page URL (defaults to the fetch/gallery record)")
+    ap.add_argument("--page", help="source page, kept in cache/candidates/ for photos gallery")
     ap.set_defaults(func=_handler(lambda a: print(accept(
-        a.id, a.sku, a.file, extra=a.extra, replace=a.replace,
-        meta={"url": a.url, "page": a.page, "verified": "manual"}))))
+        a.id, a.sku, a.file, extra=a.extra, replace=a.replace, page=a.page))))
 
     rp = sub.add_parser("reject", help="add a file's md5 to data/bad_md5.txt")
     rp.add_argument("file")

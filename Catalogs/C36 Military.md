@@ -1,5 +1,47 @@
 # C36 Military — Military & Military 2
 
+<!-- spy
+{
+ "id": "C36",
+ "wiki_page": "C36_Military",
+ "readme_label": "C36 Military / Military 2",
+ "section_rules": [
+  {
+   "section": "Military 2",
+   "field": "wiki_table",
+   "regex": "^Variations of the Military 2$"
+  }
+ ],
+ "aliases": {
+  "C36CF90": "C36CF90VP",
+  "C36GPBNXHP": "C36GBNXHP",
+  "C36GPE": "C36G",
+  "C36GPGR": "C36GGRP",
+  "C36GPSE": "C36GPS",
+  "C36TIF": "C36TIFP"
+ },
+ "skip": [
+  "C36GMCBK2|2025#2"
+ ],
+ "manual": [
+  "C36GPS",
+  "C36GPSBK",
+  "C36GPS2",
+  "C36GPSBK2",
+  "C36GS2",
+  "C36GSBK2"
+ ],
+ "wiki_errors": {
+  "C36G|2000": {
+   "type": "Limited"
+  },
+  "C36GPCMOBK2|Nov. 17, 2023": {
+   "type": "Limited"
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C36 Military](https://www.spydiewiki.com/index.php?title=C36_Military) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

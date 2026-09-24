@@ -7,7 +7,7 @@ import urllib.error
 import urllib.request
 import uuid
 
-from lib import data, paths, wiki
+from lib import catalog, paths, wiki
 from lib.fsio import atomic_write, dump_json
 
 FORUM_URL = "https://forum.spyderco.com/viewtopic.php?f=2&t=90980"
@@ -86,8 +86,7 @@ def parse_forum(text):
 
 
 def fetch_wiki(id_):
-    fam = data.load_family(id_)
-    page = fam["wiki_page"]
+    page = catalog.load(id_).config["wiki_page"]
     text = wiki.fetch(page)
     wiki.parse_tables(text)
     path = paths.CACHE / "wiki" / f"{page}.txt"
@@ -173,7 +172,7 @@ def _cmd_handler(fn):
     def handler(args):
         try:
             fn(args)
-        except (FetchError, ValueError, FileNotFoundError, RuntimeError, data.FamilyError) as exc:
+        except (FetchError, ValueError, FileNotFoundError, RuntimeError, catalog.CatalogError) as exc:
             print(f"error: {exc}")
             return 1
         return 0

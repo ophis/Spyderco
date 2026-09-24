@@ -3,28 +3,15 @@ import re
 import shutil
 import subprocess
 import sys
-import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
 from PIL import Image
 
-from lib import data, images, paths
-
-FAMILY = {
-    "id": "C81",
-    "file": "C81 Para-Military",
-    "title": "C81",
-    "wiki_page": "C81_Para-Military",
-    "sections": ["Para-Military"],
-    "aliases": {"C81GPX": "C81GP"},
-    "rows": [
-        {"sku": "C81GP", "section": "Para-Military", "type": "Regular production", "src": "a"},
-        {"sku": "C81GPBK2", "section": "Para-Military", "type": "Blade HQ excl.", "src": "b"},
-        {"sku": "C81GS", "section": "Para-Military", "type": "Sprint Run", "src": "c"},
-    ],
-}
+from lib import catalog, images, paths
+from lib.catalog import Row
+from tests.helpers import TempRepo, make_catalog
 
 
 def make_image(path, size, color, mode="RGB"):
@@ -33,21 +20,36 @@ def make_image(path, size, color, mode="RGB"):
     return path
 
 
-class TempDirs(unittest.TestCase):
+class TempDirs(TempRepo):
     def setUp(self):
-        tmp = tempfile.TemporaryDirectory()
-        self.addCleanup(tmp.cleanup)
-        self.tmp = Path(tmp.name)
-        for name, sub in (("IMAGES", "Catalogs/images"), ("DATA", "data"), ("CACHE", "cache"), ("FAMILIES", "families")):
-            (self.tmp / sub).mkdir(parents=True)
-            patcher = patch.object(paths, name, self.tmp / sub)
-            patcher.start()
-            self.addCleanup(patcher.stop)
-        (paths.FAMILIES / "C81.json").write_text(json.dumps(FAMILY), encoding="utf-8")
-        (paths.DATA / "dealers.json").write_text(json.dumps({"aliases": {}, "domains": {"Blade HQ": "bladehq.com"}}), encoding="utf-8")
+        super().setUp()
+        make_catalog("C81", "C81 Para-Military", ["Para-Military"], [
+            Row("C81GP", "Para-Military", "2004"),
+            Row("C81GPBK2", "Para-Military", "2019", type="Blade HQ excl."),
+            Row("C81GS", "Para-Military", "2010", type="Sprint Run"),
+        ], aliases={"C81GPX": "C81GP", "C81GPX|2020": "C81GP"})
+        (paths.DATA / "dealers.json").write_text(json.dumps({"aliases": {}, "domains": {"Blade HQ": "bladehq.com"}}),
+                                                 encoding="utf-8")
 
     def img(self, name, size=(800, 600), color="white", mode="RGB"):
         return make_image(self.tmp / "src" / name, size, color, mode)
+
+    @property
+    def tmp(self):
+        return self.root
+
+    def imgs(self, sku):
+        return next(r.images for r in catalog.load("C81").rows if r.sku == sku)
+
+    def set_imgs(self, sku, files):
+        cat = catalog.load("C81")
+        for r in cat.rows:
+            if r.sku == sku:
+                r.images = files
+        catalog.save(cat)
+
+    def cands(self):
+        return json.loads((paths.CACHE / "candidates" / "C81.json").read_text(encoding="utf-8"))
 
 
 class TestAnalyse(TempDirs):
@@ -105,24 +107,53 @@ class TestAccept(TempDirs):
         self.assertNotEqual(old, new)
         self.assertFalse((paths.IMAGES.parent / old).exists())
         self.assertTrue((paths.IMAGES.parent / new).exists())
-        self.assertEqual(data.load_images()["C81GP"]["file"], new)
+        self.assertEqual(self.imgs("C81GP")[0], new)
 
     def test_extra_appends(self):
         images.accept("C81", "C81GP", self.img("a.jpg"))
         extra = images.accept("C81", "C81GP", self.img("b.jpg", color="gray"), extra=True)
         self.assertEqual(extra, "images/C81/C81GP_2.jpg")
-        self.assertEqual(data.load_images()["C81GP"]["extra"], [extra])
+        self.assertEqual(self.imgs("C81GP")[1:], [extra])
 
     def test_blacklisted_rejected(self):
         f = self.img("a.jpg")
         images.reject(f)
         with self.assertRaises(ValueError):
             images.accept("C81", "C81GP", f)
-        self.assertEqual(data.load_images(), {})
+        self.assertEqual(self.imgs("C81GP"), [])
 
     def test_unknown_sku_rejected(self):
         with self.assertRaises(ValueError):
             images.accept("C81", "C999", self.img("a.jpg"))
+
+    def test_duplicate_sku_rows_share_images(self):
+        cat = catalog.load("C81")
+        cat.rows.append(Row("C81GP", "Para-Military", "2011"))
+        catalog.save(cat)
+        rel = images.accept("C81", "C81GP", self.img("a.jpg"))
+        self.assertEqual([r.images for r in catalog.load("C81").rows if r.sku == "C81GP"], [[rel], [rel]])
+
+    def test_replace_keeps_extras_and_never_overwrites(self):
+        existing = make_image(paths.IMAGES / "C81" / "C81GP.jpg", (10, 10), "red")
+        before = existing.read_bytes()
+        main = images.accept("C81", "C81GP", self.img("a.jpg"))
+        self.assertRegex(main, r"^images/C81/C81GP\.[0-9a-f]{6}\.jpg$")
+        self.assertEqual(existing.read_bytes(), before)
+        extra = images.accept("C81", "C81GP", self.img("b.jpg", color="gray"), extra=True)
+        new = images.accept("C81", "C81GP", self.img("c.jpg", color="blue"), replace=True)
+        self.assertEqual(self.imgs("C81GP"), [new, extra])
+        self.assertIn(f'<a href="{new}"><img src="{new}" width="160"></a>',
+                      (paths.CATALOGS / "C81 Para-Military.md").read_text(encoding="utf-8"))
+
+    def test_page_recorded_for_gallery(self):
+        images.accept("C81", "C81GP", self.img("a.jpg"), page="https://p.example/c81gp")
+        self.assertEqual(self.cands()["C81GP"]["page"], "https://p.example/c81gp")
+        captured = {}
+        with patch.object(images.sources, "run_helper", lambda s, job, cmd=None: captured.update(job=job) or {"results": []}):
+            images.gallery("C81", "C81GP")
+        self.assertEqual(captured["job"]["items"][0]["urls"], ["https://p.example/c81gp"])
+        with self.assertRaisesRegex(ValueError, "--page"):
+            images.gallery("C81", "C81GS")
 
 
 class TestPatterns(unittest.TestCase):
@@ -173,11 +204,12 @@ class TestCandidates(TempDirs):
             "knifecenter.com": ["https://knifecenter.com/item/C81GP", "https://knifecenter.com/item/C81GPX-alt", "https://knifecenter.com/item/C81GPBK2"],
         }), encoding="utf-8")
         make_image(paths.IMAGES / "C81" / "C81GS.jpg", (10, 10), "white")
-        data.save_images({"C81GS": {"file": "images/C81/C81GS.jpg", "extra": []}})
+        self.set_imgs("C81GS", ["images/C81/C81GS.jpg"])
 
         out = images.candidates("C81", add=["C81GP=https://example.com/c81gp"])
         saved = json.loads(out.read_text(encoding="utf-8"))
         self.assertNotIn("C81GS", saved)
+        self.assertEqual(saved["C81GP"]["aliases"], ["C81GPX"])
         gp = [c["url"] for c in saved["C81GP"]["candidates"]]
         self.assertEqual(gp, [
             "https://cdn/x/C81GP_Both.jpg?v=1",
@@ -219,7 +251,7 @@ class TestFetch(TempDirs):
 
     def test_verified_accepted_unverified_reviewed_photo_skus_untouched(self):
         make_image(paths.IMAGES / "C81" / "C81GS.jpg", (10, 10), "white")
-        data.save_images({"C81GS": {"file": "images/C81/C81GS.jpg", "extra": []}})
+        self.set_imgs("C81GS", ["images/C81/C81GS.jpg"])
         cand = lambda url: {"url": url, "page": url, "source": "add", "status": "pending"}
         path = self.write_candidates({
             "C81GP": {"aliases": [], "candidates": [cand("https://a.com/c81gp")]},
@@ -247,11 +279,10 @@ class TestFetch(TempDirs):
 
         self.assertEqual({i["sku"] for i in captured["job"]["items"]}, {"C81GP", "C81GPBK2"})
         self.assertEqual(captured["job"]["items"][1]["urls"], ["https://b.com/x"])
-        recs = data.load_images()
-        self.assertEqual(recs["C81GP"]["file"], "images/C81/C81GP.jpg")
-        self.assertEqual(recs["C81GP"]["page"], "https://a.com/c81gp")
-        self.assertNotIn("C81GPBK2", recs)
-        self.assertEqual(recs["C81GS"], {"file": "images/C81/C81GS.jpg", "extra": []})
+        self.assertEqual(self.imgs("C81GP")[0], "images/C81/C81GP.jpg")
+        self.assertEqual(self.cands()["C81GP"]["page"], "https://a.com/c81gp")
+        self.assertEqual(self.imgs("C81GPBK2"), [])
+        self.assertEqual(self.imgs("C81GS"), ["images/C81/C81GS.jpg"])
         review = json.loads((paths.CACHE / "review" / "review.json").read_text(encoding="utf-8"))
         (name, entry), = review.items()
         self.assertEqual(entry["sku"], "C81GPBK2")
@@ -262,7 +293,7 @@ class TestFetch(TempDirs):
 
         # accepting a review file picks up its page/url metadata
         images.accept("C81", "C81GPBK2", paths.CACHE / "review" / name)
-        self.assertEqual(data.load_images()["C81GPBK2"]["page"], "https://b.com/x")
+        self.assertEqual(self.cands()["C81GPBK2"]["page"], "https://b.com/x")
 
     def test_shared_url_per_sku_and_bad_image_recorded_as_error(self):
         url = "https://shared.com/p"
@@ -286,7 +317,18 @@ class TestFetch(TempDirs):
         self.assertEqual(gp["status"], "error")
         self.assertIn("GIF", gp["error"])
         self.assertEqual(saved["C81GPBK2"]["candidates"][0]["status"], "accepted")
-        self.assertNotIn("C81GP", data.load_images())
+        self.assertEqual(self.imgs("C81GP"), [])
+
+    def test_fetch_records_page_for_gallery(self):
+        cand = {"url": "https://a.com/c81gp", "page": "https://a.com/c81gp", "source": "add", "status": "pending"}
+        self.write_candidates({"C81GP": {"aliases": [], "candidates": [cand]}})
+        good = str(self.img("good.jpg"))
+        response = {"results": [{"sku": "C81GP", "url": cand["url"], "page": cand["page"], "status": "ok",
+                                 "verified": True, "images": [{"path": good, "url": "https://a.com/i.jpg"}]}]}
+        real_run = images.sources.run_helper
+        with patch.object(images.sources, "run_helper", lambda s, j, cmd=None: real_run(s, j, cmd=helper_cmd(response))):
+            images.fetch("C81")
+        self.assertEqual(self.cands()["C81GP"]["page"], "https://a.com/c81gp")
 
 
 class TestSheet(TempDirs):

@@ -1,3 +1,5 @@
+import contextlib
+import io
 import unittest
 
 import spy
@@ -17,6 +19,13 @@ class TestSpyCli(unittest.TestCase):
         with self.assertRaises(SystemExit) as cm:
             spy.main(["--help"])
         self.assertEqual(cm.exception.code, 0)
+
+    def test_every_command_has_help(self):
+        for cmd in ("render", "update", "accept", "take", "wiki-error", "alias", "skip", "manual", "add-row", "init",
+                    "fetch", "browser", "photos", "verify"):
+            with self.subTest(cmd=cmd), self.assertRaises(SystemExit) as cm, contextlib.redirect_stdout(io.StringIO()):
+                spy.main([cmd, "--help"])
+            self.assertEqual(cm.exception.code, 0)
 
 
 if __name__ == "__main__":

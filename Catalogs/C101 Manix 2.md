@@ -1,5 +1,41 @@
 # C101 Manix 2 — Manix 2 & Manix 2 Lightweight
 
+<!-- spy
+{
+ "id": "C101",
+ "wiki_page": "C101_Manix",
+ "readme_label": "C101 Manix 2 / Manix 2 Lightweight",
+ "section_rules": [
+  {
+   "section": "Manix 2 Lightweight",
+   "field": "handle",
+   "regex": "FRCP|FRN|Moonglow"
+  }
+ ],
+ "aliases": {
+  "C101BN15V2": "C101PBN15V2",
+  "C101GBN15V2": "C101GPBN15V2",
+  "C101GMCBK2": "C101GMCBKP2",
+  "C101GODFDE2": "C101GPODFDE2",
+  "C101GP2OR": "C101GPOR2",
+  "C101GPBD30P2": "C101GBD30P2",
+  "C101GPGRBK2": "C101GPRBK2",
+  "C101GTNM4P2": "C101GTNP2",
+  "C101JGRBK2": "C101PJGRBK2",
+  "C101MCW2": "C101MPCW2",
+  "C101MGR2": "C101PMGR2",
+  "C101OR2": "C101POR2",
+  "C101YL2": "C101PYL2"
+ },
+ "skip": [
+  "C101GP|2005",
+  "C101GPS|2005"
+ ],
+ "manual": [],
+ "wiki_errors": {}
+}
+-->
+
 Sources: Spydiewiki [C101 Manix](https://www.spydiewiki.com/index.php?title=C101_Manix) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

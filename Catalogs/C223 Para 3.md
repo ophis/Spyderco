@@ -1,5 +1,60 @@
 # C223 Para 3 — Para 3 & Para 3 Lightweight
 
+<!-- spy
+{
+ "id": "C223",
+ "wiki_page": "C223_Para_3",
+ "readme_label": "C223 Para 3 / Para 3 Lightweight",
+ "section_rules": [
+  {
+   "section": "Para 3 Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  }
+ ],
+ "aliases": {
+  "C223BN15V": "C223PBN15V",
+  "C223GBKYLMC": "C223GBKYLMCP",
+  "C223GBN15V": "C223GPBN15V",
+  "C223GCBL": "C223GPCBL",
+  "C223GMCBK": "C223GMCBKP",
+  "C223GNDMCPBK": "C223GNDMCBKP",
+  "C223GNGR": "C223GPNGR",
+  "C223GNGRBK": "C223GPNGRBK",
+  "C223GODFDE": "C223GPODFDE",
+  "C223GOROD": "C223GPOROD",
+  "C223GPGRM4": "C223GRM4",
+  "C223GPRBK": "C223GPPRBK",
+  "C223MCW": "C223MPCW",
+  "C223PFGRCWBKCRF": "C223PFGRCWBK",
+  "C223YL": "C223PYL"
+ },
+ "skip": [],
+ "manual": [
+  "C223PFG"
+ ],
+ "wiki_errors": {
+  "C223GPBL|Feb. 2018": {
+   "qty": ""
+  },
+  "C223GPRD|Aug. 2019": {
+   "type": "DLT Trading excl."
+  },
+  "C223PFGRCWBK|Dec. 2023": {
+   "released": "Dec. 2023 -",
+   "steel": "Black DLC-coated Cru-Wear",
+   "handle": "Deep forest green FRN",
+   "type": "Regular production"
+  },
+  "C223PGRM4BK|Apr. 2025": {
+   "steel": "Black DLC-coated CPM-M4",
+   "handle": "Jade green FRN",
+   "type": "Regular production"
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C223 Para 3](https://www.spydiewiki.com/index.php?title=C223_Para_3) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

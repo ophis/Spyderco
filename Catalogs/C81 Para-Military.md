@@ -1,5 +1,106 @@
 # C81 Para-Military — Para-Military, ParaMilitary 2 & ParaMilitary 2 Lightweight
 
+<!-- spy
+{
+ "id": "C81",
+ "wiki_page": "C81_Para-Military",
+ "readme_label": "C81 Para-Military / ParaMilitary 2 / PM2 Lightweight",
+ "section_rules": [
+  {
+   "section": "ParaMilitary 2 Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  },
+  {
+   "section": "Para-Military",
+   "field": "wiki_table",
+   "regex": "^Variations of the Paramilitary$"
+  },
+  {
+   "section": "ParaMilitary 2",
+   "field": "wiki_table",
+   "regex": "^Variations of the Paramilitary 2$"
+  }
+ ],
+ "aliases": {
+  "C81CFP52100": "C81CF52100P2",
+  "C81CFPRDOR": "C81CFPRDORBK2",
+  "C81CFPRDOR2": "C81CFRDOR2",
+  "C81FCGR2": "C81CFGR2",
+  "C81FGD2P": "C81GPFG",
+  "C81GBK2": "C81GPBK2",
+  "C81GCBL2": "C81GPCBL2",
+  "C81GCMO2": "C81GPCMO2",
+  "C81GCMOBK2": "C81GPCMOBK2",
+  "C81GDGYRX76BKP2|2025": "C81GDGYRX76P2",
+  "C81GDGYS90V2": "C81GPDGYS90V2",
+  "C81GPBL2": "C81GBLM3902",
+  "C81GPBN15V2": "C81GBN15V2",
+  "C81GPCOFL2": "C81GCOFL2",
+  "C81GPR2": "C81GPPR2",
+  "C81GPWC2": "C81GWC2",
+  "C81MCW2": "C81MPCW2"
+ },
+ "skip": [],
+ "manual": [
+  "C81SBK2"
+ ],
+ "wiki_errors": {
+  "C81GP|2004-2010": {
+   "type": "Limited"
+  },
+  "C81GS|2004-2009": {
+   "type": "Limited"
+  },
+  "C81GPBK|2005-2010": {
+   "type": "Limited"
+  },
+  "C81GSBK|2005-2009": {
+   "type": "Limited"
+  },
+  "C81GPFG|2008": {
+   "qty": "?"
+  },
+  "C81GPCMO|2009-2010": {
+   "type": "Limited"
+  },
+  "C81GPCMOBK|2009-2010": {
+   "type": "Limited"
+  },
+  "C81GPOR2|2012 Apr.": {
+   "qty": "800 link to this knife at Cutlery shoppe."
+  },
+  "C81GPGR2|June 2013": {
+   "qty": "1200 link to this knife at knifeworks + 628."
+  },
+  "C81GPORBK2|Oct. 2015-Feb. 2016": {
+   "type": "Cutlery Shoppe excl."
+  },
+  "C81GPNP2|Dec. 2016": {
+   "type": "JP Outman Distributing excl."
+  },
+  "C81GPBKBS2|June. 2017": {
+   "type": "BayouShooter.com excl."
+  },
+  "C81GPNGRBK2|July 2021": {
+   "steel": "Black DLC coated CPM-M4"
+  },
+  "C81GDGYRX76P2|Feb. 2025": {
+   "steel": "CPM REX 76"
+  },
+  "C81GPORRX1212|Jan. 5 2026": {
+   "type": "Cutlery Shoppe excl."
+  },
+  "C81GPWCORRX1212|Jan. 5 2026": {
+   "type": "Cutlery Shoppe excl."
+  },
+  "C81GPORRX121BK2|May 2026": {
+   "type": "Cutlery Shoppe excl."
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C81 Para-Military](https://www.spydiewiki.com/index.php?title=C81_Para-Military) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

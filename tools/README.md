@@ -1,6 +1,6 @@
 # tools/spy.py
 
-Command reference for building and updating the Spyderco model-family catalogs in `Catalogs/`. `families/*.json` is the data of record; `spy.py render` turns it into Markdown.
+`Catalogs/<file>.md` is the whole record of a family: its rows, photos (the Image cells) and a hidden `<!-- spy … -->` config comment under the title. A fresh checkout needs nothing else to update, add or judge a family.
 
 Judgment work — SKU/dealer spelling resolution, candidate photo search, visual review, the REVIEW.md checklist — is an agent skill, not this tool: use `.claude/skills/spyderco-catalog/SKILL.md`.
 
@@ -10,17 +10,32 @@ Judgment work — SKU/dealer spelling resolution, candidate photo search, visual
     python3 -m venv .venv && .venv/bin/pip install pillow
     npm install
 
-Runtime deps: `python3` + Pillow (`.venv`); `node` + `playwright-core` using the installed Google Chrome channel (needed for `fetch official`/`forum`/`sitemaps` and `browser`/`photos fetch`/`photos gallery`). `render`, `verify`, `update --offline` and the test suite (`python3 -m unittest discover -s tools/tests -t tools`) need only Python and work offline.
+Runtime deps: `python3` + Pillow (`.venv`); `node` + `playwright-core` using the installed Google Chrome channel (needed for `fetch official`/`forum`/`sitemaps` and `browser`/`photos fetch`/`photos gallery`). `render`, `verify`, `update --offline` and the test suite (`tools/.venv/bin/python -m unittest discover -s tools/tests -t tools`, from the repo root) need only Python and work offline.
+
+## Catalog config
+
+JSON in the `<!-- spy … -->` comment after the title; edit it through the commands below.
+
+- `id`, `wiki_page`, `readme_label`
+- `section_rules`: `[{section, field: sku|handle|wiki_table, regex}]`; first match wins, default = first section.
+- `aliases`: `{wiki/official/forum spelling or record key: catalog SKU}`. A record key (`<raw SKU>|<start year>[#n]`) aliases one wiki entry only.
+- `skip`: record keys or SKUs never to propose or report.
+- `manual`: SKUs of rows intentionally not on the wiki (not reported as ORPHAN).
+- `wiki_errors`: `{"<SKU>|<released>": {field: wiki value}}`; a DIFF with that wiki value is hidden and returns when the wiki value changes.
 
 ## Commands
 
-- `render [ID ...|--all]` — render family JSON into `Catalogs/<file>.md`; also regenerates the README model table.
-- `update <ID> [--offline]` — fetch (or read `cache/wiki/` with `--offline`) and write a NEW/CHANGED/GONE/RELINK/UNMATCHED proposal to `cache/proposals/<ID>.json`.
-- `accept <ID> <src ...|--all-new> [--changed] [--relink OLD NEW]` — apply proposed rows; a CHANGED src needs `--changed`, a RELINK src needs `--relink OLD NEW` (a wiki record matching a `manual|`/`forum|`/`official|` row's SKU is a RELINK of that row, whose fields are kept).
-- `alias <ID> <from> <to>` — map a non-wiki SKU spelling to the canonical SKU; never changes rows.
-- `ignore <ID> <src>` — exclude a src key from future `update` proposals.
-- `add-row <ID> --sku … --section … [--released --steel --handle --type --qty --alt]` — add a manual row (`src=manual|SKU`).
-- `init <ID> --file "<name>" --title … --wiki-page … --sections … [--rule section:field:regex ...]` — create a new family file with no rows.
+- `init <ID> --file "<name>" --title … --wiki-page … --sections … [--rule section:field:regex …] [--readme-label …]` — write `Catalogs/<name>.md` with config, standard preamble and empty sections; refuses if the file exists.
+- `update <ID> [--offline]` — fetch the wiki (or read `cache/wiki/`) and write `cache/proposals/<ID>.json`; prints `NEW <key>`, `DIFF <SKU> <field>: md=… wiki=…`, `ORPHAN <SKU>` (row with no wiki entry), `UNMATCHED official|forum <SKU>`. Never edits the catalog.
+- `accept <ID> <key …>|--all-new` — insert proposed NEW rows into their section by release date. A NEW row whose SKU and Released already exist is refused (`--all-new` skips it and prints `DUPLICATE`).
+- `take <ID> <SKU> <field …> [--released R]` — copy the proposed wiki value(s) of a DIFF into the row.
+- `wiki-error <ID> <SKU> <field …> [--released R]` — record the proposed wiki value(s) in `wiki_errors`.
+  `accept`/`take`/`wiki-error` refuse if the catalog changed since `update`; `--released` picks the row when the SKU has several.
+- `alias <ID> <from> <to>` — map a spelling or one record key to a catalog SKU.
+- `skip <ID> <key|SKU>` — never propose that wiki entry / report that SKU.
+- `manual <ID> <SKU>` — mark an existing row as intentionally not on the wiki.
+- `add-row <ID> --sku … --section … [--released --steel --handle --type --qty --alt]` — add a row by hand (also marks it `manual`).
+- `render [ID …|--all]` — rewrite catalogs in normal form (numbering, counts) and the README model table.
 - `fetch wiki <ID>` — fetch the family's Spydiewiki page → `cache/wiki/<page>.txt`.
 - `fetch official` — fetch spyderco.com `products.json` → `cache/official.json`.
 - `fetch forum` — fetch forum post 1 (Sprints/Exclusives thread) → `cache/forum.txt`.
@@ -28,12 +43,13 @@ Runtime deps: `python3` + Pillow (`.venv`); `node` + `playwright-core` using the
 - `browser open <url>` — open a URL in the tool's Chrome profile to clear a verification check by hand.
 - `photos candidates <ID> [--sku SKU ...] [--add SKU=URL ...]` — build `cache/candidates/<ID>.json` for rows without a photo.
 - `photos fetch <ID>` — visit pending candidates in the browser; auto-accepts only page-verified finds, else saves to `cache/review/`.
-- `photos gallery <ID> --sku SKU [--page URL]` — download every gallery image of the SKU's source page to `cache/gallery/`.
+- `photos gallery <ID> --sku SKU [--page URL]` — download every gallery image of the SKU's source page (default: the page recorded in `cache/candidates/` when its main photo was accepted) to `cache/gallery/`.
 - `photos sheet <ID> [--review|--gallery|--all]` — numbered contact sheets in `cache/sheets/` for visual review.
-- `photos accept <ID> <SKU> <file> [--extra] [--replace] [--url] [--page]` — record a photo into `data/images.json` and copy it into `Catalogs/images/<ID>/`.
+- `photos accept <ID> <SKU> <file> [--extra] [--replace] [--page URL]` — copy a photo into `Catalogs/images/<ID>/` and add it to the Image cell of every row with that SKU; existing files are never overwritten.
 - `photos reject <file>` — blacklist a file's md5 in `data/bad_md5.txt`.
-- `verify` — offline checks: render vs `Catalogs/*.md`, README table, broken/missing image links, image records for unknown SKUs, rows missing `src`, duplicate `src`, duplicate SKU with the same `released`, unknown `section`; exits 1 if any problem is found.
-- `seed-from-md --ref DIR [--force]` — one-time migration: build `families/*.json` and `data/images.json` from the current catalogs (see Migration note).
+- `verify` — offline; exits 1 on: a catalog not in rendered form, README table out of date, image link to a missing file, invalid config (missing key, unknown rule section/field, bad regex, `wiki_errors`/`manual` entries matching no row), duplicate SKU with the same Released.
+
+Photo provenance (source page) lives only in the gitignored `cache/candidates/`; on a fresh checkout `photos gallery` needs `--page`.
 
 `photos accept --extra --replace` appends a new extra photo; it does not replace an existing extra (only a main photo is ever overwritten, and under a new hashed filename so viewers don't show a stale cached copy).
 
@@ -41,21 +57,17 @@ Runtime deps: `python3` + Pillow (`.venv`); `node` + `playwright-core` using the
 
 ## New family workflow
 
-1. `init <ID> --file "<file>" --title "<title>" --wiki-page <page> --sections "<S1>" "<S2>" ...`
-2. `fetch wiki <ID>`
-3. `update <ID> --offline`
-4. review the proposal in `cache/proposals/<ID>.json`
-5. `accept <ID> --all-new`
-6. `render <ID>`
-7. photos — see Photo workflow below
+1. `init <ID> --file "<file>" --title "<title>" --wiki-page <page> --sections "<S1>" "<S2>" …`
+2. `fetch wiki <ID>`, then `update <ID> --offline`
+3. review NEW, then `accept <ID> <key …>|--all-new`
+4. photos — see Photo workflow
 
 ## Update workflow
 
-1. `fetch wiki <ID>`; optionally `fetch official` and `fetch forum` for cross-checks
+1. `fetch wiki <ID>`; optionally `fetch official` and `fetch forum`
 2. `update <ID> --offline`
-3. review NEW/CHANGED/GONE/RELINK/UNMATCHED in the proposal
-4. `accept <ID> <src ...|--all-new> [--changed] [--relink OLD NEW]`; resolve UNMATCHED entries with `alias`/`ignore`/`add-row`
-5. `render <ID>`
+3. NEW → `accept`; DIFF → `take` (real wiki update) or `wiki-error` (wiki wrong); ORPHAN → `alias` or `manual`; UNMATCHED → `alias`/`skip`/`add-row`
+4. `render --all`, `verify`
 
 ## Photo workflow
 
@@ -76,12 +88,8 @@ The user's local, untracked `tools/` on `main` (old scripts, caches, Chrome prof
 1. Before merging: rename the old `tools/` to `tools.old/`.
 2. After merging: move its Chrome profiles (`prof`, `prof2`) into `tools/.profiles/`, and its sitemap caches into `tools/cache/`.
 
-Only the transforms moved into `migrate/seed.py` (used by `seed-from-md`) carry over; the rest of the old scripts are superseded.
-
 ## Data files
 
-- `families/<ID>.json` — one family: config (`id`, `file`, `title`, `wiki_page`, `readme_label`, `trailing_newline`, `sections`, `section_rules`, `aliases`, `ignore`) and `rows` (data of record — each row has `src`, and wiki-sourced rows also have `src_raw`/`auto`).
-- `families/_order.json` — family id render/README order (optional; missing falls back to sorted ids).
-- `data/images.json` — SKU → photo record (`file`, `extra`, `url`, `src`, `page`, `verified`).
 - `data/bad_md5.txt` — rejected-image md5 blacklist, one per line.
 - `data/dealers.json` — dealer-name normalization (`aliases`) and dealer name → sitemap domain (`domains`).
+- `cache/` (gitignored, ephemeral): source snapshots, proposals, photo candidates and provenance.

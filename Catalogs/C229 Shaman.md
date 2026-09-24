@@ -1,5 +1,44 @@
 # C229 Shaman — Shaman & Shaman Lightweight
 
+<!-- spy
+{
+ "id": "C229",
+ "wiki_page": "C229_Shaman",
+ "readme_label": "C229 Shaman / Shaman Lightweight",
+ "section_rules": [
+  {
+   "section": "Shaman Lightweight",
+   "field": "handle",
+   "regex": "FRN|FRCP"
+  }
+ ],
+ "aliases": {
+  "C229BBK": "C229PBBK",
+  "C229BK": "C229PBK",
+  "C229BMBN": "C229BMBNP",
+  "C229GBN15V": "C229GPBN15V",
+  "C229GCBL": "C229GPCBL",
+  "C229GFGBK": "C229GPFGBK",
+  "C229GGY": "C229GPGY",
+  "C229GODFDE": "C229GPODFDE",
+  "C229GOR": "C229GPOR",
+  "C229GORBK": "C229GPORBK",
+  "C229GRDBK": "C229GPRDBK",
+  "C229MM4": "C229MPM4"
+ },
+ "skip": [],
+ "manual": [
+  "C229SBK",
+  "C229SBBK"
+ ],
+ "wiki_errors": {
+  "C229BMBNP|Nov. 2024": {
+   "type": "Regular production"
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C229 Shaman](https://www.spydiewiki.com/index.php?title=C229_Shaman) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

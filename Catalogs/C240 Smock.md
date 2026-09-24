@@ -1,5 +1,28 @@
 # C240 Smock
 
+<!-- spy
+{
+ "id": "C240",
+ "wiki_page": "C240_Smock",
+ "readme_label": "C240 Smock",
+ "section_rules": [],
+ "aliases": {},
+ "skip": [],
+ "manual": [],
+ "wiki_errors": {
+  "C240BKALBKCWP|March 2025": {
+   "type": "The Knife Distribor excl."
+  },
+  "C240ALCWP|May 2025": {
+   "type": "The Knife excl."
+  },
+  "C240GPRDBK|May 2026": {
+   "qty": "Limited, ~850[https://www.stnicksknives.com/products/snk-exclusive-black-ticn-4v-blade-red-g10-scales?srsltid=AfmBOoqE36Z3P0z6Nusu5RdGyGFf8Os9p81j9f9dCdeJOCgRMT53jf2v]Number of knives available according to St Nick's Knives"
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C240 Smock](https://www.spydiewiki.com/index.php?title=C240_Smock) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production

@@ -1,5 +1,32 @@
 # C85 Yojimbo — Yojimbo & Yojimbo 2
 
+<!-- spy
+{
+ "id": "C85",
+ "wiki_page": "C85_Yojimbo",
+ "readme_label": "C85 Yojimbo / Yojimbo 2",
+ "section_rules": [
+  {
+   "section": "Yojimbo 2",
+   "field": "sku",
+   "regex": "2$"
+  }
+ ],
+ "aliases": {
+  "C85GPBK": "C85GBK",
+  "C85GPBL": "C85GBL"
+ },
+ "skip": [],
+ "manual": [],
+ "wiki_errors": {
+  "C85TR2|Sept. 2017-": {
+   "handle": "Red G-10",
+   "type": "Limited"
+  }
+ }
+}
+-->
+
 Sources: Spydiewiki [C85 Yojimbo](https://www.spydiewiki.com/index.php?title=C85_Yojimbo) variation table; Spyderco forum thread [Sprints/Exclusives since Jan 2019](https://forum.spyderco.com/viewtopic.php?f=2&t=90980); spyderco.com product listings (model numbers checked where still listed). "Alt SKU" = other spelling used by the wiki or retailers. Rows sharing a model number are the same model in different steel generations.
 
 Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited/exclusive · (no mark) Regular production
