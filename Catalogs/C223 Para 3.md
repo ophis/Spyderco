@@ -37,9 +37,6 @@
   "C223GPBL|Feb. 2018": {
    "qty": ""
   },
-  "C223GPRD|Aug. 2019": {
-   "type": "DLT Trading excl."
-  },
   "C223PFGRCWBK|Dec. 2023": {
    "released": "Dec. 2023 -",
    "steel": "Black DLC-coated Cru-Wear",
@@ -86,7 +83,7 @@ Type: 🟥 Sprint Run · 🟦 Dealer/distributor exclusive · 🟪 Other limited
 | 21 | <a href="images/C223/C223GPOR.webp"><img src="images/C223/C223GPOR.webp" width="160"></a> <a href="images/C223/C223GPOR_2.webp"><img src="images/C223/C223GPOR_2.webp" width="160"></a> | C223GPOR | Nov. 16, 2018 @ 10AM MST | Satin CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
 | 22 | <a href="images/C223/C223GPORBK.jpg"><img src="images/C223/C223GPORBK.jpg" width="160"></a> <a href="images/C223/C223GPORBK_2.jpg"><img src="images/C223/C223GPORBK_2.jpg" width="160"></a> | C223GPORBK | Nov. 16, 2018 @ 10AM MST | Black DLC CTS-XHP | Orange G-10 | 🟦 Cutlery Shoppe excl. |  |  |
 | 23 | <a href="images/C223/C223GPBNBK.jpg"><img src="images/C223/C223GPBNBK.jpg" width="160"></a> | C223GPBNBK | Apr. 2019 | Black DLC coated CPM-S35VN | Earth Brown G-10 | 🟦 Moteng excl. |  |  |
-| 24 | <a href="images/C223/C223GPRD.webp"><img src="images/C223/C223GPRD.webp" width="160"></a> | C223GPRD | Aug. 2019 | M390 | Red G-10 | 🟪 Exclusive |  |  |
+| 24 | <a href="images/C223/C223GPRD.webp"><img src="images/C223/C223GPRD.webp" width="160"></a> | C223GPRD | Aug. 2019 | M390 | Red G-10 | 🟦 DLT Trading excl. |  |  |
 | 25 | <a href="images/C223/C223GPRGR.jpg"><img src="images/C223/C223GPRGR.jpg" width="160"></a> | C223GPRGR | Nov. 1, 2019 @ 1pm PST | K390 | Ranger Green G-10 | 🟦 Bento Box Shop excl. |  |  |
 | 26 | <a href="images/C223/C223GPOROD.jpg"><img src="images/C223/C223GPOROD.jpg" width="160"></a> <a href="images/C223/C223GPOROD_2.jpg"><img src="images/C223/C223GPOROD_2.jpg" width="160"></a> | C223GPOROD | Mar. 15, 2020 @ 12pm MDT | Satin CPM REX 45 | Orange and olive drab green G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
 | 27 | <a href="images/C223/C223GPORBL.jpg"><img src="images/C223/C223GPORBL.jpg" width="160"></a> <a href="images/C223/C223GPORBL_2.jpg"><img src="images/C223/C223GPORBL_2.jpg" width="160"></a> | C223GPORBL | Mar. 29, 2020 | Satin CPM REX 45 | Orange and blue G-10 | 🟦 Cutlery Shoppe excl. | 600 |  |
